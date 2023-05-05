@@ -45,6 +45,7 @@ h1{
 
 #tribute-info{
     width: 70%;
+    max-width: 900px;
     margin: auto;
     background-color: #E9E9E9;
     padding: 30px 20px;
