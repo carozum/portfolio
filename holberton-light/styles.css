@@ -1,0 +1,24 @@
+body, 
+main{
+    display: flex;;
+}
+body{
+    flex-direction: column;
+    line-height: 1.3;
+}
+main{
+    flex-direction: row;
+    flex:auto;
+}
+article{
+    flex:2;
+    overflow-y: auto;
+}
+
+aside{
+    flex:1;
+    overflow-y: auto;
+}
+ul{
+
+}
