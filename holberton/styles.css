@@ -105,6 +105,9 @@
     padding-bottom: 20px;
     margin: auto;
 }
+p{
+    line-height: 1.5em;
+}
 .link{
     text-decoration: none;
     text-align: center;
@@ -112,6 +115,14 @@
     background-color: #92721c;
     color: white;
     border-radius: 20px;
+}
+.link-container{
+    text-align: center;
+    margin:auto;
+    padding: 30px 0;
+}
+.bold{
+    font-weight: bold;
 }
 
 /* ---------------- hero section -------------- */
@@ -148,7 +159,6 @@
     width: 70%;
 }
 .about p{
-    line-height: 1.5em;
     padding-left: 15px;
     padding-bottom: 15px;
 }
@@ -189,11 +199,7 @@
     color: #92721c;
     font-weight: bold;
 }
-.more-movies{
-    text-align: center;
-    margin:auto;
-    padding: 30px 0;
-}
+
 
 @media (max-width: 1024px){
     .movie{
@@ -206,6 +212,24 @@
 .more-container{
     background-color: #f1efe5;
     width: 100%;
+}
+.more-row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.more-content{
+    width: 40%;
+}
+.more-contact{
+    text-align: center;
+}
+
+@media (max-width: 1024px){
+    .more-content{
+        width: 100%;
+    }
+
 }
 
 /* -----------------aside---------------------- */
