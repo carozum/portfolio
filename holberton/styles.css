@@ -77,10 +77,15 @@
     margin: 0 auto;
     padding: 50px 0;
   }
+  @media (max-width){
+    section{
+        width: 100%;
+    }
+  }
 
   h1 {
     color: #92721c;
-    font-size: min(5vw, 2em);
+    font-size: min(7vw, 3em);
     text-align: center;
   }
   
