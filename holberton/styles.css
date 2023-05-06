@@ -71,10 +71,6 @@
   /* ----------- main content ----------- */
   main {
     padding-top: 120px;
-    width: 100%;
-  }
-  article{
-    width: 100%;
   }
   
   section {
@@ -83,9 +79,16 @@
     padding: 50px 0;
   }
 
+  @media (max-width:500px){
+    section{
+        width: 100%;
+        padding: 50px 0 30px 0;
+    }
+  }
+
   h1 {
     color: #92721c;
-    font-size: min(7vw, 3em);
+    font-size: min(6vw, 3em);
     text-align: center;
   }
   
@@ -100,6 +103,7 @@
     text-align: center;
     width: 80%;
     line-height: 1.5em;
+    font-size: min(5vw, 2em);
   }
 
 .image{
@@ -112,6 +116,7 @@
 }
 p{
     line-height: 1.5em;
+    width: 100%;;
 }
 .link{
     text-decoration: none;
@@ -143,9 +148,20 @@ p{
     margin-top: 60px;
     width: 100%;
 }
+@media (max-width: 1024px){
+    .hero-separator{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
 
 /* ------------- about ---------------------- */
 .about-container{
+    /* background-color: #f1efe5; */
+    width: 100%;
+}
+.about{
     background-color: #f1efe5;
     width: 100%;
 }
@@ -159,6 +175,7 @@ p{
 .about-img img{
     display: block;
     margin:auto 0;
+    
 }
 .about-content{
     width: 70%;
@@ -198,13 +215,17 @@ p{
 .movie-title{
     padding-bottom: 10px;
     margin-bottom: 10px;
+    padding-left: 5px;
 }
 .movie-link{
     padding:10px 0;
     color: #92721c;
     font-weight: bold;
+    padding-left: 5px;
 }
-
+.movies-container p{
+    padding-left: 5px;
+}
 
 @media (max-width: 1024px){
     .movie{
@@ -226,8 +247,17 @@ p{
 .more-content{
     width: 40%;
 }
+.more-tweets{
+    padding-left:5px;
+    padding-right: 5px;
+}
 .more-contact{
     text-align: center;
+    width: 100%;
+}
+.more-contact p {
+    padding-left:5px;
+    padding-right: 5px;
 }
 
 @media (max-width: 1024px){
