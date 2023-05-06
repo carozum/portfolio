@@ -27,14 +27,12 @@
     top: 0;
   }
   #logo{
-    width: 220px;
+    width: 150px;
   }
   #logo-img {
     width: 100%;
     padding: 0.4rem;
   }
-  
-  
   nav {
     width: 50%;
     max-width: 300px;
@@ -208,6 +206,12 @@
 .more-container{
     background-color: #f1efe5;
     width: 100%;
+}
+
+/* -----------------aside---------------------- */
+aside{
+    text-align: center;
+    padding: 50px 0;
 }
 
 /* -------------- footer ---------------------- */
