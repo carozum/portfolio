@@ -27,11 +27,17 @@ aside{
     flex:1;
     overflow-y: auto;
 }
+
 section {
     width: max(60%, 500px);
     margin: 0 auto;
   }
   @media (max-width:800px){
+    section{
+        width: 70%;
+    }
+  }
+  @media (max-width:500px){
     section{
         width: 100%;
     }
@@ -56,7 +62,14 @@ section {
   h2 {
     margin: 0 auto 10px auto;
     line-height: 1.2em;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
+    font-weight: 800;
+  }
+
+h3{
+    font-size: 1.1rem;
+    font-weight: 600;
+    font-style: italic;
   }
 
 .image{
@@ -93,6 +106,10 @@ p{
     width: 100%;
     margin:0;
 }
+a{
+    color: #92721c;
+    font-weight: 600;
+}
 
 /* ----------------- header ------------ */
 header{
@@ -105,10 +122,13 @@ header a{
 header li a{
 text-transform: uppercase ;
 }
+#logo{
+    width: 170px;
+}
 
-@media (max-width: 600px){
+@media (max-width: 500px){
     #logo{
-        width: 120px;
+        width: 150px;
     }
     header li a{
         margin: 0 5px;
@@ -120,6 +140,14 @@ text-transform: uppercase ;
 .more{
     width: 100%;
 }
+
+.more h2, 
+.contact-me h2 {
+    text-align: center;
+    padding: 40px 0 30px 0;
+}
+
+
 .row{
     display: flex;
     gap: 10px;
@@ -129,10 +157,11 @@ text-transform: uppercase ;
 .col{
     width: 45%;
 }
-.more h2, 
-.contact-me h2 {
-    text-align: center;
-    padding: 40px 0 30px 0;
+.col60{
+    width: 60%;
+}
+.col35{
+    width: 35%;
 }
 @media (max-width: 800px){
     .col{
@@ -141,9 +170,17 @@ text-transform: uppercase ;
     }
 }
 
+/*-------- tweets and links ------------- */
 
-
-
+.page-link{
+    padding: 40px 0;
+}
+.tweet{
+    padding-bottom: 30px;
+}
+.page-link ul li{
+    list-style-type: square;
+}
 
 /* ---------------- MOVIES ----------------- */
 .movies-container{
