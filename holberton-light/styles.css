@@ -1,10 +1,16 @@
+/* --------------- GENERAL containers ------------ */
 body, 
 main{
-    display: flex;;
+    display: flex;
 }
 body{
     flex-direction: column;
     line-height: 1.3;
+    background: #f5f6f7;
+    color: #1b1b32;
+    font-family: Helvetica;
+    margin: 0;
+    width: 100%;
 }
 main{
     flex-direction: row;
@@ -19,6 +25,127 @@ aside{
     flex:1;
     overflow-y: auto;
 }
-ul{
+section {
+    width: max(60%, 500px);
+    margin: 0 auto;
+  }
+  @media (max-width:800px){
+    section{
+        width: 100%;
+    }
+  }
 
+
+  h1 {
+    color: #92721c !important;
+    font-size: min(6vw, 3em);
+    text-align: center;
+    margin-top:0;
+    margin-bottom: 40px;
+  }
+  
+  h1,
+  h2, 
+  h3,
+  a {
+    font-family: Verdana, Tahoma;
+  }
+  
+  h2 {
+    margin: 0 auto 10px auto;
+    line-height: 1.2em;
+    font-size: min(3vw, 1.3em);
+  }
+
+.image{
+    display: block;
+    max-width:100%;
+    height: auto;
+    object-fit: cover;
+    padding-bottom: 20px;
+    margin: auto;
+}
+p{
+    line-height: 1.5em;
+    width: 100%;;
+}
+.link{
+    text-decoration: none;
+    text-align: center;
+    padding:10px 20px;
+    background-color: #92721c;
+    color: white;
+    border-radius: 20px;
+}
+.link-container{
+    text-align: center;
+    margin:auto;
+    padding: 30px 0;
+}
+.bold{
+    font-weight: bold;
+}
+
+/* ----------------- header ------------ */
+header{
+    border-color:#92721c ;
+    background-color: black;
+}
+header a{
+ color: white;
+}
+
+/* ---------------- MOVIES ----------------- */
+.movies-container{
+    width: 100%;
+}
+.movies>p {
+    margin-bottom: 40px;
+}
+.movies-row{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-between;;
+}
+.movie{
+    width: 30%;
+    /* border: 1px solid #92721c; */
+    margin-bottom: 40px;
+}
+
+.movie-title{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+}
+.movie-link{
+    padding:10px 0;
+    color: #92721c;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.movies-container p{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+@media (max-width: 1024px){
+    .movie{
+        width: 100%;
+    }
+}
+
+
+/* --------------- FOOTER ------------ */
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0.9rem;
+}
+footer a{
+    color: white;
 }
