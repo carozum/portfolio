@@ -15,10 +15,12 @@ body{
 main{
     flex-direction: row;
     flex:auto;
+    padding: 0;
 }
 article{
     flex:2;
     overflow-y: auto;
+    background-color: white;
 }
 
 aside{
@@ -85,6 +87,11 @@ p{
 .bold{
     font-weight: bold;
 }
+.bglight{
+    background-color: #FAFAFA;
+    width: 100%;
+    margin:0;
+}
 
 /* ----------------- header ------------ */
 header{
@@ -94,6 +101,51 @@ header{
 header a{
  color: white;
 }
+header li a{
+text-transform: uppercase ;
+}
+
+@media (max-width: 600px){
+    #logo{
+        width: 120px;
+    }
+    header li a{
+        margin: 0 5px;
+        text-transform: lowercase;
+    }
+}
+
+/* --------------home -------------- */
+.more{
+    width: 100%;
+}
+.row{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.col{
+    width: 45%;
+}
+.more h2, 
+.contact-me h2 {
+    text-align: center;
+    padding: 40px 0 30px 0;
+}
+@media (max-width: 800px){
+    .col{
+     width: 70%;
+     margin: auto;
+    }
+}
+
+
+
+
+
+
+
 
 /* ---------------- MOVIES ----------------- */
 .movies-container{
