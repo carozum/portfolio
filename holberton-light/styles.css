@@ -56,7 +56,7 @@ section {
   h2 {
     margin: 0 auto 10px auto;
     line-height: 1.2em;
-    font-size: min(3vw, 1.3em);
+    font-size: 1.2rem;
   }
 
 .image{
@@ -69,7 +69,7 @@ section {
 }
 p{
     line-height: 1.5em;
-    width: 100%;;
+    width: 100%;
 }
 .link{
     text-decoration: none;
@@ -79,6 +79,7 @@ p{
     color: white;
     border-radius: 20px;
 }
+
 .link-container{
     text-align: center;
     margin:auto;
@@ -111,7 +112,7 @@ text-transform: uppercase ;
     }
     header li a{
         margin: 0 5px;
-        text-transform: lowercase;
+        text-transform: capitalize;
     }
 }
 
@@ -139,9 +140,6 @@ text-transform: uppercase ;
      margin: auto;
     }
 }
-
-
-
 
 
 
