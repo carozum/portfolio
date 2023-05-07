@@ -50,6 +50,7 @@ section {
     text-align: center;
     margin-top:0;
     margin-bottom: 40px;
+    font-weight: 900;
   }
   
   h1,
@@ -225,13 +226,20 @@ text-transform: uppercase ;
 }
 
 
+/* --------------CAMEOS ----------------- */
+.gallery{
+    text-align: center;
+}
+
 /* --------------- FOOTER ------------ */
 footer{
     background-color: black;
     color: white;
-    text-align: center;
-    padding: 20px 0;
     font-size: 0.9rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 footer a{
     color: white;
