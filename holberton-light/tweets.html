@@ -105,11 +105,9 @@
                 </div>
             </section>
 
-
-
         </article>
         <aside>
-            Placeholder to add a comment thread later.
+            <div id="disqus_thread"></div>
         </aside>
 
     </main>
@@ -117,6 +115,24 @@
         Made by Caroline Zumbiehl for
         <a href="https://apply.holbertonschool.com" target="_blank">Holberton School</a>
     </footer>
+
+    <script>
+
+        var disqus_config = function () {
+            this.page.url = 'http://52.47.101.75/tweets.html';
+            this.page.identifier = 'tweets';
+        };
+
+        (function () { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://hitchcock.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+
 </body>
 
 </html>
