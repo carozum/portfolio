@@ -136,6 +136,11 @@ text-transform: uppercase ;
         text-transform: capitalize;
     }
 }
+@media (max-width:800px){
+    .sharing{
+        display: none;
+    }
+}
 
 /* --------------home -------------- */
 .more{

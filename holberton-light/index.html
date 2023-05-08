@@ -5,6 +5,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:url" content="http://52.47.101.75/index.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Alfred Hitchcock tribute page" />
+    <meta property="og:description" content="About Alfred Hitchcock's life, movies and cameos." />
+    <meta property="og:image"
+        content="https://i.f1g.fr/media/figarofr/orig/2011/01/03/7d761244-1721-11e0-9fb5-2ddf8cb2c56e.jpg" />
+
     <link rel="shortcut icon"
         href="https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/07/22/18/418490.jpg?quality=75&width=1200&auto=webp"
         type="image/x-icon">
@@ -16,7 +23,14 @@
 
 <body class="works_on_smartphone">
     <header>
-
+        <div class="right sharing">
+            <div class="fb-share-button" data-href="http://52.47.101.75/index.html" data-layout="button_count">
+            </div>
+            <div>
+                <a class="twitter-share-button bglight" href="https://twitter.com/intent/tweet" style="color:black">
+                    Tweet</a>
+            </div>
+        </div>
         <ul>
             <li><a href="index.html"><img src="https://media.timeout.com/images/105660662/1372/772/image.jpg"
                         alt="Hitchcock black and white showing his hands" id="logo" width="150px"></a></li>
@@ -25,8 +39,8 @@
             <li><a href="cameos.html">Cameos</a></li>
         </ul>
 
-
     </header>
+
     <main>
         <article>
             <h1>Alfred Hitchcock - The master of thrills, pure adrenaline!</h1>
@@ -84,10 +98,11 @@
                 <div class="row">
                     <div class="col">
                         <img src="https://www.shutterstock.com/shutterstock/videos/1090684569/thumb/1.jpg?ip=x480"
-                            alt="black and white profile woman having a phone call" class="image" width="200px">
+                            alt="black and white profile woman having a phone call" class="image" width="200">
                     </div>
-                    <div class="col">Part of Hitchcock’s fame was due to the self-referential and often humorous
-                        appearances he made in 39 of his movies.</p>
+                    <div class="col">
+                        <p>Part of Hitchcock’s fame was due to the self-referential and often humorous
+                            appearances he made in 39 of his movies.</p>
                         <p class="link-container"><a href="cameos.html" class="link">Cameos?</a></p>
                     </div>
                 </div>
@@ -105,9 +120,16 @@
             <a href="https://apply.holbertonschool.com" target="_blank">Holberton School</a>
         </p>
     </footer>
+    <div id="fb-root"></div>
+    <script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
     <script>
-
-
         var disqus_config = function () {
             this.page.url = 'http://52.47.101.75/index.html';
             this.page.identifier = 'index';
