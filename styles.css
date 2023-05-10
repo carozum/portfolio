@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5rem;
+    color: #1a2520;
+}
+.freecodecamp-container,
+.holberton-container,
+.skills-container{
+    padding: 3rem 0;
+}
+section{
+    max-width: 60%;
+    margin: auto;
+}
+@media (min-width: 501px) and (max-width: 882px){
+    section{
+        max-width: 70%;
+    } 
+}
+@media (max-width: 500px){
+    section{
+        max-width: 90%;
+    } 
+} 
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-evenly;
+}
+.item{
+    flex:1;
+    border: 1px solid #597d6e;
+    padding: 0.5rem;
+    min-width: 250px;
+    background-color: white;
+    box-shadow: 4px 4px 3px 1px #597d6e;
+}
+.row::after{
+    content:"";
+    flex:1;
+    min-width: 250px;
+    padding: 0.5rem;
+}
+
+/* header and footer */
+
+.hero, 
+footer{
+    text-align: center;
+    background-color: #597d6e; 
+    color: white;
+}
+.hero h1{
+    color: white;
+}
+.hero{
+    padding: 5rem;
+}
+footer{
+    padding: 1rem;
+    font-size: 0.95rem;
+}
+footer address{
+    color: inherit;
+}
+
+
+/* ---------------- holberton ------------------- */
+.holberton-container{
+    background-color: rgb(223, 230, 227);
+}
