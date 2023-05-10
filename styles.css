@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    line-height: 1.5rem;
+    line-height: 1.5em;
     color: #1a2520;
 }
 body{
@@ -64,7 +64,6 @@ footer{
 }
 .hero h1{
     color: white;
-    line-height: 2rem;
 }
 .hero{
     padding: 5rem;
@@ -78,8 +77,7 @@ footer address{
 }
 
 .project-image{
-    display: block;
-    max-width: 100%;
+    width: 100%;
     height: auto;
     object-fit: cover;
     padding-bottom: 20px;
