@@ -1,0 +1,85 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Times;
+    font-style: italic;
+}
+
+p {
+    font-family: Times;
+    font-size: 18px;
+    text-align: justify;
+}
+
+header{
+  /*détails*/
+  text-align: center;
+  width: 100%;
+  padding: 30px;
+  background: url("images/eau.jpeg") no-repeat center center fixed; 
+  background-size: cover;
+            
+}
+
+
+main{
+  margin: 30px auto;
+  width: 60%;
+}
+
+
+a{
+  font-size:20px;
+}
+
+body {
+  margin: 0;
+}
+
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+    transform: scale(1.5);
+}
+
+
+footer { 
+  background: url("images/eau.jpeg") no-repeat center center;
+  color:white;
+  text-align: center;
+  padding:10px;
+  background-size: cover;
+  width: 100%;
+}
+
+
+
