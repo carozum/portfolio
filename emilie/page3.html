@@ -1,73 +1,75 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-  <head>
-    <meta charset="utf-8">
-    <title>Emilie Zumbiehl</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emilie Zumbiehl</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
 
-  <body>
+<body>
 
-    <header>
-      <h1>Galerie</h1>
+  <header>
+    <h1>Galerie</h1>
+  </header>
 
+  <menu>
+    <ul>
+      <li>
+        <a href="index.html">Aloha</a>
+      </li>
+      <li>
+        <a href="page2.html">Activités</a>
+      </li>
+      <li>
+        <a href="page3.html">Galerie</a>
+      </li>
+    </ul>
+  </menu>
 
-    </header>
+  <main class="main">
 
-   <menu>
-      <ul>
-        <li>
-          <a href="index.html">Aloha</a> 
-        </li>
-        <li>
-          <a href="page2.html">Activités</a> 
-        </li>
-        <li>
-          <a href="page3.html">Galerie</a>
-        </li> 
-      </ul>
-   </menu>
-
-    <main>
-
-			<h2>Galerie de photo</h2>
-			<p><i>passez vorte curseur sur les photos: elles s'agrandissent</i></p>
-			<img class="hvr-grow" src="images/baie.jpeg" width="200"/>
-			<img class="hvr-grow" src="images/sunset.jpeg" width="200"/>
-			<img class="hvr-grow" src="images/couchersoleil.jpeg" width="200"/>
-			<img class="hvr-grow" src="images/vague.jpeg" width="200"/>
-			<img class="hvr-grow" src="images/bois.jpeg" width="200"/>
-			<img class="hvr-grow" src="images/snack.jpeg" width="200"/>
-   
-     		<h2>Cliquez sur les boutons pour changer le paysage</h2>
-  			<img id="image" src="images/jour.png" width="600">
-  			<br/>
-  			<br>
-  			<button type="button" onclick="changeAttributF()">Jour</button>
-	   		<button type="button" onclick="changeAttributO()">Nuit</button>
-	   		
-      
-    </main>
-
-    <footer>
-       Copyright &copy EMILIE ZUMBIEHL;
-    </footer>
-
-  
-<script type="text/javascript">
-	function changeAttributF(){
-document.getElementById('image').src='images/jour.png'
-};
-function changeAttributO(){
-document.getElementById('image').src='images/nuit.png'};
- 
-
-</script>
+    <h2>Galerie de photo</h2>
+    <p><i>passez vorte curseur sur les photos: elles s'agrandissent</i></p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 70px">
+      <img class="hvr-grow" src="images/baie.jpeg" width="200" />
+      <img class="hvr-grow" src="images/sunset.jpeg" width="200" />
+      <img class="hvr-grow" src="images/couchersoleil.jpeg" width="200" />
+      <img class="hvr-grow" src="images/vague.jpeg" width="200" />
+      <img class="hvr-grow" src="images/bois.jpeg" width="200" />
+      <img class="hvr-grow" src="images/snack.jpeg" width="200" />
+    </div>
 
 
-	</body>
+    <h2>Cliquez sur les boutons pour changer le paysage ci dessous</h2>
+    <img id="image" src="images/jour.png" class="jour">
+    <br />
+    <br>
+    <button type="button" onclick="changeAttributF()">Jour</button>
+    <button type="button" onclick="changeAttributO()">Nuit</button>
+
+
+  </main>
+
+  <footer>
+    Copyright &copy EMILIE ZUMBIEHL;
+  </footer>
+
+
+  <script type="text/javascript">
+    function changeAttributF() {
+      document.getElementById('image').src = 'images/jour.png'
+    };
+    function changeAttributO() {
+      document.getElementById('image').src = 'images/nuit.png'
+    };
+
+
+  </script>
+
+
+</body>
+
 </html>
-      
-   
