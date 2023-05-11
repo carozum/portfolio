@@ -26,15 +26,18 @@ iframe{
   aspect-ratio: calc(560/315);
 }
 
-.jour{
+.jour {
   width:100%;
+  height: auto;
+  object-fit: cover;
   margin: auto;
 }
 
-
 .main{
+  margin: 0;
   margin: 30px auto;
   width: 60%;
+  
 }
 
 a{
@@ -43,6 +46,7 @@ a{
 
 body {
   margin: 0;
+  width: 100%;
 }
 
 table {
@@ -98,7 +102,7 @@ footer {
   .hvr-grow:hover,
 .hvr-grow:focus,
 .hvr-grow:active {
-    transform: scale(1.8);
+    transform: scale(1.9);
 }
 
 }
