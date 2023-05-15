@@ -1,4 +1,9 @@
+// objects definition 
+
+// 1 - using initializer
 var circle;
+
+// 2 - using constructor function
 var aSquare;
 
 function setup(){
