@@ -30,11 +30,27 @@ function draw(){
         ellipse(random(width), random(height), randomSize, randomSize);
     }
     pressed = false;
+
+    // to display text at the beginning 
     if(showText){
         fill(255);
-        textSize(48)
-        text('Please press any key to start', width/2, height/2);
+        if (innerWidth >=500){
+            textSize(48);
+            text('Please press any key to start', width/2, height/2);
+        } else {
+            textSize(24);
+            text('touch screen to start', width/2, height/2);
+        }
+        
     } 
+
+    // to interact on mobile
+    for (var i=0; i <=touches.length; i++){
+        var randomIndex = parseInt(random(colors.length));
+        var randomSize = random(200);
+        fill(colors[randomIndex]);
+        ellipse(random(width), random(height), randomSize, randomSize);
+    }
 }
 
 
@@ -56,6 +72,7 @@ function keyPressed(){
         console.log('yes');
     } 
 }
+
 
 
 
