@@ -1,8 +1,10 @@
 //each time a key is pressed, a circle appears on the canvas. Be careful to change the background to be set only once, otherwise, the background clears every shape each time the draw function is executed. 
 
 var pressed = false;
+let touch = false;
 var colors = [];
 let showText;
+
 
 function setup(){
     createCanvas (window.innerWidth, window.innerHeight);
@@ -23,7 +25,7 @@ function setup(){
 
 function draw(){
     // display an ellipse each time a key is pressed
-    if (pressed === true){
+    if (pressed === true || touch === true){
         var randomIndex = parseInt(random(colors.length));
         var randomSize = random(200);
         fill(colors[randomIndex]);
@@ -39,18 +41,9 @@ function draw(){
             text('Please press any key to start', width/2, height/2);
         } else {
             textSize(24);
-            text('touch screen to start', width/2, height/2);
+            text('Touch screen to start', width/2, height/2);
         }
-        
     } 
-
-    // to interact on mobile
-    for (var i=0; i <=touches.length; i++){
-        var randomIndex = parseInt(random(colors.length));
-        var randomSize = random(200);
-        fill(colors[randomIndex]);
-        ellipse(random(width), random(height), randomSize, randomSize);
-    }
 }
 
 
@@ -71,6 +64,14 @@ function keyPressed(){
     if (key === 'a'){
         console.log('yes');
     } 
+}
+
+function touchStarted(){
+    touch = true;
+    if (showText){
+        showText = false;
+        background(15); 
+    }
 }
 
 
