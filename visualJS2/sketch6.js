@@ -5,9 +5,8 @@ let touch = false;
 var colors = [];
 let showText;
 
-
-function setup(){
-    createCanvas (window.innerWidth, window.innerHeight);
+function setup() {
+  createCanvas (window.innerWidth, window.innerHeight);
     background(15);
     colors =[
         [245, 3, 155],
@@ -23,29 +22,30 @@ function setup(){
     textAlign(CENTER, CENTER);
 }
 
-function draw(){
-    // display an ellipse each time a key is pressed
-    if (pressed === true || touch === true){
+function draw() {
+  
+  if (pressed === true || touch === true){
         var randomIndex = parseInt(random(colors.length));
         var randomSize = random(200);
         fill(colors[randomIndex]);
         ellipse(random(width), random(height), randomSize, randomSize);
     }
+    touch = false;
     pressed = false;
-
-    // to display text at the beginning 
+    
+  
+  // to display text at the beginning 
     if(showText){
         fill(255);
         if (innerWidth >=500){
-            textSize(48);
-            text('Please press any key to start', width/2, height/2);
+            textSize(36);
+            text('Please press any key to draw.', width/2, height/2);
         } else {
             textSize(24);
             text('Touch screen to start', width/2, height/2);
         }
     } 
 }
-
 
 function keyPressed(){
     //console.log('pressed');
@@ -54,7 +54,7 @@ function keyPressed(){
         showText = false;
         background(15); 
     }
-    
+
     // key code is good for non alphanumeric characters
     if (keyCode === ENTER){
         console.log('enter key pressed');
@@ -73,9 +73,6 @@ function touchStarted(){
         background(15); 
     }
 }
-
-
-
 
 
 
