@@ -1,5 +1,3 @@
-
-
 var guessItem = null;
 var interval = 60;
 var results = [];
@@ -7,7 +5,7 @@ var solution = null;
 var gameOver = false;
 
 function setup() {
-  createCanvas(800, 300);
+  createCanvas(innerWidth, innerHeight);
 }
 
 function draw() {
