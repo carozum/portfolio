@@ -7,14 +7,109 @@
 body{
     margin: 0;
 }
-.freecodecamp-container,
-.holberton-container,
-.skills-container{
+/* --------------------- navigation --------------*/
+
+header{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(69, 95, 84);
+    position: fixed;
+    top: 0;
+}
+
+#logo{
+    height: 80px;
+    padding: 0.3rem;
+}
+nav{
+    width: 50%;
+    height: 80px;
+    max-width: 800px;
+}
+@media(max-width:800px){
+    nav{
+        width: 90%;
+    }
+}
+@media(max-width: 500px){
+    nav{
+        width: 80%;
+    }
+    nav>ul{
+        flex-wrap: nowrap;
+        flex-direction: column;
+        justify-content:flex-start;
+    }
+    nav>ul>li{
+        font-size: 16px;
+    }
+    #logo-link{
+        vertical-align: center;
+    }
+    #logo{
+        width: 70px;
+        height: auto;
+        margin-top: 12px
+    }
+}
+nav>ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-inline-start: 0;
+    margin-block: 0;
+    height: 100%;
+}
+nav>ul>li{
+    margin: 0 0.2rem;
+    padding: 0.4rem;
+    display: block;
+}
+nav>ul>li a{
+    color:white;
+    text-decoration: none;
+}
+
+
+/* hero and footer */
+
+.hero, 
+footer{
+    text-align: center;
+    background-color: #597d6e; 
+    color: white;
+}
+.hero h1{
+    color: white;
+}
+.hero{
+    padding: 5rem;
+    margin-top: 80px
+}
+footer{
+    padding: 1rem;
+    font-size: 0.95rem;
+}
+footer address{
+    color: inherit;
+}
+
+.project-image{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding-bottom: 20px;
+    margin: auto;
+}
+
+
+.container{
     padding: 4rem 0;
 }
-.freecodecamp-container h2,
-.holberton-container h2,
-.skills-container h2{
+.container h2{
     margin-top: 0;
     padding-bottom: 20px;
     text-align: center;
@@ -54,37 +149,8 @@ section{
     padding: 0.5rem;
 }
 
-/* header and footer */
-
-.hero, 
-footer{
-    text-align: center;
-    background-color: #597d6e; 
-    color: white;
-}
-.hero h1{
-    color: white;
-}
-.hero{
-    padding: 5rem;
-}
-footer{
-    padding: 1rem;
-    font-size: 0.95rem;
-}
-footer address{
-    color: inherit;
-}
-
-.project-image{
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    padding-bottom: 20px;
-    margin: auto;
-}
 
 /* ---------------- holberton ------------------- */
-.holberton-container{
+.light-container{
     background-color: rgb(223, 230, 227);
 }
