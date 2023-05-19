@@ -7,9 +7,12 @@ class Book{
         heroAge,
         heroName,
         heroType,
-        isFinished,
+        readStatus,
         startDate,
         currentDate,
+        pubYear,
+        ISBN,
+        link,
     ){
         this.title = title;
         this.author = author;
@@ -22,22 +25,25 @@ class Book{
             heroName : heroName,
             heroType: heroType,
         };
-        this.isFinished = isFinished;
+        this.readStatus = readStatus;
         this.dates = {
             startDate: startDate,
             currentDate : currentDate,
         };
+        this.pubYear = pubYear;
+        this.ISBN = ISBN;
+        this.link = link;
     }
 
-    updatePages(currentPage){
-        this.page.currentPage = currentPage;
+    updateCurrentPage(newCurrentPage){
+        this.page.currentPage = newCurrentPage;
     }
 
-    changeStatus(currentPage){
+    updateReadStatus(currentPage){
         if (currentPage === this.nbPages){
-            this.isFinished = true;
+            this.readStatus = true;
         } else { 
-            this.isFinished = false;
+            this.readStatus = false;
         }
     }
 
