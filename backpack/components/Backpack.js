@@ -1,5 +1,7 @@
+// Set up the Backpack class
 class Backpack {
   constructor(
+    id,
     name,
     volume,
     color,
@@ -10,6 +12,7 @@ class Backpack {
     dateAcquired,
     image
   ) {
+    this.id = id;
     this.name = name;
     this.volume = volume;
     this.color = color;
@@ -38,4 +41,5 @@ class Backpack {
   }
 }
 
+// Export the Backpack class to be used by other files
 export default Backpack;

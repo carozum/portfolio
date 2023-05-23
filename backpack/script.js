@@ -1,56 +1,15 @@
+/**
+ * Challenge: Create an advanced function.
+ * - Loop through backpackObjectArray to create an article with the class "backpack".
+ * - Give the article the ID of the current backpack object.
+ * - Set the inner HTML of the article to the existing HTML output provided in const content.
+ * - Append each backpack object to the <main> element.
+ */
 
-import Backpack from "./Backpack.js";
-
-const everydayPack = new Backpack(
-  "Everyday Backpack",
-  30,
-  "grey",
-  15,
-  26,
-  26,
-  false,
-  "December 5, 2018 15:00:00 PST",
-  "./assets/images/everyday.svg"
-);
-
-const content = `
-  
-    <figure class="backpack__image">
-      <img src=${everydayPack.image} alt="" />
-    </figure>
-    <h1 class="backpack__name">Everyday Backpack</h1>
-    <ul class="backpack__features">
-      <li class="packprop backpack__volume">Volume:<span> ${
-        everydayPack.volume
-      }l</span></li>
-      <li class="packprop backpack__color">Color:<span> ${
-        everydayPack.color
-      }</span></li>
-      <li class="backpack__age">Age:<span> ${everydayPack.backpackAge()} days old</span></li>
-      <li class="packprop backpack__pockets">Number of pockets:<span> ${
-        everydayPack.pocketNum
-      }</span></li>
-      <li class="packprop backpack__strap">Left strap length:<span> ${
-        everydayPack.strapLength.left
-      } inches</span></li>
-      <li class="packprop backpack__strap">Right strap length:<span> ${
-        everydayPack.strapLength.right
-      } inches</span></li>
-      <li class="packprop backpack__lid">Lid status:<span> ${
-        everydayPack.lidOpen ? "open" : "close"
-      }</span></li>
-    </ul>
-  
-`;
+import backpackObjectArray from "./components/data.js";
 
 const main = document.querySelector(".maincontent");
 
-const newArticle = document.createElement("article");
-newArticle.classList.add("backpack");
-newArticle.setAttribute("id", "everyday");
-newArticle.innerHTML = content;
-
-main.append(newArticle);
 
 // create navBar
 const mainNav = document.createElement("nav");
@@ -67,4 +26,56 @@ mainNav.classList.add("main-nav");
 mainNav.append(mainNavList);
 
 document.querySelector(".siteheader").append(mainNav);
+
+
+// create Articles section with each backpack
+
+//** map through the array of objects and make a new array of elements
+const allBackpack = backpackObjectArray.map((itemObject) =>{
+  // itemObject holds a single object
+
+  // create new article
+  const newArticle = document.createElement("article");
+  
+  // set article id and class
+  newArticle.classList.add("backpack");
+  newArticle.setAttribute("id", itemObject.id);
+
+  // set article content
+  const content = `
+    <figure class="backpack__image">
+      <img src=${itemObject.image} alt="" />
+    </figure>
+    <h1 class="backpack__name">${itemObject.name}</h1>
+    <ul class="backpack__features">
+      <li class="packprop backpack__volume">Volume:<span> ${
+        itemObject.volume
+      }l</span></li>
+      <li class="packprop backpack__color">Color:<span> ${
+        itemObject.color
+      }</span></li>
+      <li class="backpack__age">Age:<span> ${itemObject.backpackAge()} days old</span></li>
+      <li class="packprop backpack__pockets">Number of pockets:<span> ${
+        itemObject.pocketNum
+      }</span></li>
+      <li class="packprop backpack__strap">Left strap length:<span> ${
+        itemObject.strapLength.left
+      } inches</span></li>
+      <li class="packprop backpack__strap">Right strap length:<span> ${
+        itemObject.strapLength.right
+      } inches</span></li>
+      <li class="packprop backpack__lid">Lid status:<span> ${
+        itemObject.lidOpen ? "open" : "close"
+      }</span></li>
+    </ul>
+  `;
+  newArticle.innerHTML = content;
+
+  return newArticle;
+
+});
+
+allBackpack.forEach((item) => {
+  main.append(item);
+});
 
