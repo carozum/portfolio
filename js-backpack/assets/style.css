@@ -5,6 +5,7 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
   font-size: 1.6em;
+  width: 100vw;
 }
 
 h1,
@@ -33,7 +34,7 @@ figure {
 .site-title {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 200;
 }
 
