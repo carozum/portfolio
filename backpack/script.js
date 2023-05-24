@@ -44,7 +44,7 @@ const allBackpack = backpackObjectArray.map((itemObject) =>{
   // set article content
   const content = `
     <figure class="backpack__image">
-      <img src=${itemObject.image} alt="" />
+      <img src=${itemObject.image} alt="" loading="lazy" />
     </figure>
     <h1 class="backpack__name">${itemObject.name}</h1>
     <ul class="backpack__features">
@@ -64,13 +64,23 @@ const allBackpack = backpackObjectArray.map((itemObject) =>{
       <li class="packprop backpack__strap">Right strap length:<span> ${
         itemObject.strapLength.right
       } inches</span></li>
-      <li class="packprop backpack__lid">Lid status:<span> ${
-        itemObject.lidOpen ? "open" : "close"
-      }</span></li>
+      <li class="packprop backpack__lid">Lid status:<span>${
+        itemObject.lidOpen?"open":"close"} </span></li>
     </ul>
+    <button class="lid-toggle" >Open lid</button>
   `;
   newArticle.innerHTML = content;
 
+
+   // adding event listener
+const button = newArticle.querySelector(".lid-toggle");
+const status = newArticle.querySelector(".backpack__lid span");
+
+button.addEventListener("click", (event) => {
+  status.innerText === "open" ? status.innerText = "close" : status.innerText = "open";
+  console.log(event);
+});
+  
   return newArticle;
 
 });
@@ -78,4 +88,6 @@ const allBackpack = backpackObjectArray.map((itemObject) =>{
 allBackpack.forEach((item) => {
   main.append(item);
 });
+
+
 
