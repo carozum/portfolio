@@ -1,7 +1,10 @@
+* {
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.6em;
 }
 
 h1,
@@ -17,11 +20,14 @@ figure {
   margin: 0;
 }
 
+/* --------------- site-header ---------------- */
 .siteheader {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2rem;
+  padding: 2rem 0;
+  width: 80%;
+ margin: auto;
 }
 
 .site-title {
@@ -38,6 +44,38 @@ figure {
   content: "⚍⚌⚍";
 }
 
+/* main-nav */
+.main-nav{
+  width: 100%;
+}
+
+.main-nav ul{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 3rem 0 0 0;
+  margin: 0 auto;
+}
+.main-nav ul a{
+  display: block;
+  padding: 0.5rem 0;
+  color: inherit;
+}
+
+
+@media(max-width: 700px){
+  .main-nav ul{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .main-nav ul li{
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* -------------- main content --------------- */
 .maincontent {
   margin: 0 auto;
   padding: 0 1rem;
@@ -61,6 +99,8 @@ figure {
   width: 4rem;
 }
 
+/* article class="backpack" */
+
 .backpack {
   margin-bottom: 4rem;
   /* padding-bottom: rem; */
@@ -68,6 +108,18 @@ figure {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto 1fr;
   gap: 0 3rem;
+}
+@media(max-width: 700px){
+  .backpack{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  figure{
+    width: 80%;
+  }
+
 }
 
 .backpack:after {
@@ -92,6 +144,7 @@ figure {
   line-height: 1;
   text-transform: uppercase;
   border-bottom: 3px solid black;
+  text-align: center;
 }
 
 .backpack__features {
@@ -102,6 +155,9 @@ figure {
 
 .backpack__features li {
   padding: 0.2rem 0;
+}
+.backpack__features li:last-child{
+  padding-bottom: 2rem;
 }
 
 /* Subgrid. See https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Subgrid */
@@ -119,8 +175,10 @@ figure {
   }
 }
 
+/* button */
 .lid-toggle {
   display: inline-block;
+  width: 80%;
   border: 3px solid black;
   border-radius: 0.3rem;
   padding: 2rem;
@@ -137,6 +195,7 @@ figure {
   background-color: black;
   color: white;
 }
+/* ----- footer ----------- */
 
 .sitefooter {
   margin-top: 8rem;
@@ -148,17 +207,4 @@ figure {
 }
 
 
-/* main-nav */
 
-.main-nav ul{
-  display: flex;
-  justify-content: space-between;
-  list-style-type: none;
-  padding: 3rem 0 0 0;
-  margin: 0;
-}
-.main-nav ul a{
-  display: block;
-  padding: 0.5rem 1rem;
-  color: inherit;
-}

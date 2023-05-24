@@ -46,7 +46,7 @@ const allBackpack = backpackObjectArray.map((itemObject) =>{
     <figure class="backpack__image">
       <img src=${itemObject.image} alt="" loading="lazy" />
     </figure>
-    <h1 class="backpack__name">${itemObject.name}</h1>
+    <h3 class="backpack__name">${itemObject.name}</h3>
     <ul class="backpack__features">
       <li class="packprop backpack__volume">Volume:<span> ${
         itemObject.volume
