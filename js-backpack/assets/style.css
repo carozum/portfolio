@@ -64,6 +64,9 @@ figure {
 
 
 @media(max-width: 700px){
+  /* body{
+    font-size: 1.4em;
+  } */
   .main-nav ul{
     flex-wrap: wrap;
     justify-content: center;
