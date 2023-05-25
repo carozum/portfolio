@@ -69,6 +69,52 @@ const lidToggle = function(event, message, button){
 
  }
 
+//  ******************* create the 2 input forms
+const createInput = function(strap){
+
+  // create the form
+  const parentId = strap.parentElement.parentElement.id
+  let form = document.createElement("form");
+
+  let input = document.createElement("input");
+  input.setAttribute("type", "number");
+  input.setAttribute("id", `${parentId}-${strap.getAttribute("data-side")}`);
+  input.setAttribute("name", `${parentId}-${strap.getAttribute("data-side")}`);
+
+  let button = document.createElement("button");
+  button.innerText="Update";
+  button.setAttribute("type", "submit")
+  button.setAttribute("id", `btn-${parentId}-${strap.getAttribute("data-side")}`);
+  button.style.marginLeft ="16px";
+
+  // append the for to the strap
+  form.append(input);
+  form.append(button)
+  strap.append(form)
+
+  // add an event listener when the form is submitted
+  form.addEventListener("submit", (event) =>{
+    event.preventDefault();
+    console.log(form.elements[0].value)
+    const displayValue = strap.querySelector("span");
+    displayValue.innerText = form.elements[0].value;
+    
+    // change the size of the strap
+    let strapObject = backpackObjectArray.find(({id}) => 
+    id === parentId
+    )
+
+    if (strap.getAttribute("data-side") === "left"){
+    strapObject.strapLength.left = parseInt(form.elements[0].value);
+    } else {
+    strapObject.strapLength.right = parseInt(form.elements[0].value);
+    }
+    console.log(strapObject)
+  })
+  
+  return input;
+}
+
 
 // ******************** create Articles section with each backpack
 
@@ -97,15 +143,15 @@ const allBackpack = backpackObjectArray.map((itemObject) =>{
         itemObject.color
       }</span></li>
       <li class="backpack__age">Age:<span> ${itemObject.backpackAge()} days old</span></li>
-      <li class="packprop backpack__pockets" data-side="left">Number of pockets:<span> ${
+      <li class="packprop backpack__pockets" >Number of pockets:<span> ${
         itemObject.pocketNum
       }</span> inches</li>
-      <li class="packprop backpack__strap" data-side="right">Left strap length:<span> ${
+      <li class="packprop backpack__strap" data-side="left">Left strap length: <span> ${
         itemObject.strapLength.left
       } inches</span> inches</li>
-      <li class="packprop backpack__strap">Right strap length:<span> ${
+      <li class="packprop backpack__strap" data-side="right">Right strap length: <span> ${
         itemObject.strapLength.right
-      } inches</span></li>
+      } </span> inches</li>
       <li class="packprop backpack__lid">Lid status:<span>${
         itemObject.lidOpen?"open":"close"} </span></li>
     </ul>
@@ -118,6 +164,13 @@ const allBackpack = backpackObjectArray.map((itemObject) =>{
   button.addEventListener("click", (event) => {
     lidToggle(event, message, button)
   });
+
+  // creating 2 input fields with submit buttons
+  const straps = newArticle.querySelectorAll(".backpack__strap")
+  straps.forEach( (strap) => {
+    createInput(strap)
+  });
+
 
   return newArticle;
 
