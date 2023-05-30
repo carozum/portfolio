@@ -95,10 +95,11 @@ const createInput = function(strap){
   // add an event listener when the form is submitted
   form.addEventListener("submit", (event) =>{
     event.preventDefault();
-    console.log(form.elements[0].value)
+   
     const displayValue = strap.querySelector("span");
     displayValue.innerText = form.elements[0].value;
-    
+    form.elements[0].value = "";
+
     // change the size of the strap
     let strapObject = backpackObjectArray.find(({id}) => 
     id === parentId
