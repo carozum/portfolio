@@ -1,0 +1,7530 @@
+[{
+  "id": "7097108",
+  "type": "RESTAURANT",
+  "name": "BRASSERIE L'ENDROIT",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/50/27/c6/pele-mele.jpg",
+  "awards": [],
+  "rankingPosition": "41",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 63 62 19",
+  "address": "12 Rue de L'industrie, 64600 Anglet France",
+  "email": "brasserie.lendroit@orange.fr",
+  "cuisine": [
+    "Française",
+    "Bar"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    []
+  ],
+  "latitude": "43.495834",
+  "longitude": "-1.495833",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d7097108-Reviews-BRASSERIE_L_ENDROIT-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.brasserie-lendroit.fr/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 41 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 57,
+  "reviews": []
+},
+{
+  "id": "13553961",
+  "type": "RESTAURANT",
+  "name": "Côté Sushi",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/2e/5f/1e/cote-sushi.jpg",
+  "awards": [],
+  "rankingPosition": "40",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 33 06 11 00",
+  "address": "1, Avenue de Maignon, 64600 Anglet France",
+  "email": "anglet@cotesushi.com",
+  "cuisine": [
+    "Japonaise",
+    "Péruvienne",
+    "Sushi",
+    "Fusion",
+    "Asiatique",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1410
+      }
+    ]
+  ],
+  "latitude": "43.481613",
+  "longitude": "-1.509203",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d13553961-Reviews-Cote_Sushi-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://cotesushi.com/carte",
+  "rankingDenominator": "177",
+  "rankingString": "N° 40 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 120,
+  "reviews": []
+},
+{
+  "id": "20956867",
+  "type": "RESTAURANT",
+  "name": "Kokot Nomad",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/64/cc/aa/bienvenue.jpg",
+  "awards": [],
+  "rankingPosition": "34",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 08 16 42 42",
+  "address": "4 bis chemin de Jorlis, 64600 Anglet France",
+  "email": "kokotnomad@gmail.com",
+  "cuisine": [
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    []
+  ],
+  "latitude": "43.500507",
+  "longitude": "-1.494939",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d20956867-Reviews-Kokot_Nomad-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://kokotnomad.fr/?fbclid=IwAR3CnKmBsEs3ja4VpgyChq95I8Wu6t-0P4E_vFlTj5XrnElujMtwZyQiQLM",
+  "rankingDenominator": "177",
+  "rankingString": "N° 34 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 35,
+  "reviews": []
+},
+{
+  "id": "8526004",
+  "type": "RESTAURANT",
+  "name": "Vent D'ouest Cafe",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/9f/0d/8e/photo1jpg.jpg",
+  "awards": [],
+  "rankingPosition": "39",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 89 88",
+  "address": "5 Place des Docteurs Gentilhe Espace de L'ocean Chambre D'amour, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.499702",
+  "longitude": "-1.543062",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8526004-Reviews-Vent_D_ouest_Cafe-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.vo-cafe.com/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 39 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 265,
+  "reviews": []
+},
+{
+  "id": "4795330",
+  "type": "RESTAURANT",
+  "name": "Sushi Land Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/59/a2/eb/sushi-land-anglet.jpg",
+  "awards": [],
+  "rankingPosition": "37",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 20 09 71",
+  "address": "10 Allee Vega centre ERDIAN, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Japonaise",
+    "Sushi",
+    "Asiatique",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49534",
+  "longitude": "-1.51365",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d4795330-Reviews-Sushi_Land_Anglet-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.sushilandanglet.com/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 37 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 138,
+  "reviews": []
+},
+{
+  "id": "8813533",
+  "type": "RESTAURANT",
+  "name": "Bicoque",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/06/bb/c7/grilled-shrimps-and-brown.jpg",
+  "awards": [],
+  "rankingPosition": "36",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 57 96 51",
+  "address": "4 Avenue de Biarritz, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.480484",
+  "longitude": "-1.515729",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8813533-Reviews-Bicoque-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Bicoque64-484611955044905",
+  "rankingDenominator": "177",
+  "rankingString": "N° 36 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 91,
+  "reviews": []
+},
+{
+  "id": "1328601",
+  "type": "RESTAURANT",
+  "name": "West Side Restaurant",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/cd/07/c2/bienvenue-au-westside.jpg",
+  "awards": [],
+  "rankingPosition": "38",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 24 77",
+  "address": "114 Avenue de l'Adour, 64600 Anglet France",
+  "email": "westside64@wanadoo.fr",
+  "cuisine": [
+    "Mexicaine",
+    "Américaine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.524166",
+  "longitude": "-1.504141",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d1328601-Reviews-West_Side_Restaurant-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://www.restaurant-anglet.com",
+  "rankingDenominator": "177",
+  "rankingString": "N° 38 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 146,
+  "reviews": []
+},
+{
+  "id": "21346494",
+  "type": "RESTAURANT",
+  "name": "Pizza Cosy",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/27/c6/97/pizza-cosy.jpg",
+  "awards": [],
+  "rankingPosition": "42",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 32 66 11 11",
+  "address": "59 Allée D'aguilera, 64600 Anglet France",
+  "email": "serviceclient@pizzacosy.fr",
+  "cuisine": [
+    "Pizza",
+    "Italienne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1110,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.487988",
+  "longitude": "-1.53561",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d21346494-Reviews-Pizza_Cosy-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://pizzacosy.fr/pizzeria-anglet",
+  "rankingDenominator": "177",
+  "rankingString": "N° 42 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 48,
+  "reviews": []
+},
+{
+  "id": "8122142",
+  "type": "RESTAURANT",
+  "name": "L'Etoile De Mer",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/47/12/80/l-etoile-de-mer.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 59 03 70 06",
+  "address": "36 Avenue des Dauphins, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Fruits de mer & Poisson",
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.501163",
+  "longitude": "-1.539828",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8122142-Reviews-L_Etoile_De_Mer-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/letoiledemerchambredamour",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 105,
+  "reviews": []
+},
+{
+  "id": "10455945",
+  "type": "RESTAURANT",
+  "name": "Txiki Thaï",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/27/fb/9b/38/txiki-thai.jpg",
+  "awards": [],
+  "rankingPosition": "35",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 51 17 56 92",
+  "address": "60 Avenue de Bayonne, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Cuisine de rue (street food)",
+    "Barbecue/Grillades",
+    "Asiatique",
+    "Thaï",
+    "Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.481853",
+  "longitude": "-1.506521",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d10455945-Reviews-Txiki_Thai-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "177",
+  "rankingString": "N° 35 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 32,
+  "reviews": []
+},
+{
+  "id": "12869660",
+  "type": "RESTAURANT",
+  "name": "Le Bouche à Oreille",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/a3/6e/ae/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "44",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 35 39 01 03",
+  "address": "14 Avenue des Dauphins, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.500336",
+  "longitude": "-1.541117",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d12869660-Reviews-Le_Bouche_a_Oreille-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "https://www.facebook.com/Le-bouche-%C3%A0-oreille-1848381822091822/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 44 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 60,
+  "reviews": []
+},
+{
+  "id": "12876905",
+  "type": "RESTAURANT",
+  "name": "L'Annexe",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/3f/e5/terrasse-et-vue-sur-la.jpg",
+  "awards": [],
+  "rankingPosition": "48",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 79 50",
+  "address": "4 Esplanade Des Gascons, 64600 Anglet France",
+  "email": "contact@lannexeanglet.com",
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.500454",
+  "longitude": "-1.542385",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d12876905-Reviews-L_Annexe-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/lannexeanglet/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 48 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 175,
+  "reviews": []
+},
+{
+  "id": "17777506",
+  "type": "RESTAURANT",
+  "name": "L'amour a la Plage",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/18/98/fb/e8/20190801-203047-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 9 72 96 79 50",
+  "address": "Place Des Gascons, 64600 Anglet France",
+  "email": "contact@lamour-a-la-plage.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.500557",
+  "longitude": "-1.542507",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d17777506-Reviews-L_amour_a_la_Plage-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://lamour-a-la-plage.com",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 228,
+  "reviews": []
+},
+{
+  "id": "6167716",
+  "type": "RESTAURANT",
+  "name": "l'avant scène",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/dc/2e/d6/terrine-tomates-mozzarella.jpg",
+  "awards": [],
+  "rankingPosition": "43",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 01 70 95",
+  "address": "Rue Albert le Bariller Espace Culturel Quintaou, 64600 Anglet France",
+  "email": "lavantscene64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Brasserie gastronomique",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 840
+      }
+    ],
+    [],
+    [
+      {
+        "open": 480,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 960
+      }
+    ]
+  ],
+  "latitude": "43.484165",
+  "longitude": "-1.513322",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d6167716-Reviews-L_avant_scene-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.rezto.net/restaurants/194-l-avant-scene",
+  "rankingDenominator": "177",
+  "rankingString": "N° 43 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 77,
+  "reviews": []
+},
+{
+  "id": "5797389",
+  "type": "RESTAURANT",
+  "name": "Hotel - Restaurant Chez Benat",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/66/b7/f8/hotel-restaurant-chez.jpg",
+  "awards": [],
+  "rankingPosition": "47",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 63 62 29",
+  "address": "87 avenue de l Adour, 64600 Anglet France",
+  "email": "chezbenat@orange.fr",
+  "cuisine": [
+    "Française",
+    "Barbecue/Grillades",
+    "Diner",
+    "Bar à vins"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ]
+  ],
+  "latitude": "43.51075",
+  "longitude": "-1.50004",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d5797389-Reviews-Hotel_Restaurant_Chez_Benat-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_A.html",
+  "website": null,
+  "rankingDenominator": "177",
+  "rankingString": "N° 47 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 67,
+  "reviews": []
+},
+{
+  "id": "16695630",
+  "type": "RESTAURANT",
+  "name": "L’Un des Sens",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/d5/4d/07/le-roti-de-porc-igp-sur.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 35 39 12 45",
+  "address": "163 avenue de L’Adour, 64600 Anglet France",
+  "email": "healthyfood.lundessens@gmail.com",
+  "cuisine": [
+    "Saine",
+    "Française",
+    "Traiteur",
+    "Fusion",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1155,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      }
+    ],
+    []
+  ],
+  "latitude": "43.51742",
+  "longitude": "-1.501815",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d16695630-Reviews-L_Un_des_Sens-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://lundessens-restaurant-anglet.fr",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 36,
+  "reviews": []
+},
+{
+  "id": "5895158",
+  "type": "RESTAURANT",
+  "name": "Pub Mulligan",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/bf/f3/7f/jack-is-jack.jpg",
+  "awards": [],
+  "rankingPosition": "49",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 47 75 08 68",
+  "address": "4 Allee du Cadran, 64600 Anglet France",
+  "email": "sabrina64serra@gmail.com",
+  "cuisine": [
+    "Française",
+    "Pub",
+    "Bar",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.48213",
+  "longitude": "-1.50395",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d5895158-Reviews-Pub_Mulligan-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/pubmulligan/about/?ref=page_internal",
+  "rankingDenominator": "177",
+  "rankingString": "N° 49 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 38,
+  "reviews": []
+},
+{
+  "id": "4844911",
+  "type": "RESTAURANT",
+  "name": "restaurant les Pins",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/e1/93/6e/restaurant-les-pins.jpg",
+  "awards": [],
+  "rankingPosition": "45",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 08 51 96 56",
+  "address": "86 av Adour, 64600 Anglet France",
+  "email": "lespins@restaurantlespins.fr",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.519833",
+  "longitude": "-1.501756",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d4844911-Reviews-Restaurant_les_Pins-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurantlespins.fr",
+  "rankingDenominator": "177",
+  "rankingString": "N° 45 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 162,
+  "reviews": []
+},
+{
+  "id": "8335877",
+  "type": "RESTAURANT",
+  "name": "Bilagoon",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/bb/d6/ab/tartare-maison-avec-son.jpg",
+  "awards": [],
+  "rankingPosition": "46",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 42 38 38",
+  "address": "3 Esplanade des Gascons, 64600 Anglet France",
+  "email": "contat@bilagoon.fr",
+  "cuisine": [
+    "Française",
+    "Restauration rapide"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.501286",
+  "longitude": "-1.541547",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8335877-Reviews-Bilagoon-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.bilagoon.fr",
+  "rankingDenominator": "177",
+  "rankingString": "N° 46 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 76,
+  "reviews": []
+},
+{
+  "id": "1333530",
+  "type": "RESTAURANT",
+  "name": "Le cèdre du liban",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/27/ee/1a/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "50",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 80 89",
+  "address": "9 Avenue du Prince de Galles, 64600 Anglet France",
+  "email": "lecedredulibananglet@hotmail.fr",
+  "cuisine": [
+    "Libanaise",
+    "Moyen-Orient",
+    "Méditerranéenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.48732",
+  "longitude": "-1.53707",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d1333530-Reviews-Le_Cedre_du_Liban-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Le-C%C3%A8dre-du-Liban-170995299647367/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 50 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 86,
+  "reviews": []
+},
+{
+  "id": "8605571",
+  "type": "RESTAURANT",
+  "name": "Le Rayon Vert",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/12/ba/47/le-rayon-vert.jpg",
+  "awards": [],
+  "rankingPosition": "60",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 3.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 83 79 87 31",
+  "address": "1 Avenue Des Goelands Esplanade Des Gascons, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.50199",
+  "longitude": "-1.540439",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8605571-Reviews-Le_Rayon_Vert-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/www.RestaurantLeRayonVertr.org",
+  "rankingDenominator": "177",
+  "rankingString": "N° 60 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 313,
+  "reviews": []
+},
+{
+  "id": "12818980",
+  "type": "RESTAURANT",
+  "name": "Karabana",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/7b/2f/3c/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "59",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 32 39 08 40",
+  "address": "La Plage des Dunes, Avenue des Dunes, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Bars-restaurants"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.51665",
+  "longitude": "-1.529006",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d12818980-Reviews-Karabana-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/karabanabar/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 59 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 19,
+  "reviews": []
+},
+{
+  "id": "10833913",
+  "type": "RESTAURANT",
+  "name": "Thierry Bamas",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/dc/4a/be/photo1jpg.jpg",
+  "awards": [],
+  "rankingPosition": "56",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 01 74",
+  "address": "3 Rue Charles Kraemer, 64600 Anglet France",
+  "email": null,
+  "cuisine": [],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.490353",
+  "longitude": "-1.476758",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d10833913-Reviews-Thierry_Bamas-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.thierrybamas.fr/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 56 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 127,
+  "reviews": []
+},
+{
+  "id": "5549917",
+  "type": "RESTAURANT",
+  "name": "I.D.HALLES",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/42/06/24/idhalles.jpg",
+  "awards": [],
+  "rankingPosition": "51",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 50 13 96",
+  "address": "96 avenue de l adour Halles De Blancpignon, 64600 Anglet France",
+  "email": "i.d.halles.64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Internationale"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 960
+      }
+    ]
+  ],
+  "latitude": "43.52061",
+  "longitude": "-1.50242",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d5549917-Reviews-I_D_HALLES-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "177",
+  "rankingString": "N° 51 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 41,
+  "reviews": []
+},
+{
+  "id": "4994773",
+  "type": "RESTAURANT",
+  "name": "LE POISSON À VOILE",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/e8/0e/64/le-poisson-a-voile.jpg",
+  "awards": [],
+  "rankingPosition": "55",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 3.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 29 63 39",
+  "address": "118 Avenue de l'Adour 118, Avenue Adour, 64600 Anglet France",
+  "email": "lepoissonavoile@gmail.com",
+  "cuisine": [
+    "Française",
+    "Traiteur"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.526283",
+  "longitude": "-1.509867",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d4994773-Reviews-Le_Poisson_A_Voile-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurant-lepoissonavoile-anglet.fr",
+  "rankingDenominator": "177",
+  "rankingString": "N° 55 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 200,
+  "reviews": []
+},
+{
+  "id": "10057069",
+  "type": "RESTAURANT",
+  "name": "cidrerie Saint Georges",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/80/f1/55/restaurant-saint-georges.jpg",
+  "awards": [],
+  "rankingPosition": "57",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 18 62",
+  "address": "96 Avenue de Biarritz, 64600 Anglet France",
+  "email": "aimar13@orange.fr",
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 450,
+        "close": 930
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 930
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 930
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.48115",
+  "longitude": "-1.53355",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d10057069-Reviews-Restaurant_Saint_Georges-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqu.html",
+  "website": "http://www.facebook.com/Saint-Georges-1682481472017436/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 57 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 39,
+  "reviews": []
+},
+{
+  "id": "8035839",
+  "type": "RESTAURANT",
+  "name": "La Hook's",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/1d/be/f0/freeze.jpg",
+  "awards": [],
+  "rankingPosition": "54",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 7 50 92 99 80",
+  "address": "96 Avenue de L'adour Les Halles de Blancpignon, 64600 Anglet France",
+  "email": "lahooks64@yahoo.com",
+  "cuisine": [
+    "Cuisine de rue (street food)"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 900,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 900,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 900,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 900,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 900,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 900,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 900,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.52088",
+  "longitude": "-1.502023",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8035839-Reviews-La_Hook_s-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "177",
+  "rankingString": "N° 54 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 17,
+  "reviews": []
+},
+{
+  "id": "5796663",
+  "type": "RESTAURANT",
+  "name": "Le Soly Less",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/a4/31/5b/le-soly-less.jpg",
+  "awards": [],
+  "rankingPosition": "58",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 40 88 97 50",
+  "address": "95 Avenue de Montbrun, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 510,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.503246",
+  "longitude": "-1.510388",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d5796663-Reviews-Le_Soly_Less-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "177",
+  "rankingString": "N° 58 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 97,
+  "reviews": []
+},
+{
+  "id": "3500802",
+  "type": "RESTAURANT",
+  "name": "Villa Roma",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/78/57/b7/villa-roma.jpg",
+  "awards": [],
+  "rankingPosition": "53",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 42 68",
+  "address": "237 Avenue de l'Adour, 64600 Anglet France",
+  "email": "villaroma64@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Pizza",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 855
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.524456",
+  "longitude": "-1.506681",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d3500802-Reviews-Villa_Roma-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://villaroma-anglet.fr/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 53 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 219,
+  "reviews": []
+},
+{
+  "id": "14078525",
+  "type": "RESTAURANT",
+  "name": "Pero Que Si",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/13/2b/bf/33/pero-que-si.jpg",
+  "awards": [],
+  "rankingPosition": "52",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 35 39 84 13",
+  "address": "7 Avenue du Rayon Vert, 64600 Anglet France",
+  "email": "peroquesi64@gmail.com",
+  "cuisine": [
+    "Espagnole",
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.501003",
+  "longitude": "-1.538971",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d14078525-Reviews-Pero_Que_Si-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/peroquesi/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 52 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 57,
+  "reviews": []
+},
+{
+  "id": "3349394",
+  "type": "RESTAURANT",
+  "name": "pizz'after beach",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/ea/8a/27/pizz-after-beach.jpg",
+  "awards": [],
+  "rankingPosition": "67",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 45 68 90",
+  "address": "1 Place de la Chapelle, 64600 Anglet France",
+  "email": "pizzafterbeach@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Pizza",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49639",
+  "longitude": "-1.53818",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d3349394-Reviews-Pizz_after_beach-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.pizzafterbeach.fr",
+  "rankingDenominator": "177",
+  "rankingString": "N° 67 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 99,
+  "reviews": []
+},
+{
+  "id": "8506911",
+  "type": "RESTAURANT",
+  "name": "Halles des 5 Cantons - Cuisines du marché",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1b/5e/ed/22/halles-des-5-cantons.jpg",
+  "awards": [],
+  "rankingPosition": "66",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 29 97 43",
+  "address": "11 Rue Paul Courbin, 64600 Anglet France",
+  "email": "halles5cantons@biltoki.com",
+  "cuisine": [
+    "Espagnole",
+    "Bar à vins",
+    "Italienne",
+    "Fruits de mer & Poisson",
+    "Asiatique",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1020
+      }
+    ],
+    [],
+    [
+      {
+        "open": 480,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 870
+      },
+      {
+        "open": 960,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.494427",
+  "longitude": "-1.529191",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8506911-Reviews-Halles_des_5_Cantons_Cuisines_du_marche-Anglet_Basque_Country_Pyrenees_Atlantique.html",
+  "website": "http://biltoki.com/halles5cantons",
+  "rankingDenominator": "177",
+  "rankingString": "N° 66 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 49,
+  "reviews": []
+},
+{
+  "id": "943508",
+  "type": "RESTAURANT",
+  "name": "La Chope",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/39/6f/ab/la-chopinette-extension.jpg",
+  "awards": [],
+  "rankingPosition": "62",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 82 53",
+  "address": "7 Esplanade des Gascons, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Café",
+    "Internationale"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.50074",
+  "longitude": "-1.542375",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d943508-Reviews-La_Chope-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/La-Chope-230493283679567/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 62 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 99,
+  "reviews": []
+},
+{
+  "id": "7070356",
+  "type": "RESTAURANT",
+  "name": "Tajinier",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/c1/0c/58/des-l-entree-on-est-dans.jpg",
+  "awards": [],
+  "rankingPosition": "63",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 3.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 33 13",
+  "address": "2 Rue des Pontots, 64600 Anglet France",
+  "email": "rachid.piza64@live.fr",
+  "cuisine": [
+    "Marocaine",
+    "Méditerranéenne",
+    "Moyen-Orient"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.493774",
+  "longitude": "-1.4963",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d7070356-Reviews-Tajinier-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://tajinier.fr",
+  "rankingDenominator": "177",
+  "rankingString": "N° 63 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 290,
+  "reviews": []
+},
+{
+  "id": "10378850",
+  "type": "RESTAURANT",
+  "name": "La Case de L'Ocean",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/6e/ec/07/photo1jpg.jpg",
+  "awards": [],
+  "rankingPosition": "64",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": null,
+  "address": "Plage de L'Ocean, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [],
+  "latitude": "43.514072",
+  "longitude": "-1.531188",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d10378850-Reviews-La_Case_de_L_Ocean-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/La-Case-de-lOc%C3%A9an-396059990587407/?rf=468216973203595",
+  "rankingDenominator": "177",
+  "rankingString": "N° 64 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 73,
+  "reviews": []
+},
+{
+  "id": "14987902",
+  "type": "RESTAURANT",
+  "name": "La Torref",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/16/27/8a/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "69",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": null,
+  "address": "133 avenue de l'Adour, 64600 Anglet France",
+  "email": "info@latorref.com",
+  "cuisine": [],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.515434",
+  "longitude": "-1.50131",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d14987902-Reviews-La_Torref-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.latorref.com/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 69 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 21,
+  "reviews": []
+},
+{
+  "id": "14788727",
+  "type": "RESTAURANT",
+  "name": "P'tea Coffee",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/20/78/bb/75/gouter-maison-crepes.jpg",
+  "awards": [],
+  "rankingPosition": "68",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 47 02 23 74",
+  "address": "18 avenue des Dauphins Chambre d'amour, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Américaine",
+    "Britannique"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 570,
+        "close": 840
+      },
+      {
+        "open": 960,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 840
+      },
+      {
+        "open": 960,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 840
+      }
+    ],
+    [],
+    [
+      {
+        "open": 570,
+        "close": 840
+      },
+      {
+        "open": 960,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 840
+      },
+      {
+        "open": 960,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 840
+      },
+      {
+        "open": 960,
+        "close": 1110
+      }
+    ]
+  ],
+  "latitude": "43.50048",
+  "longitude": "-1.54101",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d14788727-Reviews-P_tea_Coffee-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://ptea-coffee.business.site/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 68 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 32,
+  "reviews": []
+},
+{
+  "id": "8105904",
+  "type": "RESTAURANT",
+  "name": "Le Break",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/8e/47/4c/l-assiette-baiona.jpg",
+  "awards": [],
+  "rankingPosition": "61",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 76 72 44 12",
+  "address": "299 Avenue de l'Adour - Promenade Littorale Patinoire de la Barre, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Restauration rapide",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [],
+  "latitude": "43.52667",
+  "longitude": "-1.521944",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8105904-Reviews-Le_Break-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/La-Ciana-20-228598050510069/?ref=page_internal&path=%2FLa-Ciana-20-228598050510069%2F",
+  "rankingDenominator": "177",
+  "rankingString": "N° 61 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 65,
+  "reviews": []
+},
+{
+  "id": "5798396",
+  "type": "RESTAURANT",
+  "name": "sushi64",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/18/d8/e2/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 59 63 47 18",
+  "address": "1 Avenue de Minerva, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Japonaise",
+    "Sushi",
+    "Asiatique",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 840
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.48064",
+  "longitude": "-1.51012",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d5798396-Reviews-Sushi64-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.sushi64.com/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 76,
+  "reviews": []
+},
+{
+  "id": "7014754",
+  "type": "RESTAURANT",
+  "name": "L'Euphrate",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/b0/b9/d6/l-euphrate.jpg",
+  "awards": [],
+  "rankingPosition": "65",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 74 10 86",
+  "address": "38 Avenue des Dauphins, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Turque",
+    "Moyen-Orient",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Halal"
+  ],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 585,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.50114",
+  "longitude": "-1.53969",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d7014754-Reviews-L_Euphrate-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/Leuphrate-273906305991562/?rf=147170898746891",
+  "rankingDenominator": "177",
+  "rankingString": "N° 65 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 96,
+  "reviews": []
+},
+{
+  "id": "10743794",
+  "type": "RESTAURANT",
+  "name": "Lekua",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/bf/5f/3c/lekua.jpg",
+  "awards": [],
+  "rankingPosition": "70",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 13 44 66 72",
+  "address": "299 Avenue de l Adour Promenoir De La Patinoire, 64600 Anglet France",
+  "email": "lekua-anglet@hotmail.com",
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Café",
+    "Restauration rapide",
+    "Espagnole",
+    "Pub",
+    "Bar à vins"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.527157",
+  "longitude": "-1.518865",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d10743794-Reviews-Lekua-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Lekua-Anglet-La-Barre-1407419525950258/home",
+  "rankingDenominator": "177",
+  "rankingString": "N° 70 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 66,
+  "reviews": []
+},
+{
+  "id": "21078749",
+  "type": "RESTAURANT",
+  "name": "Comptoir Restaurant La Pizz' Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/97/17/ab/une-pizza-juste-parfaite.jpg",
+  "awards": [],
+  "rankingPosition": "1",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 42 61 57",
+  "address": "19 Avenue du Rayon Vert, 64600 Anglet France",
+  "email": "pizzaprojet@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Pizza",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.50116",
+  "longitude": "-1.53916",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d21078749-Reviews-La_Pizz-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://pizzaprojet.wixsite.com/website",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 1 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 211,
+  "reviews": []
+},
+{
+  "id": "8079739",
+  "type": "RESTAURANT",
+  "name": "Restaurant La Royale Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/d2/a3/37/20180118-132551-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "3",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 13 66",
+  "address": "3 Place Lamothe, 64600 Anglet France",
+  "email": "contact@restaurant-la-royale.com",
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Européenne",
+    "Café",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.48639",
+  "longitude": "-1.514588",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8079739-Reviews-La_Royale-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://eirlfricot-laroyal.wixsite.com/laroyale",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 3 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 639,
+  "reviews": []
+},
+{
+  "id": "10541611",
+  "type": "RESTAURANT",
+  "name": "Bar Basque Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/81/63/3a/this-octopus-and-pepper.jpg",
+  "awards": [],
+  "rankingPosition": "2",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 82 86",
+  "address": "1 Rue d'Espagne, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Espagnole",
+    "Moderne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1425
+      }
+    ]
+  ],
+  "latitude": "43.488495",
+  "longitude": "-1.47801",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d10541611-Reviews-Bar_Basque-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/BarBasqueBayonne/?ref=page_internal",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 2 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 133,
+  "reviews": []
+},
+{
+  "id": "3873856",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le O2 Verdun Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/7f/01/da/le-o2-verdun.jpg",
+  "awards": [],
+  "rankingPosition": "3",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 39 94",
+  "address": "49 Avenue de Verdun, 64200 Biarritz France",
+  "email": "leo2verdun@outlook.fr",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.481865",
+  "longitude": "-1.554121",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3873856-Reviews-Le_O2_Verdun-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/leO2verdun",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 2 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 680,
+  "reviews": []
+},
+{
+  "id": "2010922",
+  "type": "RESTAURANT",
+  "name": "Restaurant Léonie Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/13/a8/d0/ef/leonie.jpg",
+  "awards": [],
+  "rankingPosition": "6",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 01 26",
+  "address": "7 Avenue Larochefoucauld 7 avenue Larochefoucauld, 64200 Biarritz France",
+  "email": "contact@restaurant-leonie.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1275
+      }
+    ]
+  ],
+  "latitude": "43.482822",
+  "longitude": "-1.544139",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2010922-Reviews-Leonie-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurant-biarritz-leonie.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 5 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 431,
+  "reviews": []
+},
+{
+  "id": "12395806",
+  "type": "RESTAURANT",
+  "name": "Bistro Toqué",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/bb/3d/8f/les-toque-vous-recoivent.jpg",
+  "awards": [],
+  "rankingPosition": "4",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 55 48 98",
+  "address": "6 Avenue Léon Bonnat, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Brasserie gastronomique",
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ]
+  ],
+  "latitude": "43.494244",
+  "longitude": "-1.477411",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12395806-Reviews-Bistro_Toque_Bayonne-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "http://bistro-toque-bayonne.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 4 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 389,
+  "reviews": []
+},
+{
+  "id": "4777621",
+  "type": "RESTAURANT",
+  "name": "Cantine du Musée",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/a7/9a/8a/pave-de-merlu-mousseline.jpg",
+  "awards": [],
+  "rankingPosition": "1",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 16 39",
+  "address": "25 Rue Frédéric Bastiat, 64100, Bayonne France",
+  "email": "cantinedumusee-bayonne@hotmail.com",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 735,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49259",
+  "longitude": "-1.473062",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4777621-Reviews-Cantine_du_Musee-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.cantinedumusee-bayonne.com/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 1 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 316,
+  "reviews": []
+},
+{
+  "id": "14804287",
+  "type": "RESTAURANT",
+  "name": "Chez Scott",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/5b/11/67/merlu-de-ligne-de-st.jpg",
+  "awards": [],
+  "rankingPosition": "1",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 85 98",
+  "address": "4- 6 Rue Jean Bart, 64200 Biarritz France",
+  "email": "chefunequestion@scott-serrato.fr",
+  "cuisine": [
+    "Française",
+    "Internationale",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 795
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 795
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 795
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.48108",
+  "longitude": "-1.558041",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d14804287-Reviews-Chez_Scott-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.chezscott-biarritz.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 1 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 208,
+  "reviews": []
+},
+{
+  "id": "19517288",
+  "type": "RESTAURANT",
+  "name": "Bistro Toqué Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/3c/4a/9e/restaurant-bistro-toque.jpg",
+  "awards": [],
+  "rankingPosition": "2",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 48 53",
+  "address": "3 Avenue Armand Toulet, 64600 Anglet France",
+  "email": "contact@bistro-toque-anglet.fr",
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Brasserie gastronomique"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 480,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 960
+      }
+    ]
+  ],
+  "latitude": "43.48808",
+  "longitude": "-1.50333",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d19517288-Reviews-Bistro_Toque_Anglet-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://bistro-toque-bayonne.fr/reservation-bistro-toque-anglet/",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 2 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 118,
+  "reviews": []
+},
+{
+  "id": "12670136",
+  "type": "RESTAURANT",
+  "name": "Le Camembar",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/d4/d1/ee/interieur-du-restaurant.jpg",
+  "awards": [],
+  "rankingPosition": "3",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 24 33 41 74",
+  "address": "16 Rue Guilhamin, 64100, Bayonne France",
+  "email": "lecamembar@gmail.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.490635",
+  "longitude": "-1.475405",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12670136-Reviews-Le_Camembar-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/lecamembar/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 3 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 196,
+  "reviews": []
+},
+{
+  "id": "7696088",
+  "type": "RESTAURANT",
+  "name": "Restaurant Chez Marco",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/9b/59/89/ttoro-soupe-de-poissons.jpg",
+  "awards": [],
+  "rankingPosition": "13",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 24 82",
+  "address": "45 Allees Marines, 64100, Bayonne France",
+  "email": "marc.bonpas@gmail.com",
+  "cuisine": [
+    "Française",
+    "Espagnole",
+    "Bars-restaurants"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    []
+  ],
+  "latitude": "43.49857",
+  "longitude": "-1.487936",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7696088-Reviews-Restaurant_Chez_Marco-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "https://www.facebook.com/chezmarcorestaurantbayonne/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 13 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 304,
+  "reviews": []
+},
+{
+  "id": "6698528",
+  "type": "RESTAURANT",
+  "name": "L'Art Dit Vin - Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/39/73/a8/selection-de-whisky-et.jpg",
+  "awards": [],
+  "rankingPosition": "5",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 73 74",
+  "address": "15 Avenue de Verdun, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Bar à vins",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.481915",
+  "longitude": "-1.556981",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d6698528-Reviews-L_Art_Dit_Vin_Biarritz-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqui.html",
+  "website": "https://www.facebook.com/lartditvinbiarritz",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 4 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 278,
+  "reviews": []
+},
+{
+  "id": "10592003",
+  "type": "RESTAURANT",
+  "name": "Maison Dezamy Artisan Glacier Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/28/d1/a0/img-20170430-190946-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "2",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 26 52 67",
+  "address": "11 Rue des Halles, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Traiteur"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.481163",
+  "longitude": "-1.562056",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10592003-Reviews-Maison_Dezamy-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.maisondezamy.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 1 sur 13 Desserts à Biarritz",
+  "numberOfReviews": 224,
+  "reviews": []
+},
+{
+  "id": "2469607",
+  "type": "RESTAURANT",
+  "name": "Restaurant Au Bouchon Basque Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/c2/64/64/plat.jpg",
+  "awards": [],
+  "rankingPosition": "12",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 57 75 18",
+  "address": "2 Rue Paul Pras, 64100, Bayonne France",
+  "email": "aubouchonbasque@gmail.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.485878",
+  "longitude": "-1.475394",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d2469607-Reviews-Au_Bouchon_Basque-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://aubouchonbasque.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 12 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 422,
+  "reviews": []
+},
+{
+  "id": "17691343",
+  "type": "RESTAURANT",
+  "name": "Piccole Cose",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/80/7e/da/rue.jpg",
+  "awards": [],
+  "rankingPosition": "8",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 48 76 19",
+  "address": "25 Rue D'Espagne, 64100, Bayonne France",
+  "email": "piccolecose.bepf@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Méditerranéenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.489056",
+  "longitude": "-1.477633",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d17691343-Reviews-Piccole_Cose-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.piccolecose.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 8 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 256,
+  "reviews": []
+},
+{
+  "id": "5895237",
+  "type": "RESTAURANT",
+  "name": "Restaurant Goxoki",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/24/7e/21/ee/logo-du-restaurant.jpg",
+  "awards": [],
+  "rankingPosition": "7",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 49 89",
+  "address": "24 Rue Marengo, 64100, Bayonne France",
+  "email": "hourcastagnou@gmail.com",
+  "cuisine": [
+    "Française",
+    "Brasserie gastronomique"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49079",
+  "longitude": "-1.47254",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d5895237-Reviews-Restaurant_Goxoki-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurant-goxoki.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 7 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 287,
+  "reviews": []
+},
+{
+  "id": "4123787",
+  "type": "RESTAURANT",
+  "name": "Restaurant Produits Terroir Chez Nous Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/74/68/a8/la-terrasse.jpg",
+  "awards": [],
+  "rankingPosition": "4",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 19 95 15 40",
+  "address": "98 Avenue de Biarritz, 64600 Anglet France",
+  "email": "urcazett@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.481216",
+  "longitude": "-1.533621",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d4123787-Reviews-Bistro_Chez_Nous-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/pages/Restaurant-Chez-Nous-Quartier-Aguilera/373413229415951",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 4 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 871,
+  "reviews": []
+},
+{
+  "id": "21006802",
+  "type": "RESTAURANT",
+  "name": "My Little Warung",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/24/f2/47/64/logo-my-little-warung.jpg",
+  "awards": [],
+  "rankingPosition": "6",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 51 85",
+  "address": "40 Quai des Corsaires, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Asiatique",
+    "Thaï",
+    "Vietnamienne",
+    "Indonésienne",
+    "Saine",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.49135",
+  "longitude": "-1.47383",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d21006802-Reviews-My_Little_Warung-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.mylittlewarung.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 6 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 226,
+  "reviews": []
+},
+{
+  "id": "15613215",
+  "type": "RESTAURANT",
+  "name": "Restaurant L'Inattendu Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/59/50/6a/restaurant-l-inattendu.jpg",
+  "awards": [],
+  "rankingPosition": "5",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 83 44",
+  "address": "23 Rue des Cordeliers, 64100, Bayonne France",
+  "email": "info@linattendubayonne.com",
+  "cuisine": [
+    "Française",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.489315",
+  "longitude": "-1.473175",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d15613215-Reviews-L_inattendu_Bayonne-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.linattendubayonne.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 5 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 174,
+  "reviews": []
+},
+{
+  "id": "3973407",
+  "type": "RESTAURANT",
+  "name": "Do Eat Yourself",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/a5/1e/1f/do-eat-yourself-le-seul.jpg",
+  "awards": [],
+  "rankingPosition": "5",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 44 16 22",
+  "address": "14 allée Altaïr, 64600 Anglet France",
+  "email": "doeatyourself@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Restauration rapide",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 690,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 900
+      }
+    ],
+    []
+  ],
+  "latitude": "43.495483",
+  "longitude": "-1.512509",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d3973407-Reviews-Do_Eat_Yourself-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/DoEatYourself/",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 5 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 204,
+  "reviews": []
+},
+{
+  "id": "12597647",
+  "type": "RESTAURANT",
+  "name": "Janine Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/bb/63/c6/meza-pastar-mi-burguer.jpg",
+  "awards": [],
+  "rankingPosition": "14",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 72 96 08 91",
+  "address": "12 Rue Port de Castets, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.491",
+  "longitude": "-1.475592",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12597647-Reviews-Janine-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://janine.business.site",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 14 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 239,
+  "reviews": []
+},
+{
+  "id": "8662104",
+  "type": "RESTAURANT",
+  "name": "La Table |  Sébastien Gravé",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1d/1c/33/b2/produits-de-saison-cuisine.jpg",
+  "awards": [],
+  "rankingPosition": "9",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 46 14 94",
+  "address": "21 Quai Amiral Dubourdieu, 64100, Bayonne France",
+  "email": "contact@latable-sg.fr",
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.491653",
+  "longitude": "-1.474379",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d8662104-Reviews-La_Table_Sebastien_Grave-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqu.html",
+  "website": "http://latable-sebastiengrave.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 9 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 1082,
+  "reviews": []
+},
+{
+  "id": "21321179",
+  "type": "RESTAURANT",
+  "name": "Trattoria Nonna",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/22/03/18/d5/trattoria-nonna-bayonne.jpg",
+  "awards": [],
+  "rankingPosition": "10",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 93 29 90",
+  "address": "11 Rue des Cordeliers, 64100, Bayonne France",
+  "email": "lestroisanaiak@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.489197",
+  "longitude": "-1.473879",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d21321179-Reviews-Trattoria_Nonna-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/profile.php?id=100055662836892",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 10 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 119,
+  "reviews": []
+},
+{
+  "id": "5011160",
+  "type": "RESTAURANT",
+  "name": "La Marine",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/13/46/96/91/logo-la-marine-biarritz.jpg",
+  "awards": [],
+  "rankingPosition": "4",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "0559243409",
+  "address": "28 Rue Mazagran, 64200 Biarritz France",
+  "email": "lamarinebtz@gmail.com",
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Brasserie gastronomique",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1020
+      }
+    ],
+    [],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.481945",
+  "longitude": "-1.564618",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d5011160-Reviews-La_Marine-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Bar.Brasserie.LaMarine.Biarritz",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 3 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 386,
+  "reviews": []
+},
+{
+  "id": "1061659",
+  "type": "RESTAURANT",
+  "name": "Auberge du Cheval Blanc Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/19/35/4e/feuillete-a-la-poire.jpg",
+  "awards": [],
+  "rankingPosition": "11",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 01 33",
+  "address": "68 Rue Bourgneuf, 64100, Bayonne France",
+  "email": "chevalblanc.bayonne@orange.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.49084",
+  "longitude": "-1.471799",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1061659-Reviews-Auberge_Du_Cheval_Blanc-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqui.html",
+  "website": "http://www.cheval-blanc-bayonne.com/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 11 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 487,
+  "reviews": []
+},
+{
+  "id": "6924951",
+  "type": "RESTAURANT",
+  "name": "Restaurant À La Bonne Franquette Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/76/bf/3b/a-la-bonne-franquette.jpg",
+  "awards": [],
+  "rankingPosition": "8",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 49 24",
+  "address": "10 Avenue de la Gare, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.478035",
+  "longitude": "-1.556911",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d6924951-Reviews-A_La_Bonne_Franquette-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquit.html",
+  "website": "http://www.facebook.com/pages/A-la-bonne-Franquette/1131989303579673?ref=br_rs",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 7 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 305,
+  "reviews": []
+},
+{
+  "id": "23379537",
+  "type": "RESTAURANT",
+  "name": "L'Océan Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/e9/3e/7c/planches-a-partager.jpg",
+  "awards": [],
+  "rankingPosition": "6",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 89 18",
+  "address": "7 Esplanade des Gascons, 64600 Anglet France",
+  "email": "loceanchambredamour@gmail.com",
+  "cuisine": [
+    "Fruits de mer & Poisson",
+    "Européenne",
+    "Saine",
+    "Bars-restaurants",
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.500725",
+  "longitude": "-1.54228",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d23379537-Reviews-L_ocean-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://loceanchambredamour.fr/",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 6 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 228,
+  "reviews": []
+},
+{
+  "id": "3369543",
+  "type": "RESTAURANT",
+  "name": "Restaurant L'Impertinent",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/43/ef/62/l-impertinent.jpg",
+  "awards": [],
+  "rankingPosition": "18",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 51 03 67",
+  "address": "5 Rue d’Alsace, 64200 Biarritz France",
+  "email": "contact@l-impertinent.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.48647",
+  "longitude": "-1.550363",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3369543-Reviews-Restaurant_L_Impertinent-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aq.html",
+  "website": "http://www.l-impertinent.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 17 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 551,
+  "reviews": []
+},
+{
+  "id": "14895842",
+  "type": "RESTAURANT",
+  "name": "À Table",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/be/ed/4e/tarte-au-citron-meringuee.jpg",
+  "awards": [],
+  "rankingPosition": "7",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 45 52 77",
+  "address": "15 Avenue Du Rayon Vert, 64600 Anglet France",
+  "email": "atableanglet@gmail.com",
+  "cuisine": [
+    "Steakhouse",
+    "Fruits de mer & Poisson",
+    "Européenne",
+    "Fusion"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ]
+  ],
+  "latitude": "43.501125",
+  "longitude": "-1.538831",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d14895842-Reviews-A_Table-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurantatableanglet.com",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 7 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 229,
+  "reviews": []
+},
+{
+  "id": "8058231",
+  "type": "RESTAURANT",
+  "name": "BBR Burger Bar des Remparts Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/f0/b1/04/bbr-burger-bar-des-remparts.jpg",
+  "awards": [],
+  "rankingPosition": "17",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 42 20 91",
+  "address": "49 Rue des Faures, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Américaine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49064",
+  "longitude": "-1.478686",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d8058231-Reviews-Bbr_Burger_Bar_des_Remparts-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_.html",
+  "website": "http://burgerbardesremparts.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 17 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 453,
+  "reviews": []
+},
+{
+  "id": "1325276",
+  "type": "RESTAURANT",
+  "name": "La Grange",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/67/f6/bb/la-grange.jpg",
+  "awards": [],
+  "rankingPosition": "15",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 46 17 84",
+  "address": "26 Quai Galuperie, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.490612",
+  "longitude": "-1.473984",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325276-Reviews-La_Grange-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.lagrange-bayonne.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 15 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 861,
+  "reviews": []
+},
+{
+  "id": "8260471",
+  "type": "RESTAURANT",
+  "name": "Les Platanes Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/1a/bf/97/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "9",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 75 59",
+  "address": "7 Boulevard de La Mer Rond Point de la Chapelle, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.49632",
+  "longitude": "-1.538847",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8260471-Reviews-Les_Platanes-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://lesplatanes-anglet.com",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 9 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 591,
+  "reviews": []
+},
+{
+  "id": "23793685",
+  "type": "RESTAURANT",
+  "name": "Côtes & Mer",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/93/4e/fa/salle-principale.jpg",
+  "awards": [],
+  "rankingPosition": "21",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 58 27 27",
+  "address": "1 Rue Harry Owen Roë, 64100, Bayonne France",
+  "email": "contact.kotenive@gmail.com",
+  "cuisine": [
+    "Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 570,
+        "close": 1020
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.48632",
+  "longitude": "-1.47595",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d23793685-Reviews-Cotes_Mer-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.cotesetmer.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 21 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 133,
+  "reviews": []
+},
+{
+  "id": "3265447",
+  "type": "RESTAURANT",
+  "name": "Le P'tit Resto",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/06/4c/80/gambas-a-la-plancha-tres.jpg",
+  "awards": [],
+  "rankingPosition": "8",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 27 08",
+  "address": "40 Avenue des Dauphins Chambre D'Amour, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Espagnole",
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.501423",
+  "longitude": "-1.539656",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d3265447-Reviews-Le_P_tit_Resto-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/pages/Le-Ptit-Resto/450738081619211",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 8 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 434,
+  "reviews": []
+},
+{
+  "id": "10138657",
+  "type": "RESTAURANT",
+  "name": "Restaurant L'Entre Deux Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/fc/71/eb/l-entre-deux.jpg",
+  "awards": [],
+  "rankingPosition": "10",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 51 50",
+  "address": "5 Avenue du Maréchal Foch, 64200 Biarritz France",
+  "email": "contact@lentredeuxbiarritz.com",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.481045",
+  "longitude": "-1.558883",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10138657-Reviews-L_Entre_Deux-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.lentredeuxbiarritz.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 9 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 689,
+  "reviews": []
+},
+{
+  "id": "788998",
+  "type": "RESTAURANT",
+  "name": "El Callejon",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/72/8f/95/el-callejon.jpg",
+  "awards": [],
+  "rankingPosition": "9",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 99 15",
+  "address": "5, Rue Monhaut, 64200 Biarritz France",
+  "email": "contact@elcallejon.fr",
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Internationale",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ]
+  ],
+  "latitude": "43.482803",
+  "longitude": "-1.560247",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d788998-Reviews-El_Callejon-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.elcallejon-biarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 8 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 970,
+  "reviews": []
+},
+{
+  "id": "4080319",
+  "type": "RESTAURANT",
+  "name": "Bakera",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/28/77/9b/bakera.jpg",
+  "awards": [],
+  "rankingPosition": "16",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 51 68",
+  "address": "15 Rue des Tonneliers, 64100, Bayonne France",
+  "email": "byk2@bbox.fr",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.490273",
+  "longitude": "-1.472995",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4080319-Reviews-Bakera-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/bakeraBaiona/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 16 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 947,
+  "reviews": []
+},
+{
+  "id": "3736621",
+  "type": "RESTAURANT",
+  "name": "Chez Martin",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/a7/24/af/chez-martin.jpg",
+  "awards": [],
+  "rankingPosition": "19",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 55 84 41",
+  "address": "29 Rue d'Espagne, 64100, Bayonne France",
+  "email": "chezmartin@orange.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Moderne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1185,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1185,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1185,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48911",
+  "longitude": "-1.477467",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3736621-Reviews-Maison_Martin-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://chezmartin-restaurant.com/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 19 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 416,
+  "reviews": []
+},
+{
+  "id": "2269032",
+  "type": "RESTAURANT",
+  "name": "Restaurant Los Dos Hermanos Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/90/6a/0d/los-dos-hermanos.jpg",
+  "awards": [],
+  "rankingPosition": "14",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 32 67",
+  "address": "36 Avenue de Verdun, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.48174",
+  "longitude": "-1.554718",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2269032-Reviews-Los_Dos_Hermanos-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.losdoshermanos.eu",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 13 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 456,
+  "reviews": []
+},
+{
+  "id": "2002209",
+  "type": "RESTAURANT",
+  "name": "Restaurant Les Rosiers Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/68/a7/72/les-rosiers.jpg",
+  "awards": [],
+  "rankingPosition": "13",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 13 68",
+  "address": "32 Avenue Beau Soleil, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1200,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1200,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1200,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1200,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.467777",
+  "longitude": "-1.553384",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2002209-Reviews-Les_Rosiers-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurant-lesrosiers.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 12 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 464,
+  "reviews": []
+},
+{
+  "id": "7994942",
+  "type": "RESTAURANT",
+  "name": "Restaurant Mange Disque et Spot Disques Vinyles Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/66/6b/d2/20160805-151834-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "23",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 29 61 02",
+  "address": "5 Rue des Prébendes Place Monseigneur Vanstenberghe, Cathedrale, 64100, Bayonne France",
+  "email": "mangedisque@outlook.fr",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.490414",
+  "longitude": "-1.477783",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7994942-Reviews-Mange_Disque-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/pages/MANGE-Disque/1527937617462228",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 23 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 177,
+  "reviews": []
+},
+{
+  "id": "1325279",
+  "type": "RESTAURANT",
+  "name": "La Rôtisserie du Roy Léon",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/65/fc/d7/notre-rotissoire-dans.jpg",
+  "awards": [],
+  "rankingPosition": "18",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 55 84",
+  "address": "8 Rue Coursic Corsaire du Roy, 64100, Bayonne France",
+  "email": "rotisserieduroyleon@orange.fr",
+  "cuisine": [
+    "Espagnole",
+    "Française",
+    "Européenne",
+    "Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.490574",
+  "longitude": "-1.473558",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325279-Reviews-La_Rotisserie_du_Roy_Leon-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aq.html",
+  "website": "http://www.restaurant-bayonne-royleon.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 18 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 408,
+  "reviews": []
+},
+{
+  "id": "17722559",
+  "type": "RESTAURANT",
+  "name": "Bistrot Helbidea Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/51/05/0e/helbidea-salle-climatisee.jpg",
+  "awards": [],
+  "rankingPosition": "19",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 85 61 21",
+  "address": "13 Avenue de Verdun, 64200 Biarritz France",
+  "email": "bonjour@helbidea.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine",
+    "Fusion",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48192",
+  "longitude": "-1.557179",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d17722559-Reviews-Helbidea-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://helbidea.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 18 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 162,
+  "reviews": []
+},
+{
+  "id": "6640885",
+  "type": "RESTAURANT",
+  "name": "Le Bistro'Quai",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/ed/29/43/le-bistro-quai.jpg",
+  "awards": [],
+  "rankingPosition": "22",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 56 91 36",
+  "address": "27 Quai Amiral Jaureguiberry, 64100, Bayonne France",
+  "email": "bistro.quai64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.488842",
+  "longitude": "-1.47484",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d6640885-Reviews-Le_Bistro_Quai-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/LeBistroQuai64/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 22 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 369,
+  "reviews": []
+},
+{
+  "id": "1325273",
+  "type": "RESTAURANT",
+  "name": "Le Bistrot Itsaski",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/25/23/0b/c8/bistrot-itsaski-bistronomie.jpg",
+  "awards": [],
+  "rankingPosition": "20",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 80 21",
+  "address": "43 Quai Amiral Jaureguiberry, 64100, Bayonne France",
+  "email": "daubabertrand@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.489323",
+  "longitude": "-1.474826",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325273-Reviews-Le_Bistrot_Itsaski_Bistronomie_Basque-Bayonne_Basque_Country_Pyrenees_Atlantiques.html",
+  "website": "http://www.lebistrotitsaski.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 20 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 919,
+  "reviews": []
+},
+{
+  "id": "15130385",
+  "type": "RESTAURANT",
+  "name": "Le Comptoir Iodé",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/dd/71/b3/photo1jpg.jpg",
+  "awards": [],
+  "rankingPosition": "10",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 50 25 98",
+  "address": "7 Place des Docteurs Gentilhe, 64600 Anglet France",
+  "email": "comptoir.iode@gmail.com",
+  "cuisine": [
+    "Française",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.499657",
+  "longitude": "-1.542433",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d15130385-Reviews-Le_Comptoir_Iode-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/leci.anglet",
+  "rankingDenominator": "177",
+  "rankingString": "Nº 10 sur 175 Restaurants à Anglet",
+  "numberOfReviews": 217,
+  "reviews": []
+},
+{
+  "id": "6947708",
+  "type": "RESTAURANT",
+  "name": "Comptoir à Burger Le CAB Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/c0/6e/00/img-20170922-124827-688.jpg",
+  "awards": [],
+  "rankingPosition": "7",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 51 07 10",
+  "address": "62 Rue Gambetta, 64200 Biarritz France",
+  "email": "lecabbiarritz@gmail.com",
+  "cuisine": [
+    "Restauration rapide",
+    "Européenne",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.479557",
+  "longitude": "-1.56423",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d6947708-Reviews-Le_CAB-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.cab-biarritz.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 6 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 1027,
+  "reviews": []
+},
+{
+  "id": "3371580",
+  "type": "RESTAURANT",
+  "name": "Haragia",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/30/be/6f/haragia.jpg",
+  "awards": [],
+  "rankingPosition": "11",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 35 46 68 92",
+  "address": "26 Rue Gambetta Et Impasse derrière le Bar Le Petit Coin, 64200 Biarritz France",
+  "email": "haragia64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Steakhouse",
+    "Barbecue/Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1200,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.4812",
+  "longitude": "-1.56314",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3371580-Reviews-Haragia-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/haragia64/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 10 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 585,
+  "reviews": []
+},
+{
+  "id": "15813687",
+  "type": "RESTAURANT",
+  "name": "Nicolo' My Kitchen Way Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/02/d7/62/new-menu-every-week.jpg",
+  "awards": [],
+  "rankingPosition": "16",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 51 10 49",
+  "address": "2 Rue du Helder, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Saine",
+    "Italienne",
+    "Pizza",
+    "Restauration rapide",
+    "Méditerranéenne",
+    "Fusion",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ]
+  ],
+  "latitude": "43.481518",
+  "longitude": "-1.558605",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d15813687-Reviews-Nicolo_My_Kitchen_Way-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqui.html",
+  "website": "http://nicolobtz.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 15 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 89,
+  "reviews": []
+},
+{
+  "id": "4174293",
+  "type": "RESTAURANT",
+  "name": "Saline Ceviche Bar",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/79/eb/94/saline-ceviche-bar.jpg",
+  "awards": [],
+  "rankingPosition": "12",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 43 65 98",
+  "address": "62 Rue Gambetta, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Caraïbes",
+    "Sud-américaine",
+    "Hawaïenne",
+    "Saine",
+    "Polynésienne",
+    "Fusion",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.479523",
+  "longitude": "-1.564119",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d4174293-Reviews-Saline_Ceviche_Bar-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://www.saline-ceviche-bar-restaurant-biarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 11 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 699,
+  "reviews": []
+},
+{
+  "id": "8397520",
+  "type": "RESTAURANT",
+  "name": "Restaurant Txabola Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/38/5c/63/le-soir-c-est-tapas.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 87 86",
+  "address": "34 Avenue des Dauphins, 64600 Anglet France",
+  "email": "txabola@outlook.fr",
+  "cuisine": [
+    "Française",
+    "Méditerranéenne",
+    "Européenne",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.501137",
+  "longitude": "-1.539811",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d8397520-Reviews-Txabola-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/pages/Txabola/1443808212578395",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 480,
+  "reviews": []
+},
+{
+  "id": "14105845",
+  "type": "RESTAURANT",
+  "name": "KGB Bar & Restaurant Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/d9/d0/fb/kgb-bar.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 59 55 76 97",
+  "address": "5 Rue Louis Colas, 64600 Anglet France",
+  "email": "contact@kgb.bar",
+  "cuisine": [
+    "Italienne",
+    "Française",
+    "Allemande",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.482777",
+  "longitude": "-1.506389",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d14105845-Reviews-KGB_Bar_Restaurant-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://kgbanglet.fr/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 142,
+  "reviews": []
+},
+{
+  "id": "7372169",
+  "type": "RESTAURANT",
+  "name": "Restaurant Chez Patxi Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/f0/ce/48/20170715-203625-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "11",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 74 11 84",
+  "address": "32 Avenue des Dauphins, 64600 Anglet France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.50108",
+  "longitude": "-1.539876",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d7372169-Reviews-Chez_Patxi-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/ChezPatxi",
+  "rankingDenominator": "177",
+  "rankingString": "N° 11 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 449,
+  "reviews": []
+},
+{
+  "id": "13985790",
+  "type": "RESTAURANT",
+  "name": "Restaurant Poissons Crustacés Terrasse Vue Océan Le Lieu Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/b4/16/40/notre-sale-interieure.jpg",
+  "awards": [],
+  "rankingPosition": "17",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 45 42 18",
+  "address": "5 Place des Docteurs Gentilhe, 64600 Anglet France",
+  "email": "lelieuanglet@gmail.com",
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson",
+    "Brasserie gastronomique"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 570,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.499157",
+  "longitude": "-1.543398",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d13985790-Reviews-Le_Lieu_des_Pecheurs-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://lelieuanglet.fr",
+  "rankingDenominator": "177",
+  "rankingString": "N° 17 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 276,
+  "reviews": []
+},
+{
+  "id": "5826030",
+  "type": "RESTAURANT",
+  "name": "Restaurant Café Bleu Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/1d/a2/a6/cafe-bleu.jpg",
+  "awards": [],
+  "rankingPosition": "14",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 62 68",
+  "address": "Esplanade des Gascons, Chambre d'Amour, 64600 Anglet France",
+  "email": "contact@cafe-bleu-anglet.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 855
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.50061",
+  "longitude": "-1.542359",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d5826030-Reviews-CAFE_BLEU-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.xn--caf-bleu-anglet-dnb.com/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 14 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 822,
+  "reviews": []
+},
+{
+  "id": "23597354",
+  "type": "RESTAURANT",
+  "name": "Mômes - Bande De Gourmets",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/a6/80/c7/la-terrasse-ombragee.jpg",
+  "awards": [],
+  "rankingPosition": "12",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 39 82",
+  "address": "11 Bis Place Du Général Leclerc, 64600 Anglet France",
+  "email": "contact@momes-gourmets.fr",
+  "cuisine": [
+    "Française",
+    "Pub",
+    "Brasserie gastronomique",
+    "Bars-restaurants"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 450,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 450,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.49568",
+  "longitude": "-1.530055",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d23597354-Reviews-MOMES_ANGLET_BANDE_DE_GOURMETS-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvel.html",
+  "website": "http://www.instagram.com/momesanglet/?utm_medium=copy_link",
+  "rankingDenominator": "177",
+  "rankingString": "N° 12 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 73,
+  "reviews": []
+},
+{
+  "id": "2666378",
+  "type": "RESTAURANT",
+  "name": "Jungle Café",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/92/c4/7d/vue-d-une-partie-de-la.jpg",
+  "awards": [],
+  "rankingPosition": "16",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 96 40",
+  "address": "18 Rue des Barthes, 64600 Anglet France",
+  "email": "erick.ducournau@gmail.com",
+  "cuisine": [
+    "Pizza",
+    "Grillades",
+    "Diner"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1800
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1800
+      }
+    ]
+  ],
+  "latitude": "43.483803",
+  "longitude": "-1.50669",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d2666378-Reviews-Jungle_Cafe_restaurant-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "http://jungle-cafe.fr/reservation/",
+  "rankingDenominator": "177",
+  "rankingString": "N° 16 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 431,
+  "reviews": []
+},
+{
+  "id": "3331807",
+  "type": "RESTAURANT",
+  "name": "The Beach House Anglet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/ef/6e/8b/c-puxan-wwwpuxanphotocom.jpg",
+  "awards": [],
+  "rankingPosition": "15",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 15 27 17",
+  "address": "26 Avenue des Dauphins, 64600 Anglet France",
+  "email": "info@beachhouseanglet.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Internationale",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.50071",
+  "longitude": "-1.540003",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d3331807-Reviews-The_Beach_House-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://beachhouseanglet.com",
+  "rankingDenominator": "177",
+  "rankingString": "N° 15 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 600,
+  "reviews": []
+},
+{
+  "id": "11645857",
+  "type": "RESTAURANT",
+  "name": "Bistrot de La plage",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/26/e9/9d/ec/merlu-a-l-espagnole-risotto.jpg",
+  "awards": [],
+  "rankingPosition": "13",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 74 18 09",
+  "address": "10-12 Avenue des Dauphins, 64600 Anglet France",
+  "email": "bistrotdelaplageanglet@gmail.com",
+  "cuisine": [
+    "Bar",
+    "Bar à vins",
+    "Saine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.500347",
+  "longitude": "-1.541204",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g196504-d11645857-Reviews-Bistrot_de_La_plage-Anglet_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://bistrotdelaplageanglet.com",
+  "rankingDenominator": "177",
+  "rankingString": "N° 13 sur 217 endroits où manger à Anglet",
+  "numberOfReviews": 73,
+  "reviews": []
+}]

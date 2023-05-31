@@ -1,0 +1,7855 @@
+[{
+  "id": "7806828",
+  "type": "RESTAURANT",
+  "name": "Restaurant Fumoir Marin Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/ac/c5/53/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 84 05",
+  "address": "10 Avenue de la Marne, 64200 Biarritz France",
+  "email": "contact@fumoirmarin.fr",
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "43.484097",
+  "longitude": "-1.556172",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d7806828-Reviews-Fumoir_Marin-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.fumoirmarin.fr",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 610,
+  "reviews": []
+},
+{
+  "id": "10592003",
+  "type": "RESTAURANT",
+  "name": "Maison Dezamy Artisan Glacier Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/28/d1/a0/img-20170430-190946-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "2",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 26 52 67",
+  "address": "11 Rue des Halles, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Traiteur"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.481163",
+  "longitude": "-1.562056",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10592003-Reviews-Maison_Dezamy-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.maisondezamy.fr",
+  "rankingDenominator": "291",
+  "rankingString": "N° 2 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 224,
+  "reviews": []
+},
+{
+  "id": "9587000",
+  "type": "RESTAURANT",
+  "name": "Le Bistrot Gourmet",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/f3/9c/17/vue-interieure.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€€€",
+  "rating": 5,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 59 22 09 37",
+  "address": "18 Rue de La Bergerie, 64200 Biarritz France",
+  "email": "lebistrotgourmet-bg@orange.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "43.486053",
+  "longitude": "-1.551221",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d9587000-Reviews-Le_Bistrot_Gourmet-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://le-bistrot-gourmet.com/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 678,
+  "reviews": []
+},
+{
+  "id": "6947708",
+  "type": "RESTAURANT",
+  "name": "Comptoir à Burger Le CAB Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/c0/6e/00/img-20170922-124827-688.jpg",
+  "awards": [],
+  "rankingPosition": "7",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 51 07 10",
+  "address": "62 Rue Gambetta, 64200 Biarritz France",
+  "email": "lecabbiarritz@gmail.com",
+  "cuisine": [
+    "Restauration rapide",
+    "Européenne",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.479557",
+  "longitude": "-1.56423",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d6947708-Reviews-Le_CAB-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.cab-biarritz.com",
+  "rankingDenominator": "291",
+  "rankingString": "N° 7 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 1027,
+  "reviews": []
+},
+{
+  "id": "5011160",
+  "type": "RESTAURANT",
+  "name": "La Marine",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/13/46/96/91/logo-la-marine-biarritz.jpg",
+  "awards": [],
+  "rankingPosition": "4",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "0559243409",
+  "address": "28 Rue Mazagran, 64200 Biarritz France",
+  "email": "lamarinebtz@gmail.com",
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Brasserie gastronomique",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1020
+      }
+    ],
+    [],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.481945",
+  "longitude": "-1.564618",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d5011160-Reviews-La_Marine-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Bar.Brasserie.LaMarine.Biarritz",
+  "rankingDenominator": "291",
+  "rankingString": "N° 4 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 386,
+  "reviews": []
+},
+{
+  "id": "14804287",
+  "type": "RESTAURANT",
+  "name": "Chez Scott",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/5b/11/67/merlu-de-ligne-de-st.jpg",
+  "awards": [],
+  "rankingPosition": "1",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 85 98",
+  "address": "4- 6 Rue Jean Bart, 64200 Biarritz France",
+  "email": "chefunequestion@scott-serrato.fr",
+  "cuisine": [
+    "Française",
+    "Internationale",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 795
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 795
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 795
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.48108",
+  "longitude": "-1.558041",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d14804287-Reviews-Chez_Scott-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.chezscott-biarritz.fr",
+  "rankingDenominator": "291",
+  "rankingString": "N° 1 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 208,
+  "reviews": []
+},
+{
+  "id": "3873856",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le O2 Verdun Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/7f/01/da/le-o2-verdun.jpg",
+  "awards": [],
+  "rankingPosition": "3",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 39 94",
+  "address": "49 Avenue de Verdun, 64200 Biarritz France",
+  "email": "leo2verdun@outlook.fr",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.481865",
+  "longitude": "-1.554121",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3873856-Reviews-Le_O2_Verdun-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/leO2verdun",
+  "rankingDenominator": "291",
+  "rankingString": "N° 3 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 680,
+  "reviews": []
+},
+{
+  "id": "6698528",
+  "type": "RESTAURANT",
+  "name": "L'Art Dit Vin - Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/39/73/a8/selection-de-whisky-et.jpg",
+  "awards": [],
+  "rankingPosition": "5",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 73 74",
+  "address": "15 Avenue de Verdun, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Bar à vins",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.481915",
+  "longitude": "-1.556981",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d6698528-Reviews-L_Art_Dit_Vin_Biarritz-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqui.html",
+  "website": "https://www.facebook.com/lartditvinbiarritz",
+  "rankingDenominator": "291",
+  "rankingString": "N° 5 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 278,
+  "reviews": []
+},
+{
+  "id": "2010922",
+  "type": "RESTAURANT",
+  "name": "Restaurant Léonie Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/13/a8/d0/ef/leonie.jpg",
+  "awards": [],
+  "rankingPosition": "6",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 01 26",
+  "address": "7 Avenue Larochefoucauld 7 avenue Larochefoucauld, 64200 Biarritz France",
+  "email": "contact@restaurant-leonie.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1275
+      }
+    ]
+  ],
+  "latitude": "43.482822",
+  "longitude": "-1.544139",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2010922-Reviews-Leonie-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurant-biarritz-leonie.com/",
+  "rankingDenominator": "291",
+  "rankingString": "N° 6 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 431,
+  "reviews": []
+},
+{
+  "id": "788998",
+  "type": "RESTAURANT",
+  "name": "El Callejon",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/72/8f/95/el-callejon.jpg",
+  "awards": [],
+  "rankingPosition": "9",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 99 15",
+  "address": "5, Rue Monhaut, 64200 Biarritz France",
+  "email": "contact@elcallejon.fr",
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Internationale",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1530
+      }
+    ]
+  ],
+  "latitude": "43.482803",
+  "longitude": "-1.560247",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d788998-Reviews-El_Callejon-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.elcallejon-biarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 8 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 970,
+  "reviews": []
+},
+{
+  "id": "2070767",
+  "type": "RESTAURANT",
+  "name": "Txango Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/5e/b0/11/txango.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 59 51 24 98",
+  "address": "5 Avenue de la Gare, 64200 Biarritz France",
+  "email": "txangobiarritz@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine",
+    "Moderne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 750,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.478188",
+  "longitude": "-1.556971",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2070767-Reviews-Txango_Biarritz-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.txangobiarritz.com",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 912,
+  "reviews": []
+},
+{
+  "id": "10138657",
+  "type": "RESTAURANT",
+  "name": "Restaurant L'Entre Deux Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/fc/71/eb/l-entre-deux.jpg",
+  "awards": [],
+  "rankingPosition": "10",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 51 50",
+  "address": "5 Avenue du Maréchal Foch, 64200 Biarritz France",
+  "email": "contact@lentredeuxbiarritz.com",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.481045",
+  "longitude": "-1.558883",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10138657-Reviews-L_Entre_Deux-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.lentredeuxbiarritz.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 9 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 689,
+  "reviews": []
+},
+{
+  "id": "6924951",
+  "type": "RESTAURANT",
+  "name": "Restaurant À La Bonne Franquette Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/76/bf/3b/a-la-bonne-franquette.jpg",
+  "awards": [],
+  "rankingPosition": "8",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 49 24",
+  "address": "10 Avenue de la Gare, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.478035",
+  "longitude": "-1.556911",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d6924951-Reviews-A_La_Bonne_Franquette-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquit.html",
+  "website": "http://www.facebook.com/pages/A-la-bonne-Franquette/1131989303579673?ref=br_rs",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 7 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 305,
+  "reviews": []
+},
+{
+  "id": "2269032",
+  "type": "RESTAURANT",
+  "name": "Restaurant Los Dos Hermanos Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/90/6a/0d/los-dos-hermanos.jpg",
+  "awards": [],
+  "rankingPosition": "14",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 32 67",
+  "address": "36 Avenue de Verdun, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.48174",
+  "longitude": "-1.554718",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2269032-Reviews-Los_Dos_Hermanos-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.losdoshermanos.eu",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 13 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 456,
+  "reviews": []
+},
+{
+  "id": "23992265",
+  "type": "RESTAURANT",
+  "name": "Bistroquet Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/fe/cc/2a/chez-bb-bistroquet-biarritz.jpg",
+  "awards": [],
+  "rankingPosition": "19",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 79 90 66 99",
+  "address": "7 Place Saint Eugenie, 64200 Biarritz France",
+  "email": "bb@alaunefamily.com",
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Café",
+    "Pub",
+    "Bar à vins",
+    "Bars-restaurants"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 630,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1530
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 630,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1530
+      }
+    ]
+  ],
+  "latitude": "43.48247",
+  "longitude": "-1.56412",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d23992265-Reviews-Chez_BB_Bistroquet_Biarritz-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvell.html",
+  "website": "http://alaunefamily.com/bistroquet-biarritz/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 18 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 116,
+  "reviews": []
+},
+{
+  "id": "3369543",
+  "type": "RESTAURANT",
+  "name": "Restaurant L'Impertinent",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/43/ef/62/l-impertinent.jpg",
+  "awards": [],
+  "rankingPosition": "17",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 51 03 67",
+  "address": "5 Rue d’Alsace, 64200 Biarritz France",
+  "email": "contact@l-impertinent.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.48647",
+  "longitude": "-1.550363",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3369543-Reviews-Restaurant_L_Impertinent-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aq.html",
+  "website": "http://www.l-impertinent.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 16 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 551,
+  "reviews": []
+},
+{
+  "id": "3371580",
+  "type": "RESTAURANT",
+  "name": "Haragia",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/30/be/6f/haragia.jpg",
+  "awards": [],
+  "rankingPosition": "11",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 35 46 68 92",
+  "address": "26 Rue Gambetta Et Impasse derrière le Bar Le Petit Coin, 64200 Biarritz France",
+  "email": "haragia64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Steakhouse",
+    "Barbecue/Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1200,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.4812",
+  "longitude": "-1.56314",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3371580-Reviews-Haragia-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/haragia64/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 10 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 585,
+  "reviews": []
+},
+{
+  "id": "15813687",
+  "type": "RESTAURANT",
+  "name": "Nicolo' My Kitchen Way Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/02/d7/62/new-menu-every-week.jpg",
+  "awards": [],
+  "rankingPosition": "16",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 51 10 49",
+  "address": "2 Rue du Helder, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Saine",
+    "Italienne",
+    "Pizza",
+    "Restauration rapide",
+    "Méditerranéenne",
+    "Fusion",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 870
+      }
+    ]
+  ],
+  "latitude": "43.481518",
+  "longitude": "-1.558605",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d15813687-Reviews-Nicolo_My_Kitchen_Way-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqui.html",
+  "website": "http://nicolobtz.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 15 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 89,
+  "reviews": []
+},
+{
+  "id": "12538704",
+  "type": "RESTAURANT",
+  "name": "La Belloteka",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/bf/58/70/cote-de-beouf-a-la-braise.jpg",
+  "awards": [],
+  "rankingPosition": "15",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 58 57",
+  "address": "8 Rue du Centre, 64200 Biarritz France",
+  "email": "davidroumieu@yahoo.fr",
+  "cuisine": [
+    "Française",
+    "Barbecue/Grillades",
+    "Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ]
+  ],
+  "latitude": "43.48066",
+  "longitude": "-1.56247",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d12538704-Reviews-La_Belloteka-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://labelloteka.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 14 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 505,
+  "reviews": []
+},
+{
+  "id": "1869572",
+  "type": "RESTAURANT",
+  "name": "Le Bistrot de Biarritz (Le B2)",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/ee/ba/57/la-salle.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 59 24 34 66",
+  "address": "5 rue du Centre, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Fruits de mer & Poisson",
+    "Française",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.480602",
+  "longitude": "-1.562344",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1869572-Reviews-Le_Bistrot_de_Biarritz_Le_B2-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvell.html",
+  "website": null,
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 918,
+  "reviews": []
+},
+{
+  "id": "4174293",
+  "type": "RESTAURANT",
+  "name": "Saline Ceviche Bar",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/79/eb/94/saline-ceviche-bar.jpg",
+  "awards": [],
+  "rankingPosition": "12",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 43 65 98",
+  "address": "62 Rue Gambetta, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Caraïbes",
+    "Sud-américaine",
+    "Hawaïenne",
+    "Saine",
+    "Polynésienne",
+    "Fusion",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.479523",
+  "longitude": "-1.564119",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d4174293-Reviews-Saline_Ceviche_Bar-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://www.saline-ceviche-bar-restaurant-biarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 11 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 699,
+  "reviews": []
+},
+{
+  "id": "17722559",
+  "type": "RESTAURANT",
+  "name": "Bistrot Helbidea Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/51/05/0e/helbidea-salle-climatisee.jpg",
+  "awards": [],
+  "rankingPosition": "18",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 85 61 21",
+  "address": "13 Avenue de Verdun, 64200 Biarritz France",
+  "email": "bonjour@helbidea.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine",
+    "Fusion",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48192",
+  "longitude": "-1.557179",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d17722559-Reviews-Helbidea-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://helbidea.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 17 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 162,
+  "reviews": []
+},
+{
+  "id": "10476783",
+  "type": "RESTAURANT",
+  "name": "CIBO Pizza",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/d3/45/6e/cibo-pizzeria.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 35 46 56 71",
+  "address": "51 Bis Rue Gambetta, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Italienne",
+    "Pizza",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.479168",
+  "longitude": "-1.564244",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10476783-Reviews-CIBO_Pizza-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.cibo-biarritz.fr/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 616,
+  "reviews": []
+},
+{
+  "id": "2002209",
+  "type": "RESTAURANT",
+  "name": "Restaurant Les Rosiers Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/68/a7/72/les-rosiers.jpg",
+  "awards": [],
+  "rankingPosition": "13",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 13 68",
+  "address": "32 Avenue Beau Soleil, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1200,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1200,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1200,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1200,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.467777",
+  "longitude": "-1.553384",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2002209-Reviews-Les_Rosiers-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurant-lesrosiers.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 12 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 464,
+  "reviews": []
+},
+{
+  "id": "1900859",
+  "type": "RESTAURANT",
+  "name": "Restaurant Hernani",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/cc/93/45/cidrerie-hernani.jpg",
+  "awards": [],
+  "rankingPosition": "20",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 01 01",
+  "address": "29 Avenue Maréchal Joffre, 64200 Biarritz France",
+  "email": "contact@restaurant-hernani.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole",
+    "Grillades",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 1200,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1410
+      }
+    ]
+  ],
+  "latitude": "43.47692",
+  "longitude": "-1.562235",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1900859-Reviews-Restaurant_Hernani-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://www.restaurant-hernani.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 19 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 486,
+  "reviews": []
+},
+{
+  "id": "17298203",
+  "type": "RESTAURANT",
+  "name": "Manatee",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/aa/f9/ef/bar.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 24 33 03 06",
+  "address": "13 Rue Gambetta, 64200 Biarritz France",
+  "email": "info@manatee-biarritz.fr",
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Moderne",
+    "Brasserie gastronomique",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 900
+      }
+    ],
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48158",
+  "longitude": "-1.562884",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d17298203-Reviews-Manatee-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.manatee-biarritz.fr",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 282,
+  "reviews": []
+},
+{
+  "id": "1333614",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le Crabe Tambour Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/01/61/1b/fb-img-1474195827334.jpg",
+  "awards": [],
+  "rankingPosition": "26",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 24 53",
+  "address": "49 Rue Espagne, 64200 Biarritz France",
+  "email": "contact@crabetambour.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.474514",
+  "longitude": "-1.563731",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1333614-Reviews-Le_Crabe_Tambour-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.crabetambour.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 25 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 346,
+  "reviews": []
+},
+{
+  "id": "2301916",
+  "type": "RESTAURANT",
+  "name": "LTB La Table Basque Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/78/07/11/la-table-basque.jpg",
+  "awards": [],
+  "rankingPosition": "22",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 23 52",
+  "address": "4 Avenue de la Marne, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 825
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 825
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 825
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 825
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 825
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.48413",
+  "longitude": "-1.55691",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2301916-Reviews-LTB_La_Table_Basque-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.restaurant-ltb-biarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 21 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 1141,
+  "reviews": []
+},
+{
+  "id": "2000629",
+  "type": "RESTAURANT",
+  "name": "Bar à Bières La Tireuse Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/c6/fe/c6/le-bar-aux-20-bieres.jpg",
+  "awards": [],
+  "rankingPosition": "25",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 961624823",
+  "address": "29 Rue Mazagran, 64200 Biarritz France",
+  "email": "latireuse-biarritz@hotmail.fr",
+  "cuisine": [
+    "Française",
+    "Belge",
+    "Bar",
+    "Européenne",
+    "Pub"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.48198",
+  "longitude": "-1.5639",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2000629-Reviews-La_Tireuse-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://latireuse-biarritz.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 24 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 459,
+  "reviews": []
+},
+{
+  "id": "12391071",
+  "type": "RESTAURANT",
+  "name": "Chez Coco",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/0f/1e/a5/d9/getlstd-property-photo.jpg",
+  "awards": [],
+  "rankingPosition": "23",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 26 28 10",
+  "address": "5 Rue Gardères, 64200 Biarritz France",
+  "email": "annexe64@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Française",
+    "Pizza",
+    "Européenne",
+    "Saine",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.482513",
+  "longitude": "-1.559265",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d12391071-Reviews-Chez_Coco-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.chez-coco-biarritz.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 22 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 993,
+  "reviews": []
+},
+{
+  "id": "8384632",
+  "type": "RESTAURANT",
+  "name": "Maison Adam Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/65/37/1b/2h-avant-degustation.jpg",
+  "awards": [],
+  "rankingPosition": "27",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 26 03 54",
+  "address": "3 et 27 Place Clémenceau, 64200 Biarritz France",
+  "email": "contact@maisonadam.fr",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.482094",
+  "longitude": "-1.559053",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d8384632-Reviews-Maison_Adam-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.maisonadam.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 2 sur 13 Desserts à Biarritz",
+  "numberOfReviews": 271,
+  "reviews": []
+},
+{
+  "id": "14926014",
+  "type": "RESTAURANT",
+  "name": "Restaurant Mexicain Los Tacos Chingones Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/13/cd/6b/1a/getlstd-property-photo.jpg",
+  "awards": [],
+  "rankingPosition": "28",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 63 54 21 19",
+  "address": "10 Avenue de la Gare, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Mexicaine",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.47817",
+  "longitude": "-1.556825",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d14926014-Reviews-Los_Tacos_Chingones-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "http://www.facebook.com/Los-Tacos-Chingones-Biarritz-1504116166360565/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 26 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 109,
+  "reviews": []
+},
+{
+  "id": "8008548",
+  "type": "RESTAURANT",
+  "name": "Laketua",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/18/e2/c0/1e/la-cote-de-boeuf-sur.jpg",
+  "awards": [],
+  "rankingPosition": "29",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 86 22 69 54",
+  "address": "64 Rue Gambetta, 64200 Biarritz France",
+  "email": "laketua.btz@gmail.com",
+  "cuisine": [
+    "Barbecue/Grillades",
+    "Française",
+    "Européenne",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1365
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1365
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1365
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1365
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1365
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1365
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.479267",
+  "longitude": "-1.564343",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d8008548-Reviews-Laketua-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.rezto.net/reztomembers/laketua/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 27 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 280,
+  "reviews": []
+},
+{
+  "id": "11613632",
+  "type": "RESTAURANT",
+  "name": "California Kitchen Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/c4/c9/e7/un-baby-foot-en-attendant.jpg",
+  "awards": [],
+  "rankingPosition": "21",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 51 91 35 85",
+  "address": "66 rue Gambetta, 64200 Biarritz France",
+  "email": "jbuffalan@gmail.com",
+  "cuisine": [
+    "Mexicaine",
+    "Américaine",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.479305",
+  "longitude": "-1.564254",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d11613632-Reviews-California_Kitchen-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://californiakitchen.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 20 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 301,
+  "reviews": []
+},
+{
+  "id": "3707731",
+  "type": "RESTAURANT",
+  "name": "Restaurant Crustacés La Cabane à Huîtres Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/1d/5d/d7/la-cabane-a-huitres.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 59 54 79 65",
+  "address": "62 Rue Gambetta, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.47945",
+  "longitude": "-1.564197",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3707731-Reviews-La_Cabane_A_Huitres-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "https://www.xn--cabane-a-hutres-vpb.com/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 558,
+  "reviews": []
+},
+{
+  "id": "3777381",
+  "type": "RESTAURANT",
+  "name": "Restaurant Bar La Humade Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/48/39/f8/la-humade.jpg",
+  "awards": [],
+  "rankingPosition": "24",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 43 02 18",
+  "address": "5 Rue du Port Vieux, 64200 Biarritz France",
+  "email": "restaurantlahumade@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.482",
+  "longitude": "-1.565615",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3777381-Reviews-La_Humade-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "291",
+  "rankingString": "Nº 23 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 641,
+  "reviews": []
+},
+{
+  "id": "8563437",
+  "type": "RESTAURANT",
+  "name": "Auberge 22",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/21/93/5e/46/cotes-maturees-preparees.jpg",
+  "awards": [],
+  "rankingPosition": "30",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 01 41",
+  "address": "22 Bis Rue Harispe, 64200 Biarritz France",
+  "email": "auberge22@orange.fr",
+  "cuisine": [
+    "Brasserie gastronomique",
+    "Française",
+    "Steakhouse",
+    "Barbecue/Grillades",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1410
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1425
+      }
+    ]
+  ],
+  "latitude": "43.47354",
+  "longitude": "-1.565782",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d8563437-Reviews-Auberge_22-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Auberge22btz",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 28 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 716,
+  "reviews": []
+},
+{
+  "id": "4355269",
+  "type": "RESTAURANT",
+  "name": "Bar Tapas Produits Terroir Crampotte 30 Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/08/a6/30/getlstd-property-photo.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 40 07 06 52",
+  "address": "30 Port des Pêcheurs, 64200 Biarritz France",
+  "email": "crampotte30@gmail.com",
+  "cuisine": [
+    "Française",
+    "Méditerranéenne",
+    "Européenne",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48315",
+  "longitude": "-1.564935",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d4355269-Reviews-Crampotte_30-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Crampotte-30-650479584981262",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 362,
+  "reviews": []
+},
+{
+  "id": "23216873",
+  "type": "RESTAURANT",
+  "name": "Bar Napoléon III - Hôtel Du Palais",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/5d/9a/8c/bar-napoleon-iii.jpg",
+  "awards": [],
+  "rankingPosition": "32",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 12 34",
+  "address": "1 Avenue De L'impératrice Biarritz, France, 64200 Biarritz France",
+  "email": "restaurant@hoteldupalaisbiarritz.com",
+  "cuisine": [
+    "Bar",
+    "Pub"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.486824",
+  "longitude": "-1.555066",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d23216873-Reviews-Bar_Napoleon_III_Hotel_Du_Palais-Biarritz_Basque_Country_Pyrenees_Atlantiques_No.html",
+  "website": "http://www.hyatt.com/fr-FR/hotel/france/hotel-du-palais-biarritz/biqub/dining?src=prop_tripadvisor_premiumlisting_biqub_fr_diningpage_bar_napoleon",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 30 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 56,
+  "reviews": []
+},
+{
+  "id": "1062487",
+  "type": "RESTAURANT",
+  "name": "Restaurant La Tantina de Burgos Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/c7/a1/a5/cote-de-boeuf-single.jpg",
+  "awards": [],
+  "rankingPosition": "36",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 24 47",
+  "address": "2 Place Beaurivage, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.472916",
+  "longitude": "-1.566732",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1062487-Reviews-La_Tantina_de_Burgos-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "http://fr-fr.facebook.com/La-Tantina-De-Burgos-126582804024308",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 34 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 471,
+  "reviews": []
+},
+{
+  "id": "13955497",
+  "type": "RESTAURANT",
+  "name": "Les Biarrotes",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/9b/08/1e/les-biarrotes.jpg",
+  "awards": [],
+  "rankingPosition": "39",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 08 85",
+  "address": "7, place Sainte-Eugénie, 64200 Biarritz France",
+  "email": "lesbiarrotes@gmail.com",
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson",
+    "Méditerranéenne",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.482403",
+  "longitude": "-1.563872",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d13955497-Reviews-Les_Biarrotes-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/lesbiarrotes/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 37 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 346,
+  "reviews": []
+},
+{
+  "id": "1480734",
+  "type": "RESTAURANT",
+  "name": "Le Pim'Pi Bistrot Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/45/bb/be/le-pim-pi-bistrot.jpg",
+  "awards": [],
+  "rankingPosition": "33",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 12 62",
+  "address": "14 Avenue De Verdun, 64200 Biarritz France",
+  "email": "lepimpibistrot@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.481857",
+  "longitude": "-1.557057",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1480734-Reviews-Le_Pim_Pi_Bistrot-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.lepimpi-bistrot.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 31 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 464,
+  "reviews": []
+},
+{
+  "id": "7942336",
+  "type": "RESTAURANT",
+  "name": "A Casa Lusitana",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/ed/42/7e/bacalhau-a-moda-da-casa.jpg",
+  "awards": [],
+  "rankingPosition": "40",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 56 99",
+  "address": "24 Rue d' Espagne, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Européenne",
+    "Portugaise"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 810
+      }
+    ]
+  ],
+  "latitude": "43.47594",
+  "longitude": "-1.564969",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d7942336-Reviews-A_casa_Lusitana-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/A-casa-lusitana-64-1571616063099417",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 38 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 231,
+  "reviews": []
+},
+{
+  "id": "3165192",
+  "type": "RESTAURANT",
+  "name": "Le Glouby",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/fe/bc/f0/le-glouby-ferme-le-mercredi.jpg",
+  "awards": [],
+  "rankingPosition": "38",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 54 14",
+  "address": "4 Rue Vieux Port, 64200 Biarritz France",
+  "email": "papesse64@gmail.com",
+  "cuisine": [
+    "Pizza",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.481995",
+  "longitude": "-1.565415",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3165192-Reviews-Le_Glouby-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/pages/Le-Glouby",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 36 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 399,
+  "reviews": []
+},
+{
+  "id": "7304409",
+  "type": "RESTAURANT",
+  "name": "Bistrot Tapas Le Bar Bu Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/47/eb/a6/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "35",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 24 79",
+  "address": "5 Rue Gaston Larre, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.4818",
+  "longitude": "-1.565622",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d7304409-Reviews-Le_Bar_Bu-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/barbubiarritz",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 33 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 253,
+  "reviews": []
+},
+{
+  "id": "12479029",
+  "type": "RESTAURANT",
+  "name": "Restaurant Chistéra et Coquillages Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/6f/ea/58/le-bar.jpg",
+  "awards": [],
+  "rankingPosition": "31",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 89 45",
+  "address": "13 Rue des Halles, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.48109",
+  "longitude": "-1.561854",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d12479029-Reviews-Chistera_et_Coquillages-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aq.html",
+  "website": "http://www.facebook.com/chisteraetcoquillages/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 29 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 669,
+  "reviews": []
+},
+{
+  "id": "17651163",
+  "type": "RESTAURANT",
+  "name": "L'Atelier Alexandre Bousquet Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/35/04/b9/ambiance-cuisine.jpg",
+  "awards": [],
+  "rankingPosition": "37",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 10 11",
+  "address": "52 Avenue Alan Seeger, 64200 Biarritz France",
+  "email": "restaurant@latelier-alexandrebousquet.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 690,
+        "close": 810
+      },
+      {
+        "open": 1020,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 810
+      },
+      {
+        "open": 1020,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 810
+      },
+      {
+        "open": 1020,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 810
+      },
+      {
+        "open": 1020,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 810
+      },
+      {
+        "open": 1020,
+        "close": 1080
+      }
+    ]
+  ],
+  "latitude": "43.44937",
+  "longitude": "-1.544986",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d17651163-Reviews-L_Atelier_Alexandre_Bousquet-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvel.html",
+  "website": "https://latelier-alexandrebousquet.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 35 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 168,
+  "reviews": []
+},
+{
+  "id": "1571537",
+  "type": "RESTAURANT",
+  "name": "Restaurant La Table d'Aranda Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/74/c7/e8/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "34",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 16 04",
+  "address": "87 Avenue de la Marne, 64200 Biarritz France",
+  "email": "contact@tabledaranda.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 765,
+        "close": 825
+      },
+      {
+        "open": 1185,
+        "close": 1305
+      }
+    ],
+    [
+      {
+        "open": 765,
+        "close": 825
+      },
+      {
+        "open": 1185,
+        "close": 1305
+      }
+    ],
+    [
+      {
+        "open": 765,
+        "close": 825
+      },
+      {
+        "open": 1185,
+        "close": 1305
+      }
+    ],
+    [
+      {
+        "open": 765,
+        "close": 825
+      },
+      {
+        "open": 1185,
+        "close": 1305
+      }
+    ],
+    [
+      {
+        "open": 765,
+        "close": 825
+      },
+      {
+        "open": 1185,
+        "close": 1305
+      }
+    ]
+  ],
+  "latitude": "43.48342",
+  "longitude": "-1.547008",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1571537-Reviews-La_Table_d_Aranda-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.tabledaranda.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 32 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 530,
+  "reviews": []
+},
+{
+  "id": "2623263",
+  "type": "RESTAURANT",
+  "name": "La Goulue",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/82/d9/45/la-goulue.jpg",
+  "awards": [],
+  "rankingPosition": "44",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 88 55 84 24",
+  "address": "3 Rue Etienne Ardoin, 64200 Biarritz France",
+  "email": "fred.lagouluebtz@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine",
+    "Brasserie gastronomique"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.48055",
+  "longitude": "-1.558395",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2623263-Reviews-La_Goulue-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.lagouluebiarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 42 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 1458,
+  "reviews": []
+},
+{
+  "id": "23522089",
+  "type": "RESTAURANT",
+  "name": "Restaurant Voyages Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/64/b5/bb/facade-49-rue-gambetta.jpg",
+  "awards": [],
+  "rankingPosition": "41",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 47 39 77",
+  "address": "49 Rue Gambetta, 64200 Biarritz France",
+  "email": "voyages-biarritz@orange.fr",
+  "cuisine": [
+    "Française",
+    "Fusion",
+    "Bar à vins"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1155,
+        "close": 1350
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.479362",
+  "longitude": "-1.564082",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d23522089-Reviews-Voyages-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "291",
+  "rankingString": "Nº 39 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 72,
+  "reviews": []
+},
+{
+  "id": "4261031",
+  "type": "RESTAURANT",
+  "name": "La Table d'Aurélien Largeau",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/69/1e/13/table-avec-vue.jpg",
+  "awards": [],
+  "rankingPosition": "47",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33559416420",
+  "address": "1 Avenue de l'Impératrice Hôtel du Palais Biarritz, 64200 Biarritz France",
+  "email": "ltal@hoteldupalaisbiarritz.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "43.486572",
+  "longitude": "-1.556267",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d4261031-Reviews-La_Table_d_Aurelien_Largeau-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle.html",
+  "website": "http://www.latabledaurelienlargeau.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 45 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 92,
+  "reviews": []
+},
+{
+  "id": "19625025",
+  "type": "RESTAURANT",
+  "name": "La Quebecoise",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1b/ef/4f/8a/poutine-sud-ouest-sur.jpg",
+  "awards": [],
+  "rankingPosition": "48",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 81 88 58 42",
+  "address": "57 Avenue de Verdun, 64200 Biarritz France",
+  "email": "flordelcid@live.ca",
+  "cuisine": [
+    "Canadienne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.48181",
+  "longitude": "-1.553437",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d19625025-Reviews-La_Quebecoise-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.laquebecoise-biarritz.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 46 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 56,
+  "reviews": []
+},
+{
+  "id": "23413673",
+  "type": "RESTAURANT",
+  "name": "Octopus Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/4c/01/3e/caption.jpg",
+  "awards": [],
+  "rankingPosition": "50",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 85 98 47",
+  "address": "2 Rue Gardères, 64200 Biarritz France",
+  "email": "octopusbiarritz@gmail.com",
+  "cuisine": [
+    "Française",
+    "Café",
+    "Européenne",
+    "Bars-restaurants",
+    "Saine",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 510,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1530
+      }
+    ]
+  ],
+  "latitude": "43.482933",
+  "longitude": "-1.559561",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d23413673-Reviews-Octopus-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "291",
+  "rankingString": "Nº 48 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 147,
+  "reviews": []
+},
+{
+  "id": "3392822",
+  "type": "RESTAURANT",
+  "name": "Trattoria - La Pizzeria des Arceaux Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/6b/1b/89/pizzeria-trattoria-des.jpg",
+  "awards": [],
+  "rankingPosition": "42",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 11 47",
+  "address": "20 Avenue Edouard VII, 64200 Biarritz France",
+  "email": "trattoriadesarceaux@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Pizza",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1395
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1395
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1395
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1395
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1395
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1395
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1395
+      }
+    ]
+  ],
+  "latitude": "43.48346",
+  "longitude": "-1.55859",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3392822-Reviews-Trattoria_La_Pizzeria_Des_Arceaux-Biarritz_Basque_Country_Pyrenees_Atlantiques_No.html",
+  "website": "http://www.facebook.com/Restaurant-La-Trattoria-Pizzeria-des-Arceaux-Biarritz-186937914655249/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 40 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 1365,
+  "reviews": []
+},
+{
+  "id": "17544470",
+  "type": "RESTAURANT",
+  "name": "Chez Gaby Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/d4/91/79/notre-loggia-dans-un.jpg",
+  "awards": [],
+  "rankingPosition": "45",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 47 75 11 45",
+  "address": "11 rue Gardères (Esplanade du Casino), 64200 Biarritz France",
+  "email": "chezgaby-biarritz@outlook.com",
+  "cuisine": [
+    "Méditerranéenne",
+    "Bar à vins"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 540,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.4828",
+  "longitude": "-1.559585",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d17544470-Reviews-Chez_Gaby_Biarritz-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.brasseriechezgaby.fr/fr/brasserie-biarritz/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 43 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 188,
+  "reviews": []
+},
+{
+  "id": "20307988",
+  "type": "RESTAURANT",
+  "name": "Sushiwave Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1b/98/ad/47/cheeseburger.jpg",
+  "awards": [],
+  "rankingPosition": "43",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 85 93 73",
+  "address": "1 Rue du Lycée, 64200 Biarritz France",
+  "email": "contact@sushiwave.fr",
+  "cuisine": [
+    "Japonaise",
+    "Asiatique",
+    "Saine",
+    "Sushi",
+    "Fusion",
+    "Fusion japonaise"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48635",
+  "longitude": "-1.550067",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d20307988-Reviews-Sushiwave_Biarritz-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.sushiwave.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 41 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 66,
+  "reviews": []
+},
+{
+  "id": "2493885",
+  "type": "RESTAURANT",
+  "name": "Biarritz Pizza",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/99/58/a9/nouvelle-deco.jpg",
+  "awards": [],
+  "rankingPosition": "49",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 29 56",
+  "address": "65 Avenue de Verdun, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Italienne",
+    "Cuisine de rue (street food)",
+    "Pizza",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 810
+      },
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 810
+      },
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 810
+      },
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 810
+      },
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 810
+      },
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 810
+      },
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 810
+      },
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.482006",
+  "longitude": "-1.552656",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2493885-Reviews-Biarritz_Pizza-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://biarritz-pizza.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 47 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 225,
+  "reviews": []
+},
+{
+  "id": "17451363",
+  "type": "RESTAURANT",
+  "name": "Burgers Salades Fish and Chips Gracieuse Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/9a/37/7c/jus-de-fruit-frais.jpg",
+  "awards": [],
+  "rankingPosition": "46",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 45 11",
+  "address": "2 Rue du Helder, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Américaine",
+    "Restauration rapide",
+    "Cuisine de rue (street food)"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1080,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48168",
+  "longitude": "-1.55891",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d17451363-Reviews-Gracieuse-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/gracieusebiarritz/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 44 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 64,
+  "reviews": []
+},
+{
+  "id": "940656",
+  "type": "RESTAURANT",
+  "name": "Le Clos Basque",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/24/44/d4/22/caption.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 59 24 24 96",
+  "address": "12 Rue Louis Barthou, 64200 Biarritz France",
+  "email": "leclosbasque@gmail.com",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [],
+  "latitude": "43.482407",
+  "longitude": "-1.558078",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d940656-Reviews-Le_Clos_Basque-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 873,
+  "reviews": []
+},
+{
+  "id": "8461932",
+  "type": "RESTAURANT",
+  "name": "Le Bouchon Biarrot",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/72/6b/8e/face-a-l-hotel-du-palais.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 59 51 14 90",
+  "address": "2 Avenue de la Reine Victoria, 64200 Biarritz France",
+  "email": "girurs@hotmail.com",
+  "cuisine": [
+    "Bar à vins",
+    "Française",
+    "Européenne",
+    "Saine",
+    "Brasserie gastronomique"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.485134",
+  "longitude": "-1.556352",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d8461932-Reviews-Le_Bouchon_Biarrot-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "https://www.facebook.com/LeBouchonBiarrot/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 794,
+  "reviews": []
+},
+{
+  "id": "12165176",
+  "type": "RESTAURANT",
+  "name": "IQORI",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/85/87/b5/la-salle-la-terrasse.jpg",
+  "awards": [],
+  "rankingPosition": "52",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 33 09",
+  "address": "52, Avenue de l'Imperatrice Le Régina Biarritz Hôtel & spa, 64200 Biarritz France",
+  "email": "h2050-dm@accor.com",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 750,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49122",
+  "longitude": "-1.551662",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d12165176-Reviews-IQORI-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://hotelregina-biarritz.com/fr/menu/restaurants/carte-gastronomique-restaurant-idori-mer-pays-basque",
+  "rankingDenominator": "291",
+  "rankingString": "N° 52 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 225,
+  "reviews": []
+},
+{
+  "id": "1180928",
+  "type": "RESTAURANT",
+  "name": "Il Giardino Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/ef/79/cc/pate-au-homard-16.jpg",
+  "awards": [],
+  "rankingPosition": "53",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 16 41",
+  "address": "5 Rue du Centre, 64200 Biarritz France",
+  "email": "info@ilgiardino-biarritz.com",
+  "cuisine": [
+    "Italienne",
+    "Méditerranéenne",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.480556",
+  "longitude": "-1.562253",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1180928-Reviews-Il_Giardino-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://ilgiardino-biarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "N° 53 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 523,
+  "reviews": []
+},
+{
+  "id": "6914613",
+  "type": "RESTAURANT",
+  "name": "Bar Tapas Cocktails Produits Locaux Les Contrebandiers Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/15/6c/22/ab/le-gout-du-partage.jpg",
+  "awards": [],
+  "rankingPosition": "51",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 02 27",
+  "address": "20 Avenue Victor Hugo, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole",
+    "Bar à vins"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1439
+      }
+    ]
+  ],
+  "latitude": "43.480858",
+  "longitude": "-1.561667",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d6914613-Reviews-Les_Contrebandiers-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "https://www.facebook.com/pages/Les-Contrebandiers/288774937963221",
+  "rankingDenominator": "291",
+  "rankingString": "N° 51 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 448,
+  "reviews": []
+},
+{
+  "id": "2368183",
+  "type": "RESTAURANT",
+  "name": "Milwaukee Café Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/36/77/8a/milwaukee-cafe.jpg",
+  "awards": [],
+  "rankingPosition": "55",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 31 88 47 30",
+  "address": "2 Rue du Helder, 64200 Biarritz France",
+  "email": "milwaukee.cafe@gmail.com",
+  "cuisine": [
+    "Américaine",
+    "Café",
+    "Saine",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 960
+      }
+    ],
+    [],
+    [
+      {
+        "open": 600,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1080
+      }
+    ]
+  ],
+  "latitude": "43.481754",
+  "longitude": "-1.559032",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2368183-Reviews-Milwaukee_Cafe-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://milwaukee.cafe",
+  "rankingDenominator": "291",
+  "rankingString": "N° 55 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 692,
+  "reviews": []
+},
+{
+  "id": "2252874",
+  "type": "RESTAURANT",
+  "name": "Bistrot du Haou",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/bb/3f/d1/chou-praline.jpg",
+  "awards": [],
+  "rankingPosition": "58",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 18 84",
+  "address": "43 rue Gambetta, 64200 Biarritz France",
+  "email": "jerome.lecomte6@wanadoo.fr",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.479607",
+  "longitude": "-1.564017",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2252874-Reviews-Bistrot_du_Haou-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Bistrot-Du-Haou-1471836629702932/",
+  "rankingDenominator": "291",
+  "rankingString": "N° 58 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 332,
+  "reviews": []
+},
+{
+  "id": "17780638",
+  "type": "RESTAURANT",
+  "name": "Bistrot Etxeko Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/d7/03/85/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "54",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 71 66",
+  "address": "1 Place Saint Eugénie, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole",
+    "Pub"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.48216",
+  "longitude": "-1.564088",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d17780638-Reviews-Bistrot_Etxeko-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "291",
+  "rankingString": "N° 54 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 102,
+  "reviews": []
+},
+{
+  "id": "21281534",
+  "type": "RESTAURANT",
+  "name": "Bowl & Tea",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/1d/f0/09/bubble-tea-et-donburi.jpg",
+  "awards": [],
+  "rankingPosition": "56",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 38 43 35 38",
+  "address": "33 Avenue de Verdun, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Asiatique",
+    "Hawaïenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.48185",
+  "longitude": "-1.55533",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d21281534-Reviews-Bowl_Tea-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.instagram.com/bowlandtea/?hl=en",
+  "rankingDenominator": "291",
+  "rankingString": "N° 56 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 43,
+  "reviews": []
+},
+{
+  "id": "4736220",
+  "type": "RESTAURANT",
+  "name": "Café du Commerce Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/7f/a5/d3/pasta.jpg",
+  "awards": [],
+  "rankingPosition": "57",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 87 24",
+  "address": "1 Rue des Halles, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.481297",
+  "longitude": "-1.562928",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d4736220-Reviews-Cafe_du_Commerce-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/pages/category/French-Restaurant/Caf%C3%A9-du-Commerce-Biarritz-1383386805224657/",
+  "rankingDenominator": "291",
+  "rankingString": "N° 57 sur 347 endroits où manger à Biarritz",
+  "numberOfReviews": 1126,
+  "reviews": []
+},
+{
+  "id": "6886490",
+  "type": "RESTAURANT",
+  "name": "Comptoir Bonheur - La Maison du Hamburger Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/82/39/38/partagezvotrebonheur.jpg",
+  "awards": [],
+  "rankingPosition": "60",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 53 48 59 57",
+  "address": "30 Avenue Victor Hugo, 64200 Biarritz France",
+  "email": "contact@bonheurhamburger.com",
+  "cuisine": [
+    "Américaine",
+    "Moderne",
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.47988",
+  "longitude": "-1.561942",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d6886490-Reviews-Bonheur_La_Maison_du_Hamburger-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouve.html",
+  "website": "http://bonheurhamburger.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 58 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 329,
+  "reviews": []
+},
+{
+  "id": "3808890",
+  "type": "RESTAURANT",
+  "name": "Le Tandem",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/50/17/4a/welcome-to-le-tandem.jpg",
+  "awards": [],
+  "rankingPosition": "59",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 54 08 97",
+  "address": "10 Place Sainte Eugénie, 64200 Biarritz France",
+  "email": "letandem.contact@gmail.com",
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Européenne",
+    "Bar à bières",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.482815",
+  "longitude": "-1.563696",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3808890-Reviews-Le_Tandem-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://letandembiarritz.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 57 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 1410,
+  "reviews": []
+},
+{
+  "id": "12860802",
+  "type": "RESTAURANT",
+  "name": "Olatua Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/9f/c5/05/sunset.jpg",
+  "awards": [],
+  "rankingPosition": "70",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": null,
+  "address": "Jardins de l'Atalaye, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48363",
+  "longitude": "-1.567693",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d12860802-Reviews-Olatua_Biarritz-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.olatua-biarritz.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 68 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 156,
+  "reviews": []
+},
+{
+  "id": "21210315",
+  "type": "RESTAURANT",
+  "name": "Crêperie Sarrasin Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/d0/ec/51/salle-de-restauration.jpg",
+  "awards": [],
+  "rankingPosition": "67",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 35 39 57 92",
+  "address": "6 Avenue de la Marne, 64200 Biarritz France",
+  "email": "reservation@creperie-biarritz.fr",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 735,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48405",
+  "longitude": "-1.55666",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d21210315-Reviews-Creperie_Sarrasin_Biarritz-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle.html",
+  "website": "http://sarrasin-biarritz.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 65 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 39,
+  "reviews": []
+},
+{
+  "id": "10130585",
+  "type": "RESTAURANT",
+  "name": "Carøe Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/cc/2f/70/caroe.jpg",
+  "awards": [],
+  "rankingPosition": "69",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 83 34 54 60",
+  "address": "51 Bis Rue Gambetta, 64200 Biarritz France",
+  "email": "contact@caroe-nordisk.com",
+  "cuisine": [],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.478966",
+  "longitude": "-1.564377",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10130585-Reviews-Caroe-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.caroe.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 67 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 251,
+  "reviews": []
+},
+{
+  "id": "1893615",
+  "type": "RESTAURANT",
+  "name": "La Casa Juan Pedro Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/1f/ca/d6/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "63",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 00 86",
+  "address": "Port des Pêcheurs, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson",
+    "Méditerranéenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.483166",
+  "longitude": "-1.565858",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1893615-Reviews-La_Casa_Juan_Pedro-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://casajuanpedro.com/en/home",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 61 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 1137,
+  "reviews": []
+},
+{
+  "id": "2002181",
+  "type": "RESTAURANT",
+  "name": "LMB Biarritz Restaurant",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/13/ce/bf/nouveau-decor-2019.jpg",
+  "awards": [],
+  "rankingPosition": "64",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 58 58",
+  "address": "58 Avenue Edouard VII, 64200 Biarritz France",
+  "email": "restaurant@restaurant-biarritz-lmb.com",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.484497",
+  "longitude": "-1.556982",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2002181-Reviews-LMB_Biarritz_Restaurant-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqu.html",
+  "website": "http://www.lmb-restaurant.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 62 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 299,
+  "reviews": []
+},
+{
+  "id": "19875393",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le Marion Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/f3/1a/1d/interior.jpg",
+  "awards": [],
+  "rankingPosition": "68",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 43 14 86",
+  "address": "30 Avenue du Lac Marion En face de l'hippodrome, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.469776",
+  "longitude": "-1.551249",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d19875393-Reviews-Le_Marion-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.le-marion-restaurant-biarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 66 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 73,
+  "reviews": []
+},
+{
+  "id": "21042433",
+  "type": "RESTAURANT",
+  "name": "Restaurant Chez Eugénie Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/25/e5/d1/paleron-de-beouf-ecrase.jpg",
+  "awards": [],
+  "rankingPosition": "61",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 24 33 84 01",
+  "address": "17 Boulevard Général de Gaulle, 64200 Biarritz France",
+  "email": "contact@chezeugeniebiarritz.com",
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.48429",
+  "longitude": "-1.558394",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d21042433-Reviews-Chez_Eugenie-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://chezeugeniebiarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 59 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 164,
+  "reviews": []
+},
+{
+  "id": "23512105",
+  "type": "RESTAURANT",
+  "name": "AHPÉ Restaurant",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/68/53/66/gaspacho-concombre-genievre.jpg",
+  "awards": [],
+  "rankingPosition": "66",
+  "priceLevel": null,
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 48 81 49 75",
+  "address": "34 Avenue du Président JF Kennedy, 64200 Biarritz France",
+  "email": "contact@ahpe-restaurant.fr",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.472267",
+  "longitude": "-1.555845",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d23512105-Reviews-AHPE_Restaurant-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://ahpe-restaurant.fr/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 64 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 45,
+  "reviews": []
+},
+{
+  "id": "4185839",
+  "type": "RESTAURANT",
+  "name": "Bar du Marché",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/13/a5/60/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "62",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 48 96",
+  "address": "8 Rue des Halles, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Européenne",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.480965",
+  "longitude": "-1.56218",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d4185839-Reviews-Bar_du_Marche-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/Bar-du-March%C3%A9-Biarritz-112601918781254/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 60 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 354,
+  "reviews": []
+},
+{
+  "id": "817700",
+  "type": "RESTAURANT",
+  "name": "Le Bistrot des Halles Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/16/ae/ae/20180811-133437-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "65",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 21 22",
+  "address": "1 Rue du Centre, 64200 Biarritz France",
+  "email": "sarlmg3@sfr.fr",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1155,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1155,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1155,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1155,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1155,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1155,
+        "close": 1530
+      }
+    ],
+    [
+      {
+        "open": 1155,
+        "close": 1530
+      }
+    ]
+  ],
+  "latitude": "43.48079",
+  "longitude": "-1.562425",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d817700-Reviews-Le_Bistrot_des_halles-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "http://www.bistrotdeshallesbiarritz.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 63 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 459,
+  "reviews": []
+},
+{
+  "id": "1145476",
+  "type": "RESTAURANT",
+  "name": "Restaurant Poissons Crustacés Chez Albert Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/b0/5a/98/utsokta-frukter-fran.jpg",
+  "awards": [],
+  "rankingPosition": "72",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 43 84",
+  "address": "Vieux Port, Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48324",
+  "longitude": "-1.565251",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1145476-Reviews-Chez_albert-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.chezalbert.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 70 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 1964,
+  "reviews": []
+},
+{
+  "id": "809583",
+  "type": "RESTAURANT",
+  "name": "Bar Café Miguel Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/3d/78/5f/cafe-miguel.jpg",
+  "awards": [],
+  "rankingPosition": "78",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 36 21",
+  "address": "11 Rue Perspective Côte Basque, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Bar",
+    "Européenne",
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.48212",
+  "longitude": "-1.567117",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d809583-Reviews-Cafe_miguel-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Miguel-Caf%C3%A9-552091048198405/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 76 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 203,
+  "reviews": []
+},
+{
+  "id": "4258949",
+  "type": "RESTAURANT",
+  "name": "Le Blé Noir",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/9c/ce/4b/vue-depuis-la-terrasse.jpg",
+  "awards": [],
+  "rankingPosition": "74",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 31 77",
+  "address": "31 Boulevard du Général de Gaulle, 64200 Biarritz France",
+  "email": "heugasalexis@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.48367",
+  "longitude": "-1.562353",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d4258949-Reviews-Le_Ble_Noir-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Le-Bl%C3%A9-Noir-Biarritz-118307611662324",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 72 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 760,
+  "reviews": []
+},
+{
+  "id": "8051484",
+  "type": "RESTAURANT",
+  "name": "Restaurant Nahia",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/d0/5c/bd/photo4jpg.jpg",
+  "awards": [],
+  "rankingPosition": "80",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 83 01 57 27",
+  "address": "10 Rue des Mésanges, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Fruits de mer & Poisson"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1275
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1275
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1275
+      }
+    ]
+  ],
+  "latitude": "43.46203",
+  "longitude": "-1.539277",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d8051484-Reviews-Restaurant_Nahia-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/pages/Restaurant-NAHIA/786778441418290",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 78 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 89,
+  "reviews": []
+},
+{
+  "id": "12066729",
+  "type": "RESTAURANT",
+  "name": "La Table des Docks Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/40/0e/1c/la-salle-du-restaurant.jpg",
+  "awards": [],
+  "rankingPosition": "71",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 41 28 51",
+  "address": "7 Rue Luis Mariano, 64200 Biarritz France",
+  "email": "latabledesdocks@gmail.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 495,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 495,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 495,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 495,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 495,
+        "close": 930
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.45943",
+  "longitude": "-1.5427",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d12066729-Reviews-La_Table_des_Docks-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.facebook.com/latabledesdocks/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 69 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 69,
+  "reviews": []
+},
+{
+  "id": "21158313",
+  "type": "RESTAURANT",
+  "name": "Palais Marrakech Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/1b/da/2b/0b/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "75",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 66 86 87 61",
+  "address": "6 Boulevard Marcel Dassault, 64200 Biarritz France",
+  "email": "palaismarrakech@outlook.fr",
+  "cuisine": [
+    "Marocaine",
+    "Méditerranéenne",
+    "Saine",
+    "Moyen-Orient"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ]
+  ],
+  "latitude": "43.4604",
+  "longitude": "-1.54723",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d21158313-Reviews-Palais_Marrakech-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "291",
+  "rankingString": "Nº 73 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 61,
+  "reviews": []
+},
+{
+  "id": "10316355",
+  "type": "RESTAURANT",
+  "name": "Joie - La Maison de La Pizza Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/67/fa/66/une-de-nos-delicieuses.jpg",
+  "awards": [],
+  "rankingPosition": "79",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 38 35",
+  "address": "39 Rue d'Espagne En congés du 12/11/2017 au 11/12/2017, 64200 Biarritz France",
+  "email": "contact@joiepizza.com",
+  "cuisine": [
+    "Italienne",
+    "Pizza",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.475044",
+  "longitude": "-1.564286",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10316355-Reviews-Joie_La_Maison_de_La_Pizza-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle.html",
+  "website": "http://www.joiepizza.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 77 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 217,
+  "reviews": []
+},
+{
+  "id": "15060232",
+  "type": "RESTAURANT",
+  "name": "Restaurant L’Arty Chaud Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/07/fd/9f/delicieux.jpg",
+  "awards": [],
+  "rankingPosition": "76",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 87 34 80 68",
+  "address": "16 Rue des Mésanges, 64200 Biarritz France",
+  "email": "lartychaud@yahoo.com",
+  "cuisine": [
+    "Française",
+    "Marocaine",
+    "Européenne",
+    "Thaï",
+    "Soupes"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ]
+  ],
+  "latitude": "43.461567",
+  "longitude": "-1.539903",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d15060232-Reviews-L_Arty_Chaud-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://larty-chaud.business.site/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 74 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 45,
+  "reviews": []
+},
+{
+  "id": "2526815",
+  "type": "RESTAURANT",
+  "name": "Moony: The Homemade Burger Factory",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/53/88/ac/le-double.jpg",
+  "awards": [],
+  "rankingPosition": "77",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 66 93 71 05",
+  "address": "12 Rue du Port Vieux, 64200 Biarritz France",
+  "email": "resto@moony64.com",
+  "cuisine": [
+    "Américaine",
+    "Restauration rapide",
+    "Internationale"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 2040
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 2040
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 2040
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 2040
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 2040
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 2040
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 2040
+      }
+    ]
+  ],
+  "latitude": "43.48219",
+  "longitude": "-1.566518",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2526815-Reviews-Moony_The_Homemade_Burger_Factory-Biarritz_Basque_Country_Pyrenees_Atlantiques_No.html",
+  "website": "http://www.moony.fr",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 75 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 385,
+  "reviews": []
+},
+{
+  "id": "1384076",
+  "type": "RESTAURANT",
+  "name": "Bar du Jardin Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/19/69/43/img-45151-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "73",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 01 97",
+  "address": "26 Avenue du Marechal Foch, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.480015",
+  "longitude": "-1.558721",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1384076-Reviews-Bar_du_Jardin-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.bardujardin.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 71 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 294,
+  "reviews": []
+},
+{
+  "id": "21138202",
+  "type": "RESTAURANT",
+  "name": "La Pléthore",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/07/f9/99/caption.jpg",
+  "awards": [],
+  "rankingPosition": "85",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 23 30 45",
+  "address": "34 Rue Gambetta, 64200 Biarritz France",
+  "email": "laplethore64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.480927",
+  "longitude": "-1.563185",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d21138202-Reviews-La_Plethore-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/LAPLETHORE/?ref=py_c&__xts__[0]=",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 83 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 90,
+  "reviews": []
+},
+{
+  "id": "10534861",
+  "type": "RESTAURANT",
+  "name": "Bali Bowls Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/08/f9/b2/mes-choix-islander-a.jpg",
+  "awards": [],
+  "rankingPosition": "90",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": null,
+  "address": "18 Place Georges Clemenceau, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Saine",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [],
+  "latitude": "43.48187",
+  "longitude": "-1.55982",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10534861-Reviews-Bali_Bowls-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://balibowlsbiarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 3 sur 13 Desserts à Biarritz",
+  "numberOfReviews": 106,
+  "reviews": []
+},
+{
+  "id": "2286546",
+  "type": "RESTAURANT",
+  "name": "La Cantine d'Eugenie",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/86/26/d2/la-terrasse-sur-la-place.jpg",
+  "awards": [],
+  "rankingPosition": "87",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 54 70",
+  "address": "5 Place Sainte-Eugénie Côté Eglise Sainte Eugénie, et Sortie du Parking, 64200 Biarritz France",
+  "email": "marcsallefranque@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1425
+      }
+    ]
+  ],
+  "latitude": "43.482197",
+  "longitude": "-1.56416",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d2286546-Reviews-La_Cantine_d_Eugenie-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": null,
+  "rankingDenominator": "291",
+  "rankingString": "Nº 85 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 178,
+  "reviews": []
+},
+{
+  "id": "17780574",
+  "type": "RESTAURANT",
+  "name": "Café No.4 Coffee Station Petit Grand Déjeuner Goûter Biarritz ",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/f1/f1/6d/no-4-coffee-station.jpg",
+  "awards": [],
+  "rankingPosition": "82",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 24 33 31 24",
+  "address": "4 Avenue Jaulerry, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Café",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [],
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ]
+  ],
+  "latitude": "43.480755",
+  "longitude": "-1.560215",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d17780574-Reviews-No4_Coffee_Station-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "https://www.facebook.com/no.4coffeestation/?ref=page_internal",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 80 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 52,
+  "reviews": []
+},
+{
+  "id": "14050144",
+  "type": "RESTAURANT",
+  "name": "Restaurant Poissons Crustacés Crêpes Cristal Kfe Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/e7/fd/c1/20180506-131705-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "81",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 35 39 73 69",
+  "address": "15 rue du Port Vieux, 64200 Biarritz France",
+  "email": "restobounty@hotmail.fr",
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Fruits de mer & Poisson"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.481884",
+  "longitude": "-1.566692",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d14050144-Reviews-Cristal_Kfe-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/cristalkfe/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 79 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 200,
+  "reviews": []
+},
+{
+  "id": "1333601",
+  "type": "RESTAURANT",
+  "name": "La Petite Plage",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/13/06/f4/salle-du-restaurant.jpg",
+  "awards": [],
+  "rankingPosition": "86",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 88 98",
+  "address": "Plage du Port Vieux, 64200 Biarritz France",
+  "email": "biarritz@restaurant-lapetiteplage.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.482437",
+  "longitude": "-1.567413",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1333601-Reviews-La_Petite_Plage-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://restaurant-lapetiteplage-biarritz.com/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 84 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 806,
+  "reviews": []
+},
+{
+  "id": "3163872",
+  "type": "RESTAURANT",
+  "name": "Le Comptoir du Foie Gras Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/b3/b0/f5/pinxos-for-a-euro.jpg",
+  "awards": [],
+  "rankingPosition": "84",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 22 57 42",
+  "address": "1 Rue du Centre, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Espagnole",
+    "Bar à vins"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1560
+      },
+      {
+        "open": 1020,
+        "close": 1380
+      }
+    ],
+    [],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      },
+      {
+        "open": 1020,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      },
+      {
+        "open": 1020,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      },
+      {
+        "open": 1020,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      },
+      {
+        "open": 1020,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1560
+      },
+      {
+        "open": 1020,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.480965",
+  "longitude": "-1.56245",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3163872-Reviews-Le_Comptoir_Du_Foie_Gras-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aq.html",
+  "website": "http://www.facebook.com/cfgbiarritz",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 82 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 470,
+  "reviews": []
+},
+{
+  "id": "1517294",
+  "type": "RESTAURANT",
+  "name": "Palais de Jade Biarritz",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/00/e1/dd/bo-bun.jpg",
+  "awards": [],
+  "rankingPosition": "89",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 64 33",
+  "address": "2 Avenue de la Reine Victoria, 64200 Biarritz France",
+  "email": null,
+  "cuisine": [
+    "Chinoise",
+    "Asiatique",
+    "Thaï",
+    "Vietnamienne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.485233",
+  "longitude": "-1.556069",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d1517294-Reviews-Palais_de_Jade-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/palaisdejade/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 87 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 366,
+  "reviews": []
+},
+{
+  "id": "3538625",
+  "type": "RESTAURANT",
+  "name": "Le Sin",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/30/86/1d/dedans-dehors.jpg",
+  "awards": [],
+  "rankingPosition": "88",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 47 82 89",
+  "address": "1 Av. de la Plage, 64200 Biarritz France",
+  "email": "restaurant.lesin@orange.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.462574",
+  "longitude": "-1.573558",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d3538625-Reviews-Le_Sin-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://lesin.com",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 86 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 272,
+  "reviews": []
+},
+{
+  "id": "10276229",
+  "type": "RESTAURANT",
+  "name": "Bar-Restaurant Les Baigneuses",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/16/64/a5/a1/caption.jpg",
+  "awards": [],
+  "rankingPosition": "83",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 24 41 84",
+  "address": "Place du Port Vieux, 64200 Biarritz France",
+  "email": "lesbaigneuses.biarritz@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 420,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.482307",
+  "longitude": "-1.566855",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187080-d10276229-Reviews-Bar_Restaurant_Les_Baigneuses-Biarritz_Basque_Country_Pyrenees_Atlantiques_Nouve.html",
+  "website": "http://www.lesbaigneusesdebiarritz.com/restaurant-les-baigneuses-biarritz/",
+  "rankingDenominator": "291",
+  "rankingString": "Nº 81 sur 289 Restaurants à Biarritz",
+  "numberOfReviews": 1110,
+  "reviews": []
+}]

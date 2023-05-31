@@ -1,6 +1,7 @@
 import { useState } from "react";
+import ListRestos from "./ListRestos";
 
-const Header = ()=>{
+const Main = (props)=>{
    
     const images = {
         Bayonne : {
@@ -34,11 +35,12 @@ const Header = ()=>{
                 width= "60%"
                 />
             
-            <p>Here is a list of gluten free restaurants in <strong>{city}</strong></p>
+            <p>Here is a list of {props.type} restaurants in <strong>{city}</strong></p>
+            <ListRestos city={city}/>
         </header>
     )
 }
 
-export default Header;
+export default Main;
 
 

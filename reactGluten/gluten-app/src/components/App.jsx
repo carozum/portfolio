@@ -1,14 +1,16 @@
 import '../App.css';
 import Count from './Count';
-import Header from './Header';
+import Main from './Main';
 import Welcome from './Welcome';
 
+
 function App() {
+  let chosenType = "gluten friendly";
 
   return (
     <div className="App">
-      <Welcome type="gluten free" />
-      <Header />
+      <Welcome type = {chosenType} />
+      <Main type= {chosenType}/>
       <Count/>
     </div>
   );

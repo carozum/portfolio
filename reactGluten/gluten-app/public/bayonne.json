@@ -1,0 +1,7220 @@
+[{
+  "id": "4777621",
+  "type": "RESTAURANT",
+  "name": "Cantine du Musée",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/a7/9a/8a/pave-de-merlu-mousseline.jpg",
+  "awards": [],
+  "rankingPosition": "1",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 16 39",
+  "address": "25 Rue Frédéric Bastiat, 64100, Bayonne France",
+  "email": "cantinedumusee-bayonne@hotmail.com",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 735,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 735,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49259",
+  "longitude": "-1.473062",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4777621-Reviews-Cantine_du_Musee-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.cantinedumusee-bayonne.com/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 1 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 316,
+  "reviews": []
+},
+{
+  "id": "17691343",
+  "type": "RESTAURANT",
+  "name": "Piccole Cose",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/80/7e/da/rue.jpg",
+  "awards": [],
+  "rankingPosition": "8",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 48 76 19",
+  "address": "25 Rue D'Espagne, 64100, Bayonne France",
+  "email": "piccolecose.bepf@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Méditerranéenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.489056",
+  "longitude": "-1.477633",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d17691343-Reviews-Piccole_Cose-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.piccolecose.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 8 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 256,
+  "reviews": []
+},
+{
+  "id": "12670136",
+  "type": "RESTAURANT",
+  "name": "Le Camembar",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/d4/d1/ee/interieur-du-restaurant.jpg",
+  "awards": [],
+  "rankingPosition": "3",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 24 33 41 74",
+  "address": "16 Rue Guilhamin, 64100, Bayonne France",
+  "email": "lecamembar@gmail.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.490635",
+  "longitude": "-1.475405",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12670136-Reviews-Le_Camembar-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/lecamembar/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 3 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 196,
+  "reviews": []
+},
+{
+  "id": "14980204",
+  "type": "RESTAURANT",
+  "name": "Garde Manger",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/ca/e6/ac/tartine-de-saumon-marine.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 43 57",
+  "address": "6 Rue Port de Castets, 64100, Bayonne France",
+  "email": "gmbayonne@gmail.com",
+  "cuisine": [
+    "Française",
+    "Internationale",
+    "Saine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 660,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 960
+      }
+    ]
+  ],
+  "latitude": "43.491028",
+  "longitude": "-1.47495",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d14980204-Reviews-Garde_Manger-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.gardemangerbayonne.com/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 120,
+  "reviews": []
+},
+{
+  "id": "10541611",
+  "type": "RESTAURANT",
+  "name": "Bar Basque Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/81/63/3a/this-octopus-and-pepper.jpg",
+  "awards": [],
+  "rankingPosition": "2",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 82 86",
+  "address": "1 Rue d'Espagne, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Espagnole",
+    "Moderne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1425
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1425
+      }
+    ]
+  ],
+  "latitude": "43.488495",
+  "longitude": "-1.47801",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d10541611-Reviews-Bar_Basque-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/BarBasqueBayonne/?ref=page_internal",
+  "rankingDenominator": "246",
+  "rankingString": "N° 2 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 133,
+  "reviews": []
+},
+{
+  "id": "5895237",
+  "type": "RESTAURANT",
+  "name": "Restaurant Goxoki",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/24/7e/21/ee/logo-du-restaurant.jpg",
+  "awards": [],
+  "rankingPosition": "7",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 49 89",
+  "address": "24 Rue Marengo, 64100, Bayonne France",
+  "email": "hourcastagnou@gmail.com",
+  "cuisine": [
+    "Française",
+    "Brasserie gastronomique"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49079",
+  "longitude": "-1.47254",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d5895237-Reviews-Restaurant_Goxoki-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurant-goxoki.fr",
+  "rankingDenominator": "246",
+  "rankingString": "N° 7 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 287,
+  "reviews": []
+},
+{
+  "id": "21006802",
+  "type": "RESTAURANT",
+  "name": "My Little Warung",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/24/f2/47/64/logo-my-little-warung.jpg",
+  "awards": [],
+  "rankingPosition": "6",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 51 85",
+  "address": "40 Quai des Corsaires, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Asiatique",
+    "Thaï",
+    "Vietnamienne",
+    "Indonésienne",
+    "Saine",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.49135",
+  "longitude": "-1.47383",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d21006802-Reviews-My_Little_Warung-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.mylittlewarung.com",
+  "rankingDenominator": "246",
+  "rankingString": "N° 6 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 226,
+  "reviews": []
+},
+{
+  "id": "15613215",
+  "type": "RESTAURANT",
+  "name": "Restaurant L'Inattendu Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/59/50/6a/restaurant-l-inattendu.jpg",
+  "awards": [],
+  "rankingPosition": "5",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 83 44",
+  "address": "23 Rue des Cordeliers, 64100, Bayonne France",
+  "email": "info@linattendubayonne.com",
+  "cuisine": [
+    "Française",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.489315",
+  "longitude": "-1.473175",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d15613215-Reviews-L_inattendu_Bayonne-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.linattendubayonne.com",
+  "rankingDenominator": "246",
+  "rankingString": "N° 5 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 174,
+  "reviews": []
+},
+{
+  "id": "8662104",
+  "type": "RESTAURANT",
+  "name": "La Table |  Sébastien Gravé",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1d/1c/33/b2/produits-de-saison-cuisine.jpg",
+  "awards": [],
+  "rankingPosition": "9",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 46 14 94",
+  "address": "21 Quai Amiral Dubourdieu, 64100, Bayonne France",
+  "email": "contact@latable-sg.fr",
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.491653",
+  "longitude": "-1.474379",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d8662104-Reviews-La_Table_Sebastien_Grave-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqu.html",
+  "website": "http://latable-sebastiengrave.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 9 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 1081,
+  "reviews": []
+},
+{
+  "id": "21321179",
+  "type": "RESTAURANT",
+  "name": "Trattoria Nonna",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/22/03/18/d5/trattoria-nonna-bayonne.jpg",
+  "awards": [],
+  "rankingPosition": "10",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 93 29 90",
+  "address": "11 Rue des Cordeliers, 64100, Bayonne France",
+  "email": "lestroisanaiak@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.489197",
+  "longitude": "-1.473879",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d21321179-Reviews-Trattoria_Nonna-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/profile.php?id=100055662836892",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 10 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 119,
+  "reviews": []
+},
+{
+  "id": "1325276",
+  "type": "RESTAURANT",
+  "name": "La Grange",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/67/f6/bb/la-grange.jpg",
+  "awards": [],
+  "rankingPosition": "15",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 46 17 84",
+  "address": "26 Quai Galuperie, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.490612",
+  "longitude": "-1.473984",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325276-Reviews-La_Grange-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.lagrange-bayonne.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 15 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 861,
+  "reviews": []
+},
+{
+  "id": "12597647",
+  "type": "RESTAURANT",
+  "name": "Janine Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/bb/63/c6/meza-pastar-mi-burguer.jpg",
+  "awards": [],
+  "rankingPosition": "14",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 72 96 08 91",
+  "address": "12 Rue Port de Castets, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.491",
+  "longitude": "-1.475592",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12597647-Reviews-Janine-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://janine.business.site",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 14 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 239,
+  "reviews": []
+},
+{
+  "id": "4080319",
+  "type": "RESTAURANT",
+  "name": "Bakera",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/28/77/9b/bakera.jpg",
+  "awards": [],
+  "rankingPosition": "16",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 51 68",
+  "address": "15 Rue des Tonneliers, 64100, Bayonne France",
+  "email": "byk2@bbox.fr",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.490273",
+  "longitude": "-1.472995",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4080319-Reviews-Bakera-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/bakeraBaiona/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 16 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 947,
+  "reviews": []
+},
+{
+  "id": "1325279",
+  "type": "RESTAURANT",
+  "name": "La Rôtisserie du Roy Léon",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/65/fc/d7/notre-rotissoire-dans.jpg",
+  "awards": [],
+  "rankingPosition": "18",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 55 84",
+  "address": "8 Rue Coursic Corsaire du Roy, 64100, Bayonne France",
+  "email": "rotisserieduroyleon@orange.fr",
+  "cuisine": [
+    "Espagnole",
+    "Française",
+    "Européenne",
+    "Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1200,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.490574",
+  "longitude": "-1.473558",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325279-Reviews-La_Rotisserie_du_Roy_Leon-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aq.html",
+  "website": "http://www.restaurant-bayonne-royleon.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 18 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 408,
+  "reviews": []
+},
+{
+  "id": "3736621",
+  "type": "RESTAURANT",
+  "name": "Chez Martin",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/a7/24/af/chez-martin.jpg",
+  "awards": [],
+  "rankingPosition": "19",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 55 84 41",
+  "address": "29 Rue d'Espagne, 64100, Bayonne France",
+  "email": "chezmartin@orange.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Moderne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1185,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1185,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1185,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48911",
+  "longitude": "-1.477467",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3736621-Reviews-Maison_Martin-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://chezmartin-restaurant.com/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 19 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 416,
+  "reviews": []
+},
+{
+  "id": "2469607",
+  "type": "RESTAURANT",
+  "name": "Restaurant Au Bouchon Basque Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/c2/64/64/plat.jpg",
+  "awards": [],
+  "rankingPosition": "12",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 57 75 18",
+  "address": "2 Rue Paul Pras, 64100, Bayonne France",
+  "email": "aubouchonbasque@gmail.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.485878",
+  "longitude": "-1.475394",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d2469607-Reviews-Au_Bouchon_Basque-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://aubouchonbasque.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 12 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 422,
+  "reviews": []
+},
+{
+  "id": "7696088",
+  "type": "RESTAURANT",
+  "name": "Restaurant Chez Marco",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/9b/59/89/ttoro-soupe-de-poissons.jpg",
+  "awards": [],
+  "rankingPosition": "13",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 24 82",
+  "address": "45 Allees Marines, 64100, Bayonne France",
+  "email": "marc.bonpas@gmail.com",
+  "cuisine": [
+    "Française",
+    "Espagnole",
+    "Bars-restaurants"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    []
+  ],
+  "latitude": "43.49857",
+  "longitude": "-1.487936",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7696088-Reviews-Restaurant_Chez_Marco-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "https://www.facebook.com/chezmarcorestaurantbayonne/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 13 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 304,
+  "reviews": []
+},
+{
+  "id": "8058231",
+  "type": "RESTAURANT",
+  "name": "BBR Burger Bar des Remparts Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/f0/b1/04/bbr-burger-bar-des-remparts.jpg",
+  "awards": [],
+  "rankingPosition": "17",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 42 20 91",
+  "address": "49 Rue des Faures, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Saine",
+    "Américaine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49064",
+  "longitude": "-1.478686",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d8058231-Reviews-Bbr_Burger_Bar_des_Remparts-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_.html",
+  "website": "http://burgerbardesremparts.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 17 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 453,
+  "reviews": []
+},
+{
+  "id": "1325273",
+  "type": "RESTAURANT",
+  "name": "Le Bistrot Itsaski",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/25/23/0b/c8/bistrot-itsaski-bistronomie.jpg",
+  "awards": [],
+  "rankingPosition": "20",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 03 80 21",
+  "address": "43 Quai Amiral Jaureguiberry, 64100, Bayonne France",
+  "email": "daubabertrand@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.489323",
+  "longitude": "-1.474826",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325273-Reviews-Le_Bistrot_Itsaski_Bistronomie_Basque-Bayonne_Basque_Country_Pyrenees_Atlantiques.html",
+  "website": "http://www.lebistrotitsaski.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 20 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 919,
+  "reviews": []
+},
+{
+  "id": "1061659",
+  "type": "RESTAURANT",
+  "name": "Auberge du Cheval Blanc Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/19/35/4e/feuillete-a-la-poire.jpg",
+  "awards": [],
+  "rankingPosition": "11",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 01 33",
+  "address": "68 Rue Bourgneuf, 64100, Bayonne France",
+  "email": "chevalblanc.bayonne@orange.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 810
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1185,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.49084",
+  "longitude": "-1.471799",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1061659-Reviews-Auberge_Du_Cheval_Blanc-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqui.html",
+  "website": "http://www.cheval-blanc-bayonne.com/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 11 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 487,
+  "reviews": []
+},
+{
+  "id": "7994942",
+  "type": "RESTAURANT",
+  "name": "Restaurant Mange Disque et Spot Disques Vinyles Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/66/6b/d2/20160805-151834-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "23",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 29 61 02",
+  "address": "5 Rue des Prébendes Place Monseigneur Vanstenberghe, Cathedrale, 64100, Bayonne France",
+  "email": "mangedisque@outlook.fr",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.490414",
+  "longitude": "-1.477783",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7994942-Reviews-Mange_Disque-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/pages/MANGE-Disque/1527937617462228",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 23 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 177,
+  "reviews": []
+},
+{
+  "id": "1324708",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le Belzunce Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/19/2c/61/37/20190902-124225-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "24",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 66 50",
+  "address": "6 Rue Salie 64100 BAYONNE, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 660,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "43.490276",
+  "longitude": "-1.475556",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1324708-Reviews-Le_Belzunce-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://le-belzunce.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 24 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 280,
+  "reviews": []
+},
+{
+  "id": "2256117",
+  "type": "RESTAURANT",
+  "name": "Restaurant Bajadita",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/34/50/42/hampe-de-boeuf-angus.jpg",
+  "awards": [],
+  "rankingPosition": "29",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 69 52",
+  "address": "37-39 Quai Jaureguiberry 37-39 quai Jaureguiberry, 64100, Bayonne France",
+  "email": "bayonne@bajadita-restaurant.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.489204",
+  "longitude": "-1.474885",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d2256117-Reviews-Bajadita-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.bajadita-restaurant.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 28 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 704,
+  "reviews": []
+},
+{
+  "id": "3912314",
+  "type": "RESTAURANT",
+  "name": "Xurasko",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/92/8a/93/20161109-131526-largejpg.jpg",
+  "awards": [],
+  "rankingPosition": "25",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 21 77",
+  "address": "16 Rue Poissonnerie, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [],
+  "latitude": "43.48973",
+  "longitude": "-1.475315",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3912314-Reviews-Xurasko-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.rezto.net/restaurants/197-le-xurasko",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 25 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 378,
+  "reviews": []
+},
+{
+  "id": "23793685",
+  "type": "RESTAURANT",
+  "name": "Côtes & Mer",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/93/4e/fa/salle-principale.jpg",
+  "awards": [],
+  "rankingPosition": "21",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 58 27 27",
+  "address": "1 Rue Harry Owen Roë, 64100, Bayonne France",
+  "email": "contact.kotenive@gmail.com",
+  "cuisine": [
+    "Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 570,
+        "close": 1020
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.48632",
+  "longitude": "-1.47595",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d23793685-Reviews-Cotes_Mer-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.cotesetmer.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 21 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 133,
+  "reviews": []
+},
+{
+  "id": "6640885",
+  "type": "RESTAURANT",
+  "name": "Le Bistro'Quai",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/ed/29/43/le-bistro-quai.jpg",
+  "awards": [],
+  "rankingPosition": "22",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 56 91 36",
+  "address": "27 Quai Amiral Jaureguiberry, 64100, Bayonne France",
+  "email": "bistro.quai64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.488842",
+  "longitude": "-1.47484",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d6640885-Reviews-Le_Bistro_Quai-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/LeBistroQuai64/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 22 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 369,
+  "reviews": []
+},
+{
+  "id": "13132970",
+  "type": "RESTAURANT",
+  "name": "Au P’ti Bistro Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/db/48/98/caption.jpg",
+  "awards": [],
+  "rankingPosition": "30",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 09 65",
+  "address": "9 Quai Amiral Dubourdieu, 64100, Bayonne France",
+  "email": "auptibistro.bayonne@gmail.com",
+  "cuisine": [
+    "Française",
+    "Bar"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.49127",
+  "longitude": "-1.474586",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d13132970-Reviews-Au_P_ti_Bistro-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/Au-Pti-Bistro-354272495019294/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 29 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 382,
+  "reviews": []
+},
+{
+  "id": "5041903",
+  "type": "RESTAURANT",
+  "name": "La Bottega di Mario Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/b0/24/d5/la-bottega-di-mario.jpg",
+  "awards": [],
+  "rankingPosition": "27",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 15 07",
+  "address": "52 Rue Bourgneuf, 64100, Bayonne France",
+  "email": "damario.gastronomia@gmail.com",
+  "cuisine": [
+    "Pizza",
+    "Italienne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.49111",
+  "longitude": "-1.472442",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d5041903-Reviews-La_Bottega_di_Mario-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "https://www.facebook.com/pages/La-Bottega-Di-Mario",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 27 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 342,
+  "reviews": []
+},
+{
+  "id": "7991157",
+  "type": "RESTAURANT",
+  "name": "Sua Bontá",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/d0/45/e1/sua-bonta.jpg",
+  "awards": [],
+  "rankingPosition": "28",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 81 73 46 19",
+  "address": "22, rue Port Neuf, 64100, Bayonne France",
+  "email": "suabonta@gmail.com",
+  "cuisine": [
+    "Italienne",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.492332",
+  "longitude": "-1.4757",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7991157-Reviews-Sua_Bonta-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.suabonta.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 1 sur 10 Desserts à Bayonne",
+  "numberOfReviews": 154,
+  "reviews": []
+},
+{
+  "id": "14052128",
+  "type": "RESTAURANT",
+  "name": "Restaurant Mexicain El Cartel de Baiona Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/ef/0c/89/un-samedi-soir-au-cartel.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 5,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 9 83 26 28 88",
+  "address": "2 Avenue Léon Bonnat, 64100, Bayonne France",
+  "email": "elcarteldebaiona@gmail.com",
+  "cuisine": [
+    "Mexicaine",
+    "Latino",
+    "Saine",
+    "Amérique centrale",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.494164",
+  "longitude": "-1.476829",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d14052128-Reviews-El_Cartel_de_Baiona-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "https://www.facebook.com/elcarteldebaiona/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 194,
+  "reviews": []
+},
+{
+  "id": "17839559",
+  "type": "RESTAURANT",
+  "name": "Restaurant Produits Terroir Frais Patxamama Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/bc/65/08/tataki-de-thon-patudo.jpg",
+  "awards": [],
+  "rankingPosition": "26",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 11 88",
+  "address": "7 Rue Port de Castets, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.49097",
+  "longitude": "-1.475421",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d17839559-Reviews-Patxamama-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/Patxamama64/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 26 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 84,
+  "reviews": []
+},
+{
+  "id": "12395806",
+  "type": "RESTAURANT",
+  "name": "Bistro Toqué",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/bb/3d/8f/les-toque-vous-recoivent.jpg",
+  "awards": [],
+  "rankingPosition": "4",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 55 48 98",
+  "address": "6 Avenue Léon Bonnat, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Brasserie gastronomique",
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ]
+  ],
+  "latitude": "43.494244",
+  "longitude": "-1.477411",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12395806-Reviews-Bistro_Toque_Bayonne-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "http://bistro-toque-bayonne.fr",
+  "rankingDenominator": "246",
+  "rankingString": "N° 4 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 389,
+  "reviews": []
+},
+{
+  "id": "3703013",
+  "type": "RESTAURANT",
+  "name": "Restaurant Bar Tapas Le Victor Hugo Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/cc/f7/95/le-victor-hugo.jpg",
+  "awards": [],
+  "rankingPosition": "38",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 62 26",
+  "address": "1 Rue Victor Hugo, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.492123",
+  "longitude": "-1.47436",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3703013-Reviews-Le_Victor_Hugo-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.levictorhugobayonne.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 37 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 825,
+  "reviews": []
+},
+{
+  "id": "7230295",
+  "type": "RESTAURANT",
+  "name": "Restaurant Un Air 2 Famille Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/28/e6/fc/salle-de-restaurant.jpg",
+  "awards": [],
+  "rankingPosition": "31",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 43 29",
+  "address": "1 Place Louis Pasteur, 64100, Bayonne France",
+  "email": "lamarquenoemie@live.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ]
+  ],
+  "latitude": "43.490383",
+  "longitude": "-1.476561",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7230295-Reviews-Un_Air_2_Famille-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/pages/un-air-2-famille/802847886400798?ref=hl",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 30 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 240,
+  "reviews": []
+},
+{
+  "id": "1326236",
+  "type": "RESTAURANT",
+  "name": "Le Chistera Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/c8/7e/44/salle-chaleureuse.jpg",
+  "awards": [],
+  "rankingPosition": "32",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 25 93",
+  "address": "42 Rue Port Neuf, 64100, Bayonne France",
+  "email": "reservations@lechistera.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "43.491814",
+  "longitude": "-1.476336",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1326236-Reviews-Le_Chistera-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/LeChistera",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 31 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 689,
+  "reviews": []
+},
+{
+  "id": "3538602",
+  "type": "RESTAURANT",
+  "name": "Crêperie à la Bolée Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/6d/19/a5/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "35",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 18 75",
+  "address": "10 Place Louis Pasteur, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.49073",
+  "longitude": "-1.476855",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3538602-Reviews-Creperie_a_la_Bolee-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://www.alabolee.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 34 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 675,
+  "reviews": []
+},
+{
+  "id": "3607063",
+  "type": "RESTAURANT",
+  "name": "Restaurant Traditionnel Produits Terroir 14 Quai Bergeret Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/ed/c2/f7/14-quai-bergeret.jpg",
+  "awards": [],
+  "rankingPosition": "39",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 37 12",
+  "address": "14 Quai Amiral Bergeret, 64100, Bayonne France",
+  "email": "marianne@bayonne-restaurant.fr",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.493294",
+  "longitude": "-1.468303",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3607063-Reviews-14_Quai_Bergeret-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.bayonne-restaurant.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 38 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 130,
+  "reviews": []
+},
+{
+  "id": "7789813",
+  "type": "RESTAURANT",
+  "name": "Restaurant Cassolettes Bar Tapas Kapito café Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/eb/0b/cd/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "37",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "0683354796",
+  "address": "8 Quai Augustin Chaho, 64100, Bayonne France",
+  "email": "dlebaler@orange.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 960
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "open": 660,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.489326",
+  "longitude": "-1.474447",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7789813-Reviews-Kapito_cafe-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.kapitocafe.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 36 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 590,
+  "reviews": []
+},
+{
+  "id": "1325262",
+  "type": "RESTAURANT",
+  "name": "Les Arcades",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/32/c4/47/le-weekend-place-aux.jpg",
+  "awards": [],
+  "rankingPosition": "33",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 33 66",
+  "address": "40 Rue Port Neuf, 64100, Bayonne France",
+  "email": "lesarcadesbayonne@gmail.com",
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Européenne",
+    "Espagnole",
+    "Pub"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 480,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.491882",
+  "longitude": "-1.476264",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325262-Reviews-Les_Arcades-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/lesarcadesbayonne/?ref=br_rs",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 32 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 230,
+  "reviews": []
+},
+{
+  "id": "1325284",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le Pavé Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/3a/6e/44/photo2jpg.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 51 74",
+  "address": "8 Rue des Gouverneurs, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.490875",
+  "longitude": "-1.477647",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325284-Reviews-Le_Pave-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://restaurant-bayonne-lepave.fr",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 361,
+  "reviews": []
+},
+{
+  "id": "23627592",
+  "type": "RESTAURANT",
+  "name": "Influences",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/20/6e/2d/d5/la-langoustine.jpg",
+  "awards": [],
+  "rankingPosition": "40",
+  "priceLevel": null,
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 01 75 04",
+  "address": "19 Rue Vieille Boucherie, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Moderne",
+    "Fusion"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "43.489075",
+  "longitude": "-1.478504",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d23627592-Reviews-Influences-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://restaurant-influences.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 39 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 46,
+  "reviews": []
+},
+{
+  "id": "1838764",
+  "type": "RESTAURANT",
+  "name": "Restaurant Talotegi",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/85/48/10/de-quoi-saliver.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4,
+  "isClosed": true,
+  "isLongClosed": true,
+  "phone": "+33 5 59 59 43 29",
+  "address": "10 Rue des Tonneliers ., 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.49021",
+  "longitude": "-1.473592",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1838764-Reviews-Talotegi-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://restaurant-talotegi-64.com/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 282,
+  "reviews": []
+},
+{
+  "id": "3468883",
+  "type": "RESTAURANT",
+  "name": "Le Bayonnais",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/3a/e1/57/le-bayonnais.jpg",
+  "awards": [],
+  "rankingPosition": "36",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 61 19",
+  "address": "38 quai des Corsaires, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.491302",
+  "longitude": "-1.474121",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3468883-Reviews-Le_Bayonnais-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://lebayonnais.site-solocal.com/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 35 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 505,
+  "reviews": []
+},
+{
+  "id": "10123156",
+  "type": "RESTAURANT",
+  "name": "Les Tontons Flingueurs",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/1e/b6/15/calamar.jpg",
+  "awards": [],
+  "rankingPosition": "34",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 24 63",
+  "address": "7 Quai Amiral Dubourdieu, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Saine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.491196",
+  "longitude": "-1.474639",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d10123156-Reviews-Les_Tontons_Flingueurs-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqui.html",
+  "website": "http://www.les-tontons-flingueurs.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 33 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 770,
+  "reviews": []
+},
+{
+  "id": "3735347",
+  "type": "RESTAURANT",
+  "name": "Restaurant Kalostrape Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/1d/e1/85/partie-bar.jpg",
+  "awards": [],
+  "rankingPosition": "46",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 94 70",
+  "address": "22 Rue Marengo, 64100, Bayonne France",
+  "email": "kalostrape@hotmail.fr",
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [],
+    [
+      {
+        "open": 600,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.490673",
+  "longitude": "-1.472631",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3735347-Reviews-Kalostrape-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.kalostrape.eus",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 44 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 135,
+  "reviews": []
+},
+{
+  "id": "23528158",
+  "type": "RESTAURANT",
+  "name": "Relief",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/20/4b/c1/66/caption.jpg",
+  "awards": [],
+  "rankingPosition": "42",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 93 42 38",
+  "address": "Rue Sainte Catherine 11, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.495598",
+  "longitude": "-1.468791",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d23528158-Reviews-Relief-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.instagram.com/relief_bayonne/?hl=fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 41 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 64,
+  "reviews": []
+},
+{
+  "id": "12817099",
+  "type": "RESTAURANT",
+  "name": "Namaste",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/83/1d/7e/notre-salle-de-30-places.jpg",
+  "awards": [],
+  "rankingPosition": "41",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 35 46 88 22",
+  "address": "20 Rue Pannecau, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Indienne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.489746",
+  "longitude": "-1.473381",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12817099-Reviews-Namaste-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/namastebayonne/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 40 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 90,
+  "reviews": []
+},
+{
+  "id": "7271822",
+  "type": "RESTAURANT",
+  "name": "Bistrot Le Guernika Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/de/db/d3/terrasse-sympa.jpg",
+  "awards": [],
+  "rankingPosition": "43",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 28 69",
+  "address": "5 Rue des Lisses, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 0,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ]
+  ],
+  "latitude": "43.489777",
+  "longitude": "-1.471582",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7271822-Reviews-Bistrot_Le_Guernika-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "https://www.facebook.com/bistrotleguernika/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 42 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 148,
+  "reviews": []
+},
+{
+  "id": "3488236",
+  "type": "RESTAURANT",
+  "name": "Restaurant Bar Pintxos Vins La Karafe Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/26/3f/7a/la-karafe.jpg",
+  "awards": [],
+  "rankingPosition": "47",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 69 26",
+  "address": "25 Quai Jaureguiberry, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Espagnole",
+    "Bar à vins",
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1050,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1050,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1050,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1050,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1050,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1050,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "43.48878",
+  "longitude": "-1.474924",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3488236-Reviews-La_Karafe-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.lakarafe.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 45 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 255,
+  "reviews": []
+},
+{
+  "id": "2219326",
+  "type": "RESTAURANT",
+  "name": "Cidrerie Ttipia",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/17/90/a0/img-20161230-225855-351.jpg",
+  "awards": [],
+  "rankingPosition": "48",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 46 13 31",
+  "address": "27 Rue des Cordeliers, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 1200,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.489304",
+  "longitude": "-1.473008",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d2219326-Reviews-Cidrerie_Ttipia-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://ttipia.364.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 46 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 454,
+  "reviews": []
+},
+{
+  "id": "10751503",
+  "type": "RESTAURANT",
+  "name": "West Farm",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/16/84/29/86/fresh-healthy-food-from.jpg",
+  "awards": [],
+  "rankingPosition": "44",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 45 70 89",
+  "address": "8 Rue Port de Castets, 64100, Bayonne France",
+  "email": "contact@wf.com",
+  "cuisine": [
+    "Française",
+    "Américaine",
+    "Restauration rapide",
+    "Saine",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 705,
+        "close": 930
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 930
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.491",
+  "longitude": "-1.475154",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d10751503-Reviews-West_Farm-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.westfarm.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 1 sur 6 Repas sur le pouce à Bayonne",
+  "numberOfReviews": 220,
+  "reviews": []
+},
+{
+  "id": "1556933",
+  "type": "RESTAURANT",
+  "name": "Bodega Chez Gilles Produits Frais de Saison Bar Tapas Cocktails Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/bd/7c/4f/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "45",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 40 13",
+  "address": "23 Quai Amiral Jauréguiberry, 64100, Bayonne France",
+  "email": "contact@bodegachezgilles.com",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ]
+  ],
+  "latitude": "43.48882",
+  "longitude": "-1.475007",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1556933-Reviews-Bodega_Chez_Gilles-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.bodegachezgilles.com/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 43 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 396,
+  "reviews": []
+},
+{
+  "id": "7214736",
+  "type": "RESTAURANT",
+  "name": "Bistrot Produits Locaux Frais Bar du Marché Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/e7/5c/48/20170408-122600-largejpg_rotated_90.jpg",
+  "awards": [],
+  "rankingPosition": "49",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 22 66",
+  "address": "39 Rue des Basques, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.489586",
+  "longitude": "-1.475534",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7214736-Reviews-Bar_du_Marche-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://fr-fr.facebook.com/pages/Bar-Du-Marche-Bayonne/312326275510623",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 47 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 263,
+  "reviews": []
+},
+{
+  "id": "1325288",
+  "type": "RESTAURANT",
+  "name": "L'Embarcadere",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/9b/cf/0c/russe-au-praline.jpg",
+  "awards": [],
+  "rankingPosition": "50",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 60 13",
+  "address": "15 Quai Amiral Jaureguiberry, 64100, Bayonne France",
+  "email": "restaurant.lembarcadere@yahoo.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Moderne",
+    "Brasserie gastronomique"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.519123",
+  "longitude": "-1.367697",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325288-Reviews-L_Embarcadere-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/lembarcaderebayonne",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 48 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 272,
+  "reviews": []
+},
+{
+  "id": "3540123",
+  "type": "RESTAURANT",
+  "name": "Restaurant Lounge Kfé Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/46/38/78/lounge-kfe.jpg",
+  "awards": [],
+  "rankingPosition": "54",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 70 17 98",
+  "address": "9 Rue Pelletier, 64100, Bayonne France",
+  "email": "loungekfe64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Moderne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 540,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.4889",
+  "longitude": "-1.473636",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3540123-Reviews-Lounge_Kfe-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/LoungeKfe",
+  "rankingDenominator": "246",
+  "rankingString": "N° 54 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 135,
+  "reviews": []
+},
+{
+  "id": "16819799",
+  "type": "RESTAURANT",
+  "name": "Izarrena",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/16/e9/d6/c9/bar-a-vin-tapas.jpg",
+  "awards": [],
+  "rankingPosition": "51",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 31 16 05",
+  "address": "21-19 Rue des Cordeliers, 64100, Bayonne France",
+  "email": "laborde.mikel@gmail.com",
+  "cuisine": [
+    "Française",
+    "Pizza",
+    "Européenne",
+    "Espagnole",
+    "Bar à vins"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ]
+  ],
+  "latitude": "43.489292",
+  "longitude": "-1.473328",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d16819799-Reviews-Izarrena-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://izarrena.com",
+  "rankingDenominator": "246",
+  "rankingString": "N° 51 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 57,
+  "reviews": []
+},
+{
+  "id": "8956545",
+  "type": "RESTAURANT",
+  "name": "Restaurant La Txunga Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/9d/8b/2f/grande-salle.jpg",
+  "awards": [],
+  "rankingPosition": "57",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 35 46 69 98",
+  "address": "29 Avenue du Capitaine Resplandy, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.487663",
+  "longitude": "-1.463889",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d8956545-Reviews-La_Txunga-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://latxungacidrerie.jimdo.com/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 57 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 109,
+  "reviews": []
+},
+{
+  "id": "2705773",
+  "type": "RESTAURANT",
+  "name": "Restaurant Ibaia Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/63/67/03/camembert-roti.jpg",
+  "awards": [],
+  "rankingPosition": "53",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 86 66",
+  "address": "45 Quai Jauréguiberry, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [],
+  "latitude": "43.489365",
+  "longitude": "-1.474919",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d2705773-Reviews-Ibaia-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/ibaiabayonne",
+  "rankingDenominator": "246",
+  "rankingString": "N° 53 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 258,
+  "reviews": []
+},
+{
+  "id": "15130297",
+  "type": "RESTAURANT",
+  "name": "Restaurant Bukit Plats et Desserts Faits Maison Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/e5/44/4e/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "55",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 56 32 45",
+  "address": "62-64 Quai des Corsaires, 64100, Bayonne France",
+  "email": "info@bukit-bayonne.fr",
+  "cuisine": [
+    "Saine",
+    "Asiatique",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1020
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1020
+      }
+    ],
+    [],
+    [
+      {
+        "open": 660,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.492153",
+  "longitude": "-1.47412",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d15130297-Reviews-Bukit-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://bukit-bayonne.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 55 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 151,
+  "reviews": []
+},
+{
+  "id": "1326232",
+  "type": "RESTAURANT",
+  "name": "Restaurant Italien Mona Lisa Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/1b/0f/f0/pizza.jpg",
+  "awards": [],
+  "rankingPosition": "52",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 48 31",
+  "address": "56 Quai Corsaires, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Italienne",
+    "Française",
+    "Méditerranéenne",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1410
+      }
+    ]
+  ],
+  "latitude": "43.49202",
+  "longitude": "-1.47409",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1326232-Reviews-Mona_Lisa-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://pizzeria-bayonne.fr",
+  "rankingDenominator": "246",
+  "rankingString": "N° 52 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 533,
+  "reviews": []
+},
+{
+  "id": "13941977",
+  "type": "RESTAURANT",
+  "name": "Restaurant Fumoir & Co au Feu de Bois Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/c1/81/3d/fumoir-co.jpg",
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "€€ - €€€",
+  "rating": 4.5,
+  "isClosed": true,
+  "isLongClosed": false,
+  "phone": "+33 5 35 39 73 46",
+  "address": "61 Rue Pannecau, 64100, Bayonne France",
+  "email": "fumoirandco@gmail.com",
+  "cuisine": [
+    "Française",
+    "Américaine"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 780
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.4897",
+  "longitude": "-1.47212",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d13941977-Reviews-Fumoir_Co-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/Fumoir-Co-285483251981252/",
+  "rankingDenominator": null,
+  "rankingString": null,
+  "numberOfReviews": 100,
+  "reviews": []
+},
+{
+  "id": "4339472",
+  "type": "RESTAURANT",
+  "name": "Bistro M Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/c7/7c/04/bistro-m.jpg",
+  "awards": [],
+  "rankingPosition": "56",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 15 29 72",
+  "address": "19 Rue Pelletier, 64100, Bayonne France",
+  "email": "salvadounet@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.488903",
+  "longitude": "-1.473221",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4339472-Reviews-Bistro_M-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/bistrombayonne",
+  "rankingDenominator": "246",
+  "rankingString": "N° 56 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 125,
+  "reviews": []
+},
+{
+  "id": "7724851",
+  "type": "RESTAURANT",
+  "name": "Brasserie du Trinquet Saint André Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/45/fa/cf/brandade-de-morue-plat.jpg",
+  "awards": [],
+  "rankingPosition": "63",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 42 43 66",
+  "address": "4 Rue du Jeu de Paume, 64100, Bayonne France",
+  "email": "brasserie@trinquetsaintandre.fr",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.490143",
+  "longitude": "-1.472125",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7724851-Reviews-Brasserie_du_trinquet_Saint_Andre-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nou.html",
+  "website": "https://www.facebook.com/brasseriedutrinquetsaintandrebayonne/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 63 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 93,
+  "reviews": []
+},
+{
+  "id": "24053600",
+  "type": "RESTAURANT",
+  "name": "Pottolo",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/35/fa/5f/caption.jpg",
+  "awards": [],
+  "rankingPosition": "67",
+  "priceLevel": null,
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 60 07 86 04",
+  "address": "7 Rue des Tonneliers, 64100, Bayonne France",
+  "email": "contact@pottolo.fr",
+  "cuisine": [],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d24053600-Reviews-Pottolo-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.instagram.com/pottolo_bayonne/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 67 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 38,
+  "reviews": []
+},
+{
+  "id": "4522163",
+  "type": "RESTAURANT",
+  "name": "Restaurant Basque Bar Tapas Cocktails Le Chaho Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/52/d2/2a/le-chaho.jpg",
+  "awards": [],
+  "rankingPosition": "60",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 15 62 10 43",
+  "address": "4 Rue des Cordeliers, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Internationale"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.48875",
+  "longitude": "-1.473975",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4522163-Reviews-Le_chaho-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/creperiebasque.lechaho",
+  "rankingDenominator": "246",
+  "rankingString": "N° 60 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 143,
+  "reviews": []
+},
+{
+  "id": "7933046",
+  "type": "RESTAURANT",
+  "name": "Restaurant des Basses Pyrénées Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/d3/15/11/plat.jpg",
+  "awards": [],
+  "rankingPosition": "59",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 70 88",
+  "address": "1 Place des Victoires, 64100, Bayonne France",
+  "email": "contact@hoteldesbassespyrennes.com",
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.488575",
+  "longitude": "-1.477196",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7933046-Reviews-Restaurant_des_Basses_Pyrenees-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvel.html",
+  "website": "http://www.hoteldesbassespyrenees.com/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 59 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 140,
+  "reviews": []
+},
+{
+  "id": "1325268",
+  "type": "RESTAURANT",
+  "name": "Chez Txotx",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/0c/04/2a/vista-de-la-terraza-del.jpg",
+  "awards": [],
+  "rankingPosition": "61",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 3.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 24 33 86 24",
+  "address": "47/49 Quai Amiral Jauréguiberry, 64100, Bayonne France",
+  "email": "sas.txotx.bayonne@gmail.com",
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1365
+      }
+    ]
+  ],
+  "latitude": "43.489555",
+  "longitude": "-1.475015",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325268-Reviews-Chez_Txotx-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurant-txotx.com/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 61 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 813,
+  "reviews": []
+},
+{
+  "id": "15072130",
+  "type": "RESTAURANT",
+  "name": "Brasserie Bar la Treille Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1c/36/40/cc/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "65",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 14 90",
+  "address": "7 Rue des Lisses, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Bar",
+    "Saine",
+    "Pub"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 420,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.490894",
+  "longitude": "-1.471805",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d15072130-Reviews-Brasserie_la_Treille-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquita.html",
+  "website": "http://www.facebook.com/BarLaTreille",
+  "rankingDenominator": "246",
+  "rankingString": "N° 65 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 43,
+  "reviews": []
+},
+{
+  "id": "4421422",
+  "type": "RESTAURANT",
+  "name": "Café Moka Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/b7/99/6b/cafe-moka.jpg",
+  "awards": [],
+  "rankingPosition": "58",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 21 03",
+  "address": "6 Rue des Lisses, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Café",
+    "Bar",
+    "Espagnole",
+    "Pub"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.48987",
+  "longitude": "-1.471597",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4421422-Reviews-Cafe_Moka-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "246",
+  "rankingString": "N° 58 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 74,
+  "reviews": []
+},
+{
+  "id": "19623215",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le Carré",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/66/fa/f3/bar-et-partie-lounge.jpg",
+  "awards": [],
+  "rankingPosition": "62",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 85 85 99",
+  "address": "9 Rue Frédéric Bastiat, 64100, Bayonne France",
+  "email": "contact@lecarre.fr",
+  "cuisine": [
+    "Saine",
+    "Moderne",
+    "Pub",
+    "Diner",
+    "Bar à vins",
+    "Brasserie gastronomique",
+    "Bars-restaurants"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 420,
+        "close": 900
+      }
+    ],
+    [],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.492382",
+  "longitude": "-1.472652",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d19623215-Reviews-Restaurant_Le_Carre-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://lecarre.fr",
+  "rankingDenominator": "246",
+  "rankingString": "N° 62 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 67,
+  "reviews": []
+},
+{
+  "id": "23463196",
+  "type": "RESTAURANT",
+  "name": "Bouillon Armand",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/3a/55/8f/bouillon-armand-bayonne.jpg",
+  "awards": [],
+  "rankingPosition": "66",
+  "priceLevel": null,
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 85 00 90 20",
+  "address": "6 Rue Bourgneuf, 64100, Bayonne France",
+  "email": "stevedufau@gmail.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.492256",
+  "longitude": "-1.473502",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d23463196-Reviews-Bouillon_Armand-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.bouillonarmand.com",
+  "rankingDenominator": "246",
+  "rankingString": "N° 66 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 59,
+  "reviews": []
+},
+{
+  "id": "10597767",
+  "type": "RESTAURANT",
+  "name": "Bar Tapas Cocktails Kubata (à Côté Son Restaurant Le Kukubat) Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/15/7d/ba/ef/cocktails-surla-nive.jpg",
+  "awards": [],
+  "rankingPosition": "64",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 6 32 26 51 77",
+  "address": "12 Quai Augustin Chaho, 64100, Bayonne France",
+  "email": "wilz@live.fr",
+  "cuisine": [
+    "Bar",
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 960,
+        "close": 1020
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1740
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ]
+  ],
+  "latitude": "43.48961",
+  "longitude": "-1.474124",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d10597767-Reviews-Kubata-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "246",
+  "rankingString": "N° 64 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 85,
+  "reviews": []
+},
+{
+  "id": "5416511",
+  "type": "RESTAURANT",
+  "name": "Le Cantine",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/c4/63/4c/le-cantine.jpg",
+  "awards": [],
+  "rankingPosition": "74",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 18 22",
+  "address": "13, Rue des Lisses, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.49064",
+  "longitude": "-1.471424",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d5416511-Reviews-Le_Cantine-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/pages/category/French-Restaurant/A-La-Cantine-146656682046465/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 74 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 50,
+  "reviews": []
+},
+{
+  "id": "11804210",
+  "type": "RESTAURANT",
+  "name": "Pitaya Thaï Street Food Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/11/42/4a/decouvrez-les-plats-de.jpg",
+  "awards": [],
+  "rankingPosition": "68",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 64 28 73 92",
+  "address": "2 Rue Pannecau, 64100, Bayonne France",
+  "email": "contact@pitayaresto.fr",
+  "cuisine": [
+    "Asiatique",
+    "Thaï",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.48974",
+  "longitude": "-1.474342",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d11804210-Reviews-Pitaya_Thai_Street_Food-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqu.html",
+  "website": "http://restaurants.pitaya-thaistreetfood.com/bayonne?utm_source=tripadvisor.fr&utm_medium=referral&utm_campaign=directory",
+  "rankingDenominator": "246",
+  "rankingString": "N° 68 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 211,
+  "reviews": []
+},
+{
+  "id": "6522233",
+  "type": "RESTAURANT",
+  "name": "Brasserie Les Arènes",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/e3/2f/70/bar-legumes-crus-cendre.jpg",
+  "awards": [],
+  "rankingPosition": "73",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 12 53",
+  "address": "21 Avenue de la Légion Tchèque, 64100, Bayonne France",
+  "email": "contact@lesarenes.fr",
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Pub"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 420,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1140
+      }
+    ],
+    []
+  ],
+  "latitude": "43.491776",
+  "longitude": "-1.485543",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d6522233-Reviews-Brasserie_Les_Arenes-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.lesarenes.fr",
+  "rankingDenominator": "246",
+  "rankingString": "N° 73 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 54,
+  "reviews": []
+},
+{
+  "id": "11981452",
+  "type": "RESTAURANT",
+  "name": "Brasserie Le Tire-Bouchon",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/69/c1/0a/black-and-white-deco.jpg",
+  "awards": [],
+  "rankingPosition": "71",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 39 63",
+  "address": "41 Rue Victor Hugo Bayonne, 64100, Bayonne France",
+  "email": "contact@letirebouchonbayonne.fr",
+  "cuisine": [
+    "Française",
+    "Bar"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 570,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 960
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 570,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.49111",
+  "longitude": "-1.475734",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d11981452-Reviews-Brasserie_Le_Tire_Bouchon-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_A.html",
+  "website": "http://www.letirebouchonbayonne.fr",
+  "rankingDenominator": "246",
+  "rankingString": "N° 71 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 39,
+  "reviews": []
+},
+{
+  "id": "13197495",
+  "type": "RESTAURANT",
+  "name": "Kitoko",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/22/1f/c3/plat.jpg",
+  "awards": [],
+  "rankingPosition": "69",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 15 32 64",
+  "address": "26 Rue Maubec Avenue de Mounede, 64100, Bayonne France",
+  "email": "restaurantkitoko@hotmail.com",
+  "cuisine": [
+    "Française",
+    "Africaine",
+    "Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.496918",
+  "longitude": "-1.468474",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d13197495-Reviews-Kitoko-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/Kitoko-restaurant-121867691833818/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 69 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 36,
+  "reviews": []
+},
+{
+  "id": "1326234",
+  "type": "RESTAURANT",
+  "name": "Restaurant El Asador Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/a0/6b/be/restaurant-el-asador.jpg",
+  "awards": [],
+  "rankingPosition": "72",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 08 57",
+  "address": "19 Rue Vieille Boucherie, 64100, Bayonne France",
+  "email": "elasador-bayonne@hotmail.com",
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ]
+  ],
+  "latitude": "43.48919",
+  "longitude": "-1.478333",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1326234-Reviews-Restaurant_El_Asador-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.elasador-bayonne.com/",
+  "rankingDenominator": "246",
+  "rankingString": "N° 72 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 183,
+  "reviews": []
+},
+{
+  "id": "5962462",
+  "type": "RESTAURANT",
+  "name": "Café Thé Chocolat Pâtisserie Mokofin Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/ff/c3/83/mokofin.jpg",
+  "awards": [],
+  "rankingPosition": "70",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 04 02",
+  "address": "27 Rue Thiers, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 780
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 960,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.49206",
+  "longitude": "-1.47695",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d5962462-Reviews-Mokofin-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://mokofin.com",
+  "rankingDenominator": "246",
+  "rankingString": "N° 70 sur 303 endroits où manger à Bayonne",
+  "numberOfReviews": 91,
+  "reviews": []
+},
+{
+  "id": "12817205",
+  "type": "RESTAURANT",
+  "name": "Restaurant Vietnamien Sao Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/4d/4e/92/getlstd-property-photo.jpg",
+  "awards": [],
+  "rankingPosition": "75",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 40 39 53 98",
+  "address": "20 Allée Marcel Suarés Place de la Republique, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Asiatique",
+    "Thaï",
+    "Vietnamienne",
+    "Cuisine de rue (street food)",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.495605",
+  "longitude": "-1.469384",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12817205-Reviews-Sao-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://sao-bayonne.business.site",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 73 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 42,
+  "reviews": []
+},
+{
+  "id": "3727205",
+  "type": "RESTAURANT",
+  "name": "Restaurant Sénégalais Chez Bai Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/39/d5/e3/chez-bai.jpg",
+  "awards": [],
+  "rankingPosition": "80",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 46 33",
+  "address": "8 Rue Pontrique, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Africaine",
+    "Internationale"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 660,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.49027",
+  "longitude": "-1.47303",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d3727205-Reviews-Chez_Bai-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": null,
+  "rankingDenominator": "246",
+  "rankingString": "Nº 78 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 62,
+  "reviews": []
+},
+{
+  "id": "1325263",
+  "type": "RESTAURANT",
+  "name": "Café Chala Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/06/ce/21/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "77",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 06 07",
+  "address": "42 Port Neuf, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "43.491875",
+  "longitude": "-1.476311",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325263-Reviews-Cafe_Chala-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.cafe-chala.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 75 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 126,
+  "reviews": []
+},
+{
+  "id": "20295200",
+  "type": "RESTAURANT",
+  "name": "AM Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/26/c6/f4/57/logo.jpg",
+  "awards": [],
+  "rankingPosition": "78",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 50 13 10",
+  "address": "55 Rue Pannecau, 64100, Bayonne France",
+  "email": "am.bayonne@gmail.com",
+  "cuisine": [
+    "Française",
+    "Café",
+    "Bars-restaurants"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1080
+      }
+    ]
+  ],
+  "latitude": "43.489777",
+  "longitude": "-1.472348",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d20295200-Reviews-AM_Bayonne-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.instagram.com/am.bayonne/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 76 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 23,
+  "reviews": []
+},
+{
+  "id": "5449425",
+  "type": "RESTAURANT",
+  "name": "Café du Théâtre Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/c8/8b/5b/carre-de-cochon.jpg",
+  "awards": [],
+  "rankingPosition": "79",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 60 00",
+  "address": "8 Place de la Liberté, 64100, Bayonne France",
+  "email": "cafedutheatrebayonne@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Bar",
+    "Espagnole",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.493103",
+  "longitude": "-1.475092",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d5449425-Reviews-Cafe_Du_Theatre-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://cafe-du-theatre.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 77 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 168,
+  "reviews": []
+},
+{
+  "id": "23598034",
+  "type": "RESTAURANT",
+  "name": "Brasserie Basa",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/4d/95/9c/brasserie-basa-restaurant.jpg",
+  "awards": [],
+  "rankingPosition": "76",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 70 38 06",
+  "address": "74 Rue d'Espagne, 64100, Bayonne France",
+  "email": "contact@brasseriebasa.com",
+  "cuisine": [
+    "Pub",
+    "Brasserie gastronomique",
+    "Bars-restaurants",
+    "Fruits de mer & Poisson",
+    "Barbecue/Grillades"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.490204",
+  "longitude": "-1.476428",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d23598034-Reviews-Brasserie_BASA-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.brasserie-basa.com/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 74 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 58,
+  "reviews": []
+},
+{
+  "id": "8515507",
+  "type": "RESTAURANT",
+  "name": "Kalaka Café Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/99/ad/a3/getlstd-property-photo.jpg",
+  "awards": [],
+  "rankingPosition": "85",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 9 83 39 39 95",
+  "address": "7 Place Pasteur, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.487583",
+  "longitude": "-1.473209",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d8515507-Reviews-Kalaka_Cafe-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "https://www.facebook.com/kalakacafebayonne/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 82 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 101,
+  "reviews": []
+},
+{
+  "id": "1325296",
+  "type": "RESTAURANT",
+  "name": "Tarte Julie",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/46/cb/e7/tarte-julie.jpg",
+  "awards": [],
+  "rankingPosition": "88",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 74 87",
+  "address": "18 Rue Thiers, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus"
+  ],
+  "hours": [],
+  "latitude": "43.492786",
+  "longitude": "-1.476697",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1325296-Reviews-Tarte_Julie-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.restaurantkelim.ch/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 2 sur 5 Thé et café à Bayonne",
+  "numberOfReviews": 109,
+  "reviews": []
+},
+{
+  "id": "23228452",
+  "type": "RESTAURANT",
+  "name": "Bombay Restaurant Indien",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/22/92/af/59/kulfies-a-la-pistache.jpg",
+  "awards": [],
+  "rankingPosition": "86",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": null,
+  "address": "28 Boulevard Alsace Lorraine, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Indienne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.49349",
+  "longitude": "-1.46678",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d23228452-Reviews-Bombay_Restaurant_Indien-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aq.html",
+  "website": null,
+  "rankingDenominator": "246",
+  "rankingString": "Nº 83 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 31,
+  "reviews": []
+},
+{
+  "id": "12838962",
+  "type": "RESTAURANT",
+  "name": "L'Estegi",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/42/91/c3/dos-de-cabillaud-croustillant.jpg",
+  "awards": [],
+  "rankingPosition": "84",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 54 60",
+  "address": "22-24 Quai Galuperie Face au carreau des Halles, au milieu des quais de Nive, secteur piéton, 64100, Bayonne France",
+  "email": "lestegi64@gmail.com",
+  "cuisine": [
+    "Française",
+    "Grillades",
+    "Bars-restaurants",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "43.490517",
+  "longitude": "-1.474131",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d12838962-Reviews-L_Estegi-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://lestegi.business.site/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 81 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 279,
+  "reviews": []
+},
+{
+  "id": "21297731",
+  "type": "RESTAURANT",
+  "name": "Korail",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/14/de/c1/salade-cesar.jpg",
+  "awards": [],
+  "rankingPosition": "87",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 31 72 97",
+  "address": "5 Place pereire Gare de Bayonne, 64100, Bayonne France",
+  "email": "korailcoworking@gmail.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1170
+      }
+    ]
+  ],
+  "latitude": "43.49669",
+  "longitude": "-1.47044",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d21297731-Reviews-Korail-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://korail-bayonne.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 84 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 23,
+  "reviews": []
+},
+{
+  "id": "1326235",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le Bistrot Sainte Cluque Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/be/56/ef/our-evening-visit-to.jpg",
+  "awards": [],
+  "rankingPosition": "83",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 55 82 43",
+  "address": "9 Rue Hugues, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Européenne"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 900
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.49599",
+  "longitude": "-1.470606",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1326235-Reviews-Restaurant_Le_Bistrot_Sainte_Cluque-Bayonne_Basque_Country_Pyrenees_Atlantiques_N.html",
+  "website": "http://www.bayonne-tourisme.com/diffusio/fr/a-voir-a-faire/restaurants-sorties/bars-discotheques/bayonne/le-bistrot-sainte-cluque_TFORESAQU064V5057OK.php",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 80 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 273,
+  "reviews": []
+},
+{
+  "id": "4685973",
+  "type": "RESTAURANT",
+  "name": "Chocolatier cazenave",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/3a/8c/35/chocolatier-cazenave.jpg",
+  "awards": [],
+  "rankingPosition": "81",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 03 16",
+  "address": "19 Rue Port Neuf, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 555,
+        "close": 720
+      },
+      {
+        "open": 840,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 555,
+        "close": 720
+      },
+      {
+        "open": 840,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 555,
+        "close": 720
+      },
+      {
+        "open": 840,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 555,
+        "close": 720
+      },
+      {
+        "open": 840,
+        "close": 1140
+      }
+    ],
+    [
+      {
+        "open": 555,
+        "close": 720
+      },
+      {
+        "open": 840,
+        "close": 1140
+      }
+    ]
+  ],
+  "latitude": "43.492306",
+  "longitude": "-1.4756",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4685973-Reviews-Chocolatier_cazenave-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitai.html",
+  "website": "http://www.chocolats-bayonne-cazenave.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 2 sur 10 Desserts à Bayonne",
+  "numberOfReviews": 233,
+  "reviews": []
+},
+{
+  "id": "4520109",
+  "type": "RESTAURANT",
+  "name": "Chez Katina Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/19/a0/f9/feuillantine-aux-saint.jpg",
+  "awards": [],
+  "rankingPosition": "82",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 37 71 72",
+  "address": "Route de la Gare, 64780, Bayonne France",
+  "email": "contact@chezkatina.fr",
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.233677",
+  "longitude": "-1.304583",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4520109-Reviews-Chez_Katina-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.chezkatina.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 79 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 49,
+  "reviews": []
+},
+{
+  "id": "17696084",
+  "type": "RESTAURANT",
+  "name": "Ragazzi Da Peppone",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/36/70/76/caption.jpg",
+  "awards": [],
+  "rankingPosition": "90",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 33 09 20 42",
+  "address": "19 Rue Thiers, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Italienne",
+    "Toscane",
+    "Italie du Nord",
+    "Italie du Centre",
+    "Italie du Sud"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "43.492607",
+  "longitude": "-1.476485",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d17696084-Reviews-Ragazzi_Da_Peppone-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitain.html",
+  "website": "http://www.groupepeppone.fr/carte",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 86 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 103,
+  "reviews": []
+},
+{
+  "id": "1324040",
+  "type": "RESTAURANT",
+  "name": "Au Peita",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/04/6a/9b/91/au-peita.jpg",
+  "awards": [],
+  "rankingPosition": "89",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 25 41 35",
+  "address": "7 Avenue Capit Resplandy, 64100, Bayonne France",
+  "email": "aupeita64@outlook.com",
+  "cuisine": [
+    "Française",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.48925",
+  "longitude": "-1.466518",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d1324040-Reviews-Au_Peita-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.aupeita.com",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 85 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 84,
+  "reviews": []
+},
+{
+  "id": "16809386",
+  "type": "RESTAURANT",
+  "name": "Sébastien Zozaya",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/16/d7/cf/3e/vitrine.jpg",
+  "awards": [],
+  "rankingPosition": "93",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 55 67 64",
+  "address": "17 Rue de la Poissonnerie Proche du Marché, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.4897",
+  "longitude": "-1.476069",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d16809386-Reviews-Sebastien_Zozaya-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.sebastienzozaya.fr",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 89 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 41,
+  "reviews": []
+},
+{
+  "id": "19175991",
+  "type": "RESTAURANT",
+  "name": "Restaurant Anaiak Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/3b/ef/67/photo0jpg.jpg",
+  "awards": [],
+  "rankingPosition": "95",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 4.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 63 37 17",
+  "address": "48 Quai des Corsaires, 64100, Bayonne France",
+  "email": "Anaiak64@gmail.com",
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      }
+    ]
+  ],
+  "latitude": "43.491596",
+  "longitude": "-1.473797",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d19175991-Reviews-Anaiak-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/Anaiak-117757546291155/?ref=br_rs",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 91 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 37,
+  "reviews": []
+},
+{
+  "id": "7034665",
+  "type": "RESTAURANT",
+  "name": "Cafés Ramuntcho Bayonne",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/8e/6c/88/une-omelette-de-poivrons.jpg",
+  "awards": [],
+  "rankingPosition": "92",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 59 12 37",
+  "address": "Rue du Pilori, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "43.490177",
+  "longitude": "-1.476065",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d7034665-Reviews-Cafes_Ramuntcho-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.facebook.com/pages/Cafe-Ramuntcho-Bayonne/227591074038905",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 88 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 141,
+  "reviews": []
+},
+{
+  "id": "4469404",
+  "type": "RESTAURANT",
+  "name": "Une Bouteille a La Nive",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/d9/63/d9/planche.jpg",
+  "awards": [],
+  "rankingPosition": "94",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": 3.5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 52 03 84",
+  "address": "2, Quai Galuperie, 64100, Bayonne France",
+  "email": null,
+  "cuisine": [
+    "Française",
+    "Bar",
+    "Internationale",
+    "Européenne",
+    "Espagnole"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "43.48993",
+  "longitude": "-1.474215",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d4469404-Reviews-Une_Bouteille_a_la_Nive-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aqui.html",
+  "website": "http://fr-fr.facebook.com/unebouteillealanive",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 90 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 470,
+  "reviews": []
+},
+{
+  "id": "23402303",
+  "type": "RESTAURANT",
+  "name": "Sushiwave",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/75/5a/1a/nigiri-saumon-snacke.jpg",
+  "awards": [],
+  "rankingPosition": "91",
+  "priceLevel": null,
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+33 5 59 55 35 10",
+  "address": "7 Rue Du 49ème Régiment D'infanterie, 64100, Bayonne France",
+  "email": "contact.bayonne@sushiwave.fr",
+  "cuisine": [
+    "Japonaise",
+    "Sushi"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "43.49316",
+  "longitude": "-1.477141",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g187077-d23402303-Reviews-Sushiwave_Bayonne-Bayonne_Basque_Country_Pyrenees_Atlantiques_Nouvelle_Aquitaine.html",
+  "website": "http://www.sushiwave.fr/",
+  "rankingDenominator": "246",
+  "rankingString": "Nº 87 sur 239 Restaurants à Bayonne",
+  "numberOfReviews": 19,
+  "reviews": []
+}]
